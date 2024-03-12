@@ -10,6 +10,10 @@ When developing NLP models it is important to recognize that other Ligurian vari
 
 ## Datasets
 
+### Speech datasets
+
+* [Ligurian Speech Corpus](speech/) is a dataset of speech paired with text, for the purposes of training ASR and similar models. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ### Machine translation
 
 Hosted here:
@@ -19,7 +23,6 @@ Hosted here:
 
 Hosted elsewhere:
 * Google’s [GATITOS](https://github.com/google-research/url-nlp/tree/main/gatitos) dataset is a high-quality multi-way parallel lexicon which includes Ligurian. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
 
 ### Text corpora
 
