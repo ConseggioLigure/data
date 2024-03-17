@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-model href="https://conseggio-ligure.org/zenamt.rng" type="application/relax-ng-syntax"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -14107,6 +14106,1249 @@
           </linkGrp>
           <linkGrp type="documentTranslation">
             <link target="#z240223.m3.l #z240223.m3.i" />
+          </linkGrp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="z240301">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Ediçion do 1º de marso do 2024</title>
+          <author>Fabio Canessa</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="lij" when="2024-03-01">1º de marso do 2024</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title>O Zinâ</title>
+        </seriesStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://ozina.org/2024/03/01/">https://ozina.org/2024/03/01/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:lang="lij">Ediçion do 1º de marso do 2024</head>
+        <div xml:id="z240301.l">
+          <head xml:lang="lij" xml:id="z240301.lh.l">E notiçie da-a Liguria</head>
+          <div xml:id="z240301.l1">
+            <div xml:lang="lij" xml:id="z240301.l1.l">
+              <head xml:lang="lij" xml:id="z240301.l1h.l">
+                <s xml:lang="lij" xml:id="z240301.l1hs1.l">Meghi pubrichi into privou, impugnou a lezze da Liguria</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.l1p.l">
+                <s xml:lang="lij" xml:id="z240301.l1ps1.l">O Governo o l’à impugnou a lezze regionale da zonta Toti ch’a permette a-i meghi dependenti da sanitæ pubrica de travaggiâ inte struttue privæ accreditæ.</s>
+                <s xml:lang="lij" xml:id="z240301.l1ps2.l">Segondo o Conseggio di ministri a saieiva inapplicabile.</s>
+                <s xml:lang="lij" xml:id="z240301.l1ps3.l">«Saivimo beniscimo che a nòstra normativa a poeiva ëse consciderâ in contrasto con quella naçionale – an dito inte un communicato o prescidente Giovanni Toti e l’assessô a-a Sanitæ Angelo Gratarola – ma semmo segui che quella normativa naçionale a segge un di sappelli à quello che ghe veu pe affrontâ e liste d’atteisa».</s>
+                <s xml:lang="lij" xml:id="z240301.l1ps4.l">Deciaraçioin à raffega da l’oppoxiçion à son de «ve l’aivimo dito».</s>
+                <s xml:lang="lij" xml:id="z240301.l1ps5.l">Ma a Cgil ascì a l’à attaccou: «Megio coscì, gh’ea o reisego de un grave conflitto d’interesci».</s>
+                <s xml:lang="lij" xml:id="z240301.l1ps6.l">Ma a Region a va avanti: «Saià a Corte constituçionale à deçidde, retiemo a lezze solo se intervegnià o Governo in sce l’argomento».</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.l1.i">
+              <head xml:lang="ita" xml:id="z240301.l1h.i">
+                <s xml:lang="ita" xml:id="z240301.l1hs1.i">Medici pubblici nel privato, impugnata la legge della Liguria</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.l1p.i">
+                <s xml:lang="ita" xml:id="z240301.l1ps1.i">Il Governo ha impugnato la legge regionale della giunta Toti che permette ai medici dipendenti della sanità pubblica di lavorare nelle strutture private accreditate.</s>
+                <s xml:lang="ita" xml:id="z240301.l1ps2.i">Secondo il Consiglio dei ministri sarebbe inapplicabile.</s>
+                <s xml:lang="ita" xml:id="z240301.l1ps3.i">«Sapevamo benissimo che la nostra normativa poteva essere considerata in contrasto con quella nazionale – hanno detto in un comunicato il presidente Giovanni Toti e l’assessore alla Sanità Angelo Gratarola – ma siamo sicuri che quella normativa nazionale sia uno degli ostacoli a ciò che è necessario per affrontare le liste d’attesa».</s>
+                <s xml:lang="ita" xml:id="z240301.l1ps4.i">Dichiarazioni a raffica dall’opposizione al suono di «ve l’avevamo detto».</s>
+                <s xml:lang="ita" xml:id="z240301.l1ps5.i">Ma anche la Cgil ha attaccato: «Meglio così, c’era il rischio di un grave conflitto di interessi».</s>
+                <s xml:lang="ita" xml:id="z240301.l1ps6.i">Ma la Regione va avanti: «Sarà la Corte costituzionale a decidere, ritireremo la legge solo se interverrà il Governo sul tema».</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.l1hs1.l #z240301.l1hs1.i" />
+            <link target="#z240301.l1ps1.l #z240301.l1ps1.i" />
+            <link target="#z240301.l1ps2.l #z240301.l1ps2.i" />
+            <link target="#z240301.l1ps3.l #z240301.l1ps3.i" />
+            <link target="#z240301.l1ps4.l #z240301.l1ps4.i" />
+            <link target="#z240301.l1ps5.l #z240301.l1ps5.i" />
+            <link target="#z240301.l1ps6.l #z240301.l1ps6.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.l1.l #z240301.l1.i" />
+          </linkGrp>
+          <div xml:id="z240301.l2">
+            <div xml:lang="lij" xml:id="z240301.l2.l">
+              <head xml:lang="lij" xml:id="z240301.l2h.l">
+                <s xml:lang="lij" xml:id="z240301.l2hs1.l">Ponte Morandi, dòppo sëi anni sponta doî neuvi indagæ</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.l2p.l">
+                <s xml:lang="lij" xml:id="z240301.l2ps1.l">À sëi anni da-o deruo do ponte Morandi, ch’o l’à caxonou 43 mòrti, gh’é doî neuvi indagæ pe-a tragedia.</s>
+                <s xml:lang="lij" xml:id="z240301.l2ps2.l">Un o l’é l’inzegnê Fabrizio Noto, ch’o dava a mente a-i conti do progetto de rinfòrso di pilloin 9 e 10: à tiâlo drento into proçesso o l’é stæto un atro inzegnê za imputou, o Emanuele De Angelis, ch’o l’à minsonou into seu longo interrogatöio.</s>
+                <s xml:lang="lij" xml:id="z240301.l2ps3.l">O segondo o l’ea tegnuo pe mòrto da-i investigatoî: o l’é o Agostino Rusca, da-o 1999 a-o 2006 cappo de l’offiçio de manutençioin da direçion do primmo tronco de Autostrade.</s>
+                <s xml:lang="lij" xml:id="z240301.l2ps4.l">I magistrati an lezuo o seu nomme inta lista di testimònni ciammæ da-a defeisa de un imputou e coscì an descoverto ch’o l’ea ancon vivo.</s>
+                <s xml:lang="lij" xml:id="z240301.l2ps5.l">Doî testimònni ascì son stæti indagæ: o Giampiero Giacardi, passou cappo do personale de Autostrade accaxonou de fäsa testimoniansa, e o Andrea Pancani, inzegnê pe longo tempo responsabile do contròllo de Spea in Toscaña, accaxonou de fäso.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.l2.i">
+              <head xml:lang="ita" xml:id="z240301.l2h.i">
+                <s xml:lang="ita" xml:id="z240301.l2hs1.i">Ponte Morandi, dopo sei anni spuntano due nuovi indagati</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.l2p.i">
+                <s xml:lang="ita" xml:id="z240301.l2ps1.i">A sei anni dal crollo di ponte Morandi, che ha causato 43 morti, ci sono due nuovi indagati per la tragedia.</s>
+                <s xml:lang="ita" xml:id="z240301.l2ps2.i">Uno è l’ingegnere Fabrizio Noto, che si occupava dei calcoli del progetto di rinforzo delle pile 9 e 10: a coinvolgerlo nel processo è stato un altro ingegnere già imputato, Emanuele De Angelis, che lo ha citato nel suo lungo interrogatorio.</s>
+                <s xml:lang="ita" xml:id="z240301.l2ps3.i">Il secondo era ritenuto morto dagli investigatori: è Agostino Rusca, dal 1999 al 2006 capo dell’ufficio manutenzioni della direzione del primo tronco di Autostrade.</s>
+                <s xml:lang="ita" xml:id="z240301.l2ps4.i">I magistrati hanno letto il suo nome nella lista dei testimoni chiamati dalla difesa di un imputato e così hanno scoperto che era ancora vivo.</s>
+                <s xml:lang="ita" xml:id="z240301.l2ps5.i">Anche due testimoni sono stati indagati: Giampiero Giacardi, ex capo del personale di Autostrade accusato di falsa testimonianza, e Andrea Pancani, ingegnere a lungo responsabile della sorveglianza di Spea in Toscana, accusato di falso.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.l2hs1.l #z240301.l2hs1.i" />
+            <link target="#z240301.l2ps1.l #z240301.l2ps1.i" />
+            <link target="#z240301.l2ps2.l #z240301.l2ps2.i" />
+            <link target="#z240301.l2ps3.l #z240301.l2ps3.i" />
+            <link target="#z240301.l2ps4.l #z240301.l2ps4.i" />
+            <link target="#z240301.l2ps5.l #z240301.l2ps5.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.l2.l #z240301.l2.i" />
+          </linkGrp>
+          <div xml:id="z240301.l3">
+            <div xml:lang="lij" xml:id="z240301.l3.l">
+              <head xml:lang="lij" xml:id="z240301.l3h.l">
+                <s xml:lang="lij" xml:id="z240301.l3hs1.l">Tempo grammo, a Liguria a fa i conti co-e frañe</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.l3p.l">
+                <s xml:lang="lij" xml:id="z240301.l3ps1.l">A-a fin de un frevâ squæxi de primmaveia a Liguria a l’é stæta torna invexendâ da-o tempo grammo.</s>
+                <s xml:lang="lij" xml:id="z240301.l3ps2.l">L’ægua cheita tutta insemme in sce un terren za imbeviou a l’à produto ben ben de frañe, mascime inte provinse de Zena e Spezza.</s>
+                <s xml:lang="lij" xml:id="z240301.l3ps3.l">Uña, a-i 26 de frevâ, a l’à bloccou a stradda pe-a Ceive de d’ato, lasciando taggiou feua un miggiâ de persoñe e mancando de unna stissa una machina e un autobo pe-i scoläi.</s>
+                <s xml:lang="lij" xml:id="z240301.l3ps4.l">À vegnî zu o l’é stæto o miagion de un scito privou.</s>
+                <s xml:lang="lij" xml:id="z240301.l3ps5.l">Da lì à un giorno a stradda a l’é stæta desbarassâ.</s>
+                <s xml:lang="lij" xml:id="z240301.l3ps6.l">Unn’atra fraña a l’à invaso l’autostradda A10 tra Çelle e Vaze, pe fortuña de neutte.</s>
+                <s xml:lang="lij" xml:id="z240301.l3ps7.l">Torna asciddi inta Stua pe l’interruçion da stradda do Turchin a-o Gnocchetto, averta à senso alternou dòppo quattro giorni.</s>
+                <s xml:lang="lij" xml:id="z240301.l3ps8.l">Problemi inte l’entrotæra de Saña, donde a neive a l’à caxonou un açidente e unna longa coa in sce l’A6.</s>
+                <s xml:lang="lij" xml:id="z240301.l3ps9.l">Allarme da Coldiretti: «Co-a tropicalizzaçion do climma anemmo à reisego de perde e campagne».</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.l3.i">
+              <head xml:lang="ita" xml:id="z240301.l3h.i">
+                <s xml:lang="ita" xml:id="z240301.l3hs1.i">Maltempo, la Liguria fa i conti con le frane</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.l3p.i">
+                <s xml:lang="ita" xml:id="z240301.l3ps1.i">Alla fine di un febbraio quasi primaverile la Liguria è stata nuovamente sconvolta dal maltempo.</s>
+                <s xml:lang="ita" xml:id="z240301.l3ps2.i">La pioggia caduta tutta insieme su un terreno già saturo ha prodotto parecchie frane, soprattutto nelle province di Genova e La Spezia.</s>
+                <s xml:lang="ita" xml:id="z240301.l3ps3.i">Una, il 26 febbraio, ha bloccato la strada per Pieve Ligure alta, lasciando isolate un migliaio di persone e sfiorando un’auto e uno scuolabus.</s>
+                <s xml:lang="ita" xml:id="z240301.l3ps4.i">A cedere è stato il muraglione di un terreno privato.</s>
+                <s xml:lang="ita" xml:id="z240301.l3ps5.i">Dopo un giorno la strada è stata liberata.</s>
+                <s xml:lang="ita" xml:id="z240301.l3ps6.i">Un’altra frana ha invaso l’autostrada A10 tra Celle e Varazze, per fortuna in orario notturno.</s>
+                <s xml:lang="ita" xml:id="z240301.l3ps7.i">Ancora disagi in Valle Stura per l’interruzione della strada del Turchino in località Gnocchetto, aperta a senso unico alternato dopo quattro giorni.</s>
+                <s xml:lang="ita" xml:id="z240301.l3ps8.i">Problemi nell’entroterra di Savona, dove la neve ha provocato un incidente e una lunga coda sulla A6.</s>
+                <s xml:lang="ita" xml:id="z240301.l3ps9.i">Allarme di Coldiretti: «Con la tropicalizzazione del clima rischiamo di perdere le campagne».</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.l3hs1.l #z240301.l3hs1.i" />
+            <link target="#z240301.l3ps1.l #z240301.l3ps1.i" />
+            <link target="#z240301.l3ps2.l #z240301.l3ps2.i" />
+            <link target="#z240301.l3ps3.l #z240301.l3ps3.i" />
+            <link target="#z240301.l3ps4.l #z240301.l3ps4.i" />
+            <link target="#z240301.l3ps5.l #z240301.l3ps5.i" />
+            <link target="#z240301.l3ps6.l #z240301.l3ps6.i" />
+            <link target="#z240301.l3ps7.l #z240301.l3ps7.i" />
+            <link target="#z240301.l3ps8.l #z240301.l3ps8.i" />
+            <link target="#z240301.l3ps9.l #z240301.l3ps9.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.l3.l #z240301.l3.i" />
+          </linkGrp>
+        </div>
+        <div xml:id="z240301.i">
+          <head xml:lang="lij" xml:id="z240301.ih.l">E notiçie da l’Italia</head>
+          <div xml:id="z240301.i1">
+            <div xml:lang="lij" xml:id="z240301.i1.l">
+              <head xml:lang="lij" xml:id="z240301.i1h.l">
+                <s xml:lang="lij" xml:id="z240301.i1hs1.l">Zoeni bacchezzæ à Pisa, o caxo ch’o sciata a politica</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.i1p.l">
+                <s xml:lang="lij" xml:id="z240301.i1ps1.l">Va avanti o ciæto di zoeni bacchezzæ da-a poliçia a-e manifestaçioin pe-a Palestiña à Pisa e Firense a-i 23 de frevâ.</s>
+                <s xml:lang="lij" xml:id="z240301.i1ps2.l">«I bacchi in scî zoeni son un fallimento», l’é intervegnuo o prescidente da Repubrica Sergio Mattarella.</s>
+                <s xml:lang="lij" xml:id="z240301.i1ps3.l">«Chi mette e moen adòsso à un poliçiòtto o l’é un delinquente», o l’à dito o cappo da Lega Matteo Salvini.</s>
+                <s xml:lang="lij" xml:id="z240301.i1ps4.l">«I manifestanti no an dæto nisciun arregòrdo a-a Questua, no an vosciuo dî donde anavan e an refuou a mediaçion», o l’à fæto savei o ministro de l’Interno Matteo Piantedosi che dapeu in parlamento o s’é dito «sciätou» pe-e imagine di scontri, ma o l’à remarcou o «drito da poliçia à no patî di proçesci abrettio».</s>
+                <s xml:lang="lij" xml:id="z240301.i1ps5.l">Da l’oppoxiçion fòrte indignaçion e solidarietæ a-i studenti.</s>
+                <s xml:lang="lij" xml:id="z240301.i1ps6.l">Intanto à Turin a-i 28 de frevâ un gruppo d’antagonisti o l’à assätou unna volante pe çercâ de liberâ un òmmo con 13 condanne destinou à l’estradiçion.</s>
+                <s xml:lang="lij" xml:id="z240301.i1ps7.l">«O l’é un zeugo ch’o peu vegnî ben ben azardou levâ l’arrembo de instituçioin à chi reisega a seu seguessa pe garantî a nòstra», a l’à commentou a prescidente do Conseggio Giorgia Meloni.</s>
+                <s xml:lang="lij" xml:id="z240301.i1ps8.l">«Da-o Mattarella solidarietæ a-i agenti aggredii», se leze inte unna nòtta do Quirinale.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.i1.i">
+              <head xml:lang="ita" xml:id="z240301.i1h.i">
+                <s xml:lang="ita" xml:id="z240301.i1hs1.i">Giovani manganellati a Pisa, il caso che agita la politica</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.i1p.i">
+                <s xml:lang="ita" xml:id="z240301.i1ps1.i">Continua a tenere banco il caso dei ragazzi manganellati dalla polizia alle manifestazioni per la Palestina a Pisa e Firenze il 23 febbraio.</s>
+                <s xml:lang="ita" xml:id="z240301.i1ps2.i">«I manganelli sui ragazzi sono un fallimento», è intervenuto il presidente della Repubblica Sergio Mattarella.</s>
+                <s xml:lang="ita" xml:id="z240301.i1ps3.i">«Chi mette le mani addosso a un poliziotto è un delinquente», ha detto il leader della Lega Matteo Salvini.</s>
+                <s xml:lang="ita" xml:id="z240301.i1ps4.i">«I manifestanti non hanno dato nessun preavviso alla Questura, non hanno voluto dire dove erano diretti e hanno rifiutato la mediazione», ha fatto sapere il ministro dell’Interno Matteo Piantendosi che poi in parlamento si è detto «turbato» per le immagini degli scontri, ma ha rimarcato il «diritto della polizia a non subire processi sommari».</s>
+                <s xml:lang="ita" xml:id="z240301.i1ps5.i">Dall’opposizione forte indignazione e solidarietà agli studenti.</s>
+                <s xml:lang="ita" xml:id="z240301.i1ps6.i">Intanto a Torino il 28 febbraio un gruppo di antagonisti ha assaltato una volante per cercare di liberare un uomo con 13 condanne destinato all’estradizione.</s>
+                <s xml:lang="ita" xml:id="z240301.i1ps7.i">«È un gioco che può diventare molto pericoloso togliere l’appoggio delle istituzioni a chi rischia la propria incolumità per garantire la nostra», ha commentato la presidente del Consiglio Giorgia Meloni.</s>
+                <s xml:lang="ita" xml:id="z240301.i1ps8.i">«Da Mattarella solidarietà agli agenti aggrediti», si legge in una nota del Quirinale.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.i1hs1.l #z240301.i1hs1.i" />
+            <link target="#z240301.i1ps1.l #z240301.i1ps1.i" />
+            <link target="#z240301.i1ps2.l #z240301.i1ps2.i" />
+            <link target="#z240301.i1ps3.l #z240301.i1ps3.i" />
+            <link target="#z240301.i1ps4.l #z240301.i1ps4.i" />
+            <link target="#z240301.i1ps5.l #z240301.i1ps5.i" />
+            <link target="#z240301.i1ps6.l #z240301.i1ps6.i" />
+            <link target="#z240301.i1ps7.l #z240301.i1ps7.i" />
+            <link target="#z240301.i1ps8.l #z240301.i1ps8.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.i1.l #z240301.i1.i" />
+          </linkGrp>
+          <div xml:id="z240301.i2">
+            <div xml:lang="lij" xml:id="z240301.i2.l">
+              <head xml:lang="lij" xml:id="z240301.i2h.l">
+                <s xml:lang="lij" xml:id="z240301.i2hs1.l">Sardegna, a Alessandra Todde a l’é a neuva prescidente</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.i2p.l">
+                <s xml:lang="lij" xml:id="z240301.i2ps1.l">A Alessandra Todde, esponente do Movimento 5 Stelle e candidâ da coaliçion progrescista, a l’à guägno e eleçioin regionale in Sardegna.</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps2.l">Determinante a differensa de pöcassæ 3mia voti da l’avversäio Paolo Truzzu do çentro-drita.</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps3.l">«Son orgoggiosa d’ëse a primma prescidente dònna da Sardegna – a l’à commentou a Todde –.</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps4.l">Dòppo 75 anni semmo arriëscii à rompî sto teito de crestallo».</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps5.l">E ancon, referio a-i fæti de Pisa, «i lapi an respòsto a-i bacchi».</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps6.l">O <hi rend="italic">campo largo</hi>, a l’à azzonto, a l’é «l’unica stradda che se peu percorrî pe mette sciù un progetto druo bon à convinse di elettoî che veuan l’unitæ».</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps7.l">«A l’é unna giornâ ch’a no se peu scordâ», s’é sciallou o Giuseppe Conte, prescidente do M5s.</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps8.l">«Cangia o vento», a l’à azzonto a segrettäia do Pd Elly Schlein.</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps9.l">Rouxie inta maggioransa de governo.</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps10.l">Inte unna nòtta i partii an ammisso d’avei fæto di «erroî».</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps11.l">O Salvini o l’à asseguou: «O governo o l’é stabile».</s>
+                <s xml:lang="lij" xml:id="z240301.i2ps12.l">E o Truzzu o l’à taggiou curto: «A corpa da battòsta a l’é solo che a mæ».</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.i2.i">
+              <head xml:lang="ita" xml:id="z240301.i2h.i">
+                <s xml:lang="ita" xml:id="z240301.i2hs1.i">Sardegna, Alessandra Todde è la nuova presidente</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.i2p.i">
+                <s xml:lang="ita" xml:id="z240301.i2ps1.i">Alessandra Todde, esponente del Movimento 5 Stelle e candidata della coalizione progressista, ha vinto le elezioni regionali in Sardegna.</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps2.i">Determinante la differenza di circa 3mila voti dall’avversario Paolo Truzzu del centrodestra.</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps3.i">«Sono orgogliosa di essere la prima presidente donna della Sardegna – ha commentato Todde –.</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps4.i">Dopo 75 anni siamo riusciti a rompere questo tetto di cristallo».</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps5.i">E ancora, riferendosi ai fatti di Pisa, «le matite hanno risposto ai manganelli».</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps6.i">Il <hi rend="italic">campo largo</hi>, ha aggiunto, è «l’unica strada percorribile per creare un progetto solido in grado di convincere un elettorato che vuole unità».</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps7.i">«È una giornata indimenticabile», ha esultato Giuseppe Conte, presidente del M5s.</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps8.i">«Cambia il vento», ha aggiunto la segretaria del Pd Elly Schlein.</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps9.i">Malumori nella maggioranza di governo.</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps10.i">In una nota i partiti hanno ammesso di aver fatto «errori».</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps11.i">Salvini ha assicurato: «Il governo è stabile».</s>
+                <s xml:lang="ita" xml:id="z240301.i2ps12.i">E Truzzo ha tagliato corto: «La colpa della sconfitta è solo mia».</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.i2hs1.l #z240301.i2hs1.i" />
+            <link target="#z240301.i2ps1.l #z240301.i2ps1.i" />
+            <link target="#z240301.i2ps2.l #z240301.i2ps2.i" />
+            <link target="#z240301.i2ps3.l #z240301.i2ps3.i" />
+            <link target="#z240301.i2ps4.l #z240301.i2ps4.i" />
+            <link target="#z240301.i2ps5.l #z240301.i2ps5.i" />
+            <link target="#z240301.i2ps6.l #z240301.i2ps6.i" />
+            <link target="#z240301.i2ps7.l #z240301.i2ps7.i" />
+            <link target="#z240301.i2ps8.l #z240301.i2ps8.i" />
+            <link target="#z240301.i2ps9.l #z240301.i2ps9.i" />
+            <link target="#z240301.i2ps10.l #z240301.i2ps10.i" />
+            <link target="#z240301.i2ps11.l #z240301.i2ps11.i" />
+            <link target="#z240301.i2ps12.l #z240301.i2ps12.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.i2.l #z240301.i2.i" />
+          </linkGrp>
+          <div xml:id="z240301.i3">
+            <div xml:lang="lij" xml:id="z240301.i3.l">
+              <head xml:lang="lij" xml:id="z240301.i3h.l">
+                <s xml:lang="lij" xml:id="z240301.i3hs1.l">L’Italia a l’é primma pe danni a-i conti de l’Union Europea</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.i3p.l">
+                <s xml:lang="lij" xml:id="z240301.i3ps1.l">L’Italia a l’é o Paise ch’o l’à fæto ciù guasti a-i conti de l’Union Europea: 7,38 milardi d’euro di quæ 5,22 da sfrouxo in sce l’Iva.</s>
+                <s xml:lang="lij" xml:id="z240301.i3ps2.l">À dîlo o l’é o rappòrto in scê attivitæ da Procua europea, un organiximo ch’o travaggia ligou streito a-a Guardia di finansa.</s>
+                <s xml:lang="lij" xml:id="z240301.i3ps3.l">L’Italia a l’é ascì a primma pe investigaçioin inandiæ in scî finançiamenti do Pnrr, ben 179 in sce un totale de 206.</s>
+                <s xml:lang="lij" xml:id="z240301.i3ps4.l">«L’entitæ di sfrouxi che dannezzan i interesci finançiäi de l’Union Europea a se peu ascciæî solo co-a fòrte implicaçion da criminalitæ organizzâ – o l’à dito o cappo da Procua Laura Kövesi –.</s>
+                <s xml:lang="lij" xml:id="z240301.i3ps5.l">A nòstra strategia a dovieiva ëse quella de paralizzâ a seu capaçitæ finançiäia».</s>
+                <s xml:lang="lij" xml:id="z240301.i3ps6.l">O danno astimmou in sciô NextGenerationEU o l’é de 1,8 miliardi areo.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.i3.i">
+              <head xml:lang="ita" xml:id="z240301.i3h.i">
+                <s xml:lang="ita" xml:id="z240301.i3hs1.i">L’Italia è prima per danni al bilancio dell’Unione Europea</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.i3p.i">
+                <s xml:lang="ita" xml:id="z240301.i3ps1.i">L’Italia è il Paese che ha fatto più danni al bilancio dell’Unione Europea: 7,38 miliardi di euro di cui 5,22 da frodi sull’Iva.</s>
+                <s xml:lang="ita" xml:id="z240301.i3ps2.i">A dirlo è il rapporto sulle attività della Procura europea, un organismo che opera in stretto collegamento con la Guardia di finanza.</s>
+                <s xml:lang="ita" xml:id="z240301.i3ps3.i">L’Italia è anche la prima per indagini avviate sui finanziamenti del Pnrr, ben 179 su un totale di 206.</s>
+                <s xml:lang="ita" xml:id="z240301.i3ps4.i">«L’entità delle frodi che danneggiano gli interessi finanziari dell’Unione Europea si può spiegare solo col forte coinvolgimento della criminalità organizzata – ha detto la procuratrice capo Laura Kövesi –.</s>
+                <s xml:lang="ita" xml:id="z240301.i3ps5.i">La nostra strategia dovrebbe essere quella di paralizzare la sua capacità finanziaria».</s>
+                <s xml:lang="ita" xml:id="z240301.i3ps6.i">Il danno stimato sul NextGenerationEU è di 1,8 miliardi in tutto.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.i3hs1.l #z240301.i3hs1.i" />
+            <link target="#z240301.i3ps1.l #z240301.i3ps1.i" />
+            <link target="#z240301.i3ps2.l #z240301.i3ps2.i" />
+            <link target="#z240301.i3ps3.l #z240301.i3ps3.i" />
+            <link target="#z240301.i3ps4.l #z240301.i3ps4.i" />
+            <link target="#z240301.i3ps5.l #z240301.i3ps5.i" />
+            <link target="#z240301.i3ps6.l #z240301.i3ps6.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.i3.l #z240301.i3.i" />
+          </linkGrp>
+        </div>
+        <div xml:id="z240301.m">
+          <head xml:lang="lij" xml:id="z240301.mh.l">E notiçie da-o mondo</head>
+          <div xml:id="z240301.m1">
+            <div xml:lang="lij" xml:id="z240301.m1.l">
+              <head xml:lang="lij" xml:id="z240301.m1h.l">
+                <s xml:lang="lij" xml:id="z240301.m1hs1.l">Gazza, strage de gente in fia pe-i aggiutti: ciù de 100 mòrti</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.m1p.l">
+                <s xml:lang="lij" xml:id="z240301.m1ps1.l">Strage de palestineixi à Gazza tra e persoñe ch’aspëtavan de reçeive di aggiutti umanitäi.</s>
+                <s xml:lang="lij" xml:id="z240301.m1ps2.l">E vittime son 112, atri 700 e passa son restæ ferii.</s>
+                <s xml:lang="lij" xml:id="z240301.m1ps3.l">Segondo e autoritæ locale, l’exerçito isrælian o l’avieiva sparou in scê gente, ma o governo o denega: «Corpi solo pe l’äia, son mòrti inta carca».</s>
+                <s xml:lang="lij" xml:id="z240301.m1ps4.l">A condanna a l’é unanime.</s>
+                <s xml:lang="lij" xml:id="z240301.m1ps5.l">«Un massacro ch’o no se peu açettâ areo», o l’à dito o Josep Borrell, l’erto representante de l’Union europea pe l’Estranxeo.</s>
+                <s xml:lang="lij" xml:id="z240301.m1ps6.l">Pe-i Stati Unii un «açidente grave», o prescidente Biden o l’avverte: «A tregua a l’é à reisego».</s>
+                <s xml:lang="lij" xml:id="z240301.m1ps7.l">O prescidente franseise Macron o l’acciamma o <hi rend="italic">fermæ o feugo</hi> e o domanda «veitæ, giustiçia e rispetto do drito internaçionale».</s>
+                <s xml:lang="lij" xml:id="z240301.m1ps8.l">Intanto Isræle o l’à liberou à sorpreisa 50 prexonê palestineixi e o l’annonçia: «Emmo ammassou 450 terroristi à Gazza inte dexe giorni, 13mia levæ da mezo da l’incomenso da guæra».</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.m1.i">
+              <head xml:lang="ita" xml:id="z240301.m1h.i">
+                <s xml:lang="ita" xml:id="z240301.m1hs1.i">Gaza, strage di persone in fila per gli aiuti: più di 100 morti</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.m1p.i">
+                <s xml:lang="ita" xml:id="z240301.m1ps1.i">Strage di palestinesi a Gaza tra le persone che aspettavano di ricevere aiuti umanitari.</s>
+                <s xml:lang="ita" xml:id="z240301.m1ps2.i">Le vittime sono 112, altri 700 e oltre sono rimasti feriti.</s>
+                <s xml:lang="ita" xml:id="z240301.m1ps3.i">Secondo le autorità locali, l’esercito israeliano avrebbe sparato sulla folle, ma il governo nega: «Colpi solo in aria, sono morti nella calca».</s>
+                <s xml:lang="ita" xml:id="z240301.m1ps4.i">La condanna è unanime.</s>
+                <s xml:lang="ita" xml:id="z240301.m1ps5.i">«Un massacro totalmente inaccettabile», ha detto Josep Borrell, l’alto rappresentante dell’Unione europea per gli Esteri.</s>
+                <s xml:lang="ita" xml:id="z240301.m1ps6.i">Per gli Stati Uniti un «grave incidente», il presidente Biden avverte: «La tregua è a rischio».</s>
+                <s xml:lang="ita" xml:id="z240301.m1ps7.i">Il presidente francese Macron invoca il <hi rend="italic">cessate il fuoco</hi> e chiede «verità, giustizia e rispetto del diritto internazionale».</s>
+                <s xml:lang="ita" xml:id="z240301.m1ps8.i">Intanto Israele ha liberato a sorpresa 50 prigionieri palestinesi e annuncia: «Abbiamo ucciso 450 territoristi a Gaza in dieci giorni, 13mila eliminati dall’inizio della guerra».</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.m1hs1.l #z240301.m1hs1.i" />
+            <link target="#z240301.m1ps1.l #z240301.m1ps1.i" />
+            <link target="#z240301.m1ps2.l #z240301.m1ps2.i" />
+            <link target="#z240301.m1ps3.l #z240301.m1ps3.i" />
+            <link target="#z240301.m1ps4.l #z240301.m1ps4.i" />
+            <link target="#z240301.m1ps5.l #z240301.m1ps5.i" />
+            <link target="#z240301.m1ps6.l #z240301.m1ps6.i" />
+            <link target="#z240301.m1ps7.l #z240301.m1ps7.i" />
+            <link target="#z240301.m1ps8.l #z240301.m1ps8.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.m1.l #z240301.m1.i" />
+          </linkGrp>
+          <div xml:id="z240301.m2">
+            <div xml:lang="lij" xml:id="z240301.m2.l">
+              <head xml:lang="lij" xml:id="z240301.m2h.l">
+                <s xml:lang="lij" xml:id="z240301.m2hs1.l">Ruscia-Nato, se parla de guæra.</s>
+                <s xml:lang="lij" xml:id="z240301.m2hs2.l">O Putin o menassa: «Poemo corpîve»</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.m2p.l">
+                <s xml:lang="lij" xml:id="z240301.m2ps1.l">«Se l’Ucraina a cazze a Nato a l’intrià in guæra co-a Ruscia».</s>
+                <s xml:lang="lij" xml:id="z240301.m2ps2.l">Son e poule do Lloyd Austin, o cappo do Pentagono, tanto che o Putin o l’é tornou a parlâ de «guæra nucleare».</s>
+                <s xml:lang="lij" xml:id="z240301.m2ps3.l">«S’o guägnià semmo ch’o no s’affermià – o l’à azzonto o Austin – e di atri autòcrati saian recoviæ da-o fæto che no semmo arriëscii à sostegnî un Stato democratico».</s>
+                <s xml:lang="lij" xml:id="z240301.m2ps4.l">O prescidente franseise Macron o l’à ipotizzou a presensa de truppe de l’Occidente in Ucraina, ma i Stati Unii, l’Union Europea e i governi di Paixi no son d’accòrdio.</s>
+                <s xml:lang="lij" xml:id="z240301.m2ps5.l">Inte un scenäio pægio un conflitto drito co-a Nato o no se porrieiva schivâ, o l’à replicou o Cremlin.</s>
+                <s xml:lang="lij" xml:id="z240301.m2ps6.l">«Poemo corpîve e no se retiemo mai da l’Ucraina», o l’à menassou o Putin.</s>
+                <s xml:lang="lij" xml:id="z240301.m2ps7.l">À Mosca 3mia persoñe an parteçipou a-o morteuio do Alexei Navalny: «A Ruscia a saià libera», an sbraggiou çerti feua da-a gexa.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.m2.i">
+              <head xml:lang="ita" xml:id="z240301.m2h.i">
+                <s xml:lang="ita" xml:id="z240301.m2hs1.i">Russia-Nato, si parla di guerra.</s>
+                <s xml:lang="ita" xml:id="z240301.m2hs2.i">Putin minaccia: «Possiamo colpirvi»</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.m2p.i">
+                <s xml:lang="ita" xml:id="z240301.m2ps1.i">«Se l’Ucraina cade la Nato entrerà in guerra con la Russia».</s>
+                <s xml:lang="ita" xml:id="z240301.m2ps2.i">Sono le parole di Lloyd Austin, il capo del Pentagono, mentre Putin è tornato a parlare di «guerra nucleare».</s>
+                <s xml:lang="ita" xml:id="z240301.m2ps3.i">«Se vincerà sappiamo che non si fermerà – ha aggiunto Austin – e altri autocrati saranno incoraggiati dal fatto che non siamo riusciti a sostenere uno Stato democratico».</s>
+                <s xml:lang="ita" xml:id="z240301.m2ps4.i">Il presidente francese Macron ha ipotizzato la presenza di truppe dell’Occidente in Ucraina, ma gli Stati Uniti, l’Unione Europea e i governi dei Paesi non sono d’accordo.</s>
+                <s xml:lang="ita" xml:id="z240301.m2ps5.i">In uno scenario simile un conflitto diretto con la Nato sarebbe inevitabile, ha replicato il Cremlino.</s>
+                <s xml:lang="ita" xml:id="z240301.m2ps6.i">«Possiamo colpirvi e non ci ritireremo mai dall’Ucraina», ha minacciato Putin.</s>
+                <s xml:lang="ita" xml:id="z240301.m2ps7.i">A Mosca 3mila persone hanno partecipato al funerale di Alexei Navalny: «La Russia sarà libera», hanno urlato alcuni fuori dalla chiesa.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.m2hs1.l #z240301.m2hs1.i" />
+            <link target="#z240301.m2hs2.l #z240301.m2hs2.i" />
+            <link target="#z240301.m2ps1.l #z240301.m2ps1.i" />
+            <link target="#z240301.m2ps2.l #z240301.m2ps2.i" />
+            <link target="#z240301.m2ps3.l #z240301.m2ps3.i" />
+            <link target="#z240301.m2ps4.l #z240301.m2ps4.i" />
+            <link target="#z240301.m2ps5.l #z240301.m2ps5.i" />
+            <link target="#z240301.m2ps6.l #z240301.m2ps6.i" />
+            <link target="#z240301.m2ps7.l #z240301.m2ps7.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.m2.l #z240301.m2.i" />
+          </linkGrp>
+          <div xml:id="z240301.m3">
+            <div xml:lang="lij" xml:id="z240301.m3.l">
+              <head xml:lang="lij" xml:id="z240301.m3h.l">
+                <s xml:lang="lij" xml:id="z240301.m3hs1.l">Agricoltoî, a protesta di trattoî a va avanti in Euröpa</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240301.m3p.l">
+                <s xml:lang="lij" xml:id="z240301.m3ps1.l">No s’afferma in Euröpa a protesta di agricoltoî che manifestan delongo co-i trattoî inte stradde contra l’Union Europea.</s>
+                <s xml:lang="lij" xml:id="z240301.m3ps2.l">Momenti de tenscion à Bruxelles in occaxon da riunion di ministri de l’Agricoltua con feughi e scceuppi: a poliçia a l’à addeuviou i idranti ma anche i lacrimògeni.</s>
+                <s xml:lang="lij" xml:id="z240301.m3ps3.l">De euve son stæte tiæ contra un palaçio, a stradda pe l’airopòrto a l’é stæta bloccâ, 900 i mezzi ch’an parteçipou.</s>
+                <s xml:lang="lij" xml:id="z240301.m3ps4.l">A mobilitaçion a va avanti in Fransa ascì, donde i componenti da Coordination rurale son anæti in çimma a-i Champs-Elysées à sbandëtâ da mezo a-e balle de fen.</s>
+                <s xml:lang="lij" xml:id="z240301.m3ps5.l">Vexin à l’Erco de Trionfo a poliçia a l’à fermou 66 persoñe, tra e quæ ghe saieiva anche o Patrick Legras, un di organizzatoî de l’iniçiativa à Pariggi.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240301.m3.i">
+              <head xml:lang="ita" xml:id="z240301.m3h.i">
+                <s xml:lang="ita" xml:id="z240301.m3hs1.i">Agricoltori, la protesta dei trattori continua in Europa</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240301.m3p.i">
+                <s xml:lang="ita" xml:id="z240301.m3ps1.i">Non si ferma in Europa la protesta degli agricoltori che continuano a manifestare coi trattori nelle strade contro l’Unione Europea.</s>
+                <s xml:lang="ita" xml:id="z240301.m3ps2.i">Momenti di tensione a Bruxelles in occasione della riunione dei ministri dell’Agricoltura con incendi ed esplosioni: la polizia ha usato gli idranti ma anche i lacrimogeni.</s>
+                <s xml:lang="ita" xml:id="z240301.m3ps3.i">Delle uova sono state lanciate contro un palazzo, la strada per l’aeroporto è stata bloccata, 900 i mezzi che hanno partecipato.</s>
+                <s xml:lang="ita" xml:id="z240301.m3ps4.i">La mobilitazione va avanti anche in Francia, dove i membri della <hi rend="italic">Coordination rurale</hi> sono andati in cima agli Champs-Elysées a sventolare bandiere in mezzo alle balle di fieno.</s>
+                <s xml:lang="ita" xml:id="z240301.m3ps5.i">Vicino all’Arco di Trionfo la polizia ha fermato 66 persone, tra cui ci sarebbe anche Patrick Legras, uno degli organizzatori dell’iniziativa a Parigi.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240301.m3hs1.l #z240301.m3hs1.i" />
+            <link target="#z240301.m3ps1.l #z240301.m3ps1.i" />
+            <link target="#z240301.m3ps2.l #z240301.m3ps2.i" />
+            <link target="#z240301.m3ps3.l #z240301.m3ps3.i" />
+            <link target="#z240301.m3ps4.l #z240301.m3ps4.i" />
+            <link target="#z240301.m3ps5.l #z240301.m3ps5.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240301.m3.l #z240301.m3.i" />
+          </linkGrp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="z240308">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Ediçion di 8 de marso do 2024</title>
+          <author>Fabio Canessa</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="lij" when="2024-03-08">8 de marso do 2024</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title>O Zinâ</title>
+        </seriesStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://ozina.org/2024/03/08/">https://ozina.org/2024/03/08/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:lang="lij">Ediçion di 8 de marso do 2024</head>
+        <div xml:id="z240308.l">
+          <head xml:lang="lij" xml:id="z240308.lh.l">E notiçie da-a Liguria</head>
+          <div xml:id="z240308.l1">
+            <div xml:lang="lij" xml:id="z240308.l1.l">
+              <head xml:lang="lij" xml:id="z240308.l1h.l">
+                <s xml:lang="lij" xml:id="z240308.l1hs1.l">Tunnel sotta o pòrto, partio i travaggi: «Pronto do 2029»</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.l1p.l">
+                <s xml:lang="lij" xml:id="z240308.l1ps1.l">L’é partio i travaggi pe-o tunnel sotta o pòrto de Zena.</s>
+                <s xml:lang="lij" xml:id="z240308.l1ps2.l">A-a çeimònia in pòrto sotta a Lanterna, donde l’é comensou a demoliçion do primmo cabannon, l’à parteçipou i ministri Matteo Salvini e Matteo Piantedosi.</s>
+                <s xml:lang="lij" xml:id="z240308.l1ps3.l">Segondo e previxoin d’Autostrade, ch’a construià o tunnel co-a seu soçietæ Amplia, a neuva stradda a l’arvià a-o traffego inte l’agosto do 2029.</s>
+                <s xml:lang="lij" xml:id="z240308.l1ps4.l">I costi son montæ da-i 700 mioin de l’accòrdio originale à pöcassæ un miliardo.</s>
+                <s xml:lang="lij" xml:id="z240308.l1ps5.l">E a Sorvelevâ?</s>
+                <s xml:lang="lij" xml:id="z240308.l1ps6.l">«Son doe cöse despæge – o l’à dito o scindico Marco Bucci – quande ghe saià o tunnel a çittæ a deçiddià s’a vorrià tegnîla».</s>
+                <s xml:lang="lij" xml:id="z240308.l1ps7.l">O prescidente ligure Giovanni Toti o l’à pròposto de dedicâ o tunnel a-e 43 vittime do deruo do ponte Morandi: «O l’é un passo avanti piccin da quella tragedia».</s>
+                <s xml:lang="lij" xml:id="z240308.l1ps8.l">Unna frase ch’a l’à fæto arraggiâ i pænti de vittime: «Ghe semmo arrestæ, no porriemo mai açettâlo – a l’à commentou a prescidente do comitato Egle Possetti –.</s>
+                <s xml:lang="lij" xml:id="z240308.l1ps9.l">I dinæ pe fâ quello travaggio son parte de un accòrdio ch’o mette fin à unna presensa fòrte de instituçioin into proçesso, unn’atra de vergheugne de sti anni».</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.l1.i">
+              <head xml:lang="ita" xml:id="z240308.l1h.i">
+                <s xml:lang="ita" xml:id="z240308.l1hs1.i">Tunnel subportuale, partiti i lavori: «Pronto nel 2029»</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.l1p.i">
+                <s xml:lang="ita" xml:id="z240308.l1ps1.i">Sono iniziati i lavori per il tunnel subportuale di Genova.</s>
+                <s xml:lang="ita" xml:id="z240308.l1ps2.i">Alla cerimonia in porto sotto la Lanterna, dove è iniziata la demolizione del primo capannone, hanno partecipato i ministri Matteo Salvini e Matteo Piantendosi.</s>
+                <s xml:lang="ita" xml:id="z240308.l1ps3.i">Secondo le previsioni di Autostrade, che costruirà il tunnel con la sua società Amplia, la nuova strada aprirà al traffico nell’agosto 2029.</s>
+                <s xml:lang="ita" xml:id="z240308.l1ps4.i">I costi sono aumentati dai 700 milioni dell’accordo originale a circa un miliardo.</s>
+                <s xml:lang="ita" xml:id="z240308.l1ps5.i">E la Sopraelevata?</s>
+                <s xml:lang="ita" xml:id="z240308.l1ps6.i">«Sono due cose diverse – ha detto il sindaco Marco Bucci – quando ci sarà il tunnl la città deciderà se vorrà tenerla».</s>
+                <s xml:lang="ita" xml:id="z240308.l1ps7.i">Il presidente ligure Giovanni Toti ha proposto di dedicare il tunnel alle 43 vittime del crollo del ponte Morandi: «È un piccolo passo avanti rispetto a quella tragedia».</s>
+                <s xml:lang="ita" xml:id="z240308.l1ps8.i">Una frase che ha fatto arrabbiare i parenti delle vittime: «Siamo allibiti, non potremo mai accettarlo – ha commentato la presidente del comitato Egle Possetti –.</s>
+                <s xml:lang="ita" xml:id="z240308.l1ps9.i">I soldi per realizzare quell’opera sono parte di un accordo che mette fine a una presenza forte delle istituzioni nel processo, un’altra delle vergogne di questi anni».</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.l1hs1.l #z240308.l1hs1.i" />
+            <link target="#z240308.l1ps1.l #z240308.l1ps1.i" />
+            <link target="#z240308.l1ps2.l #z240308.l1ps2.i" />
+            <link target="#z240308.l1ps3.l #z240308.l1ps3.i" />
+            <link target="#z240308.l1ps4.l #z240308.l1ps4.i" />
+            <link target="#z240308.l1ps5.l #z240308.l1ps5.i" />
+            <link target="#z240308.l1ps6.l #z240308.l1ps6.i" />
+            <link target="#z240308.l1ps7.l #z240308.l1ps7.i" />
+            <link target="#z240308.l1ps8.l #z240308.l1ps8.i" />
+            <link target="#z240308.l1ps9.l #z240308.l1ps9.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.l1.l #z240308.l1.i" />
+          </linkGrp>
+          <div xml:id="z240308.l2">
+            <div xml:lang="lij" xml:id="z240308.l2.l">
+              <head xml:lang="lij" xml:id="z240308.l2h.l">
+                <s xml:lang="lij" xml:id="z240308.l2hs1.l">Mòrte da Camilla Canepa pe-a vacciña, çinque meghi indagæ</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.l2p.l">
+                <s xml:lang="lij" xml:id="z240308.l2ps1.l">Gh’é çinque indagæ pe-a mòrte da Camilla Canepa, a figgia de 18 anni ch’a l’à perso a vitta do 2021 dòppo vaccinâ contra o Covid con l’Astrazeneca à un di <hi rend="italic">open day</hi> organizzæ pe-i zoeni.</s>
+                <s xml:lang="lij" xml:id="z240308.l2ps2.l">Son tutti meghi do pronto soccorso de Lavagna, accaxonæ de no avei fæto tutti i açertamenti previsti da-o protocòllo sanitäio pe descrovî a tromböxi ch’a l’aiva corpia, unna proçedua ch’a gh’avieiva permisso de sarvâse.</s>
+                <s xml:lang="lij" xml:id="z240308.l2ps3.l">A Procua a l’ipotizza l’ammassamento corposo e o fäso ideològico: saivan che a Repetto a s’ea vaccinâ con l’Astrazeneca ma no l’an scrito inta cartella clinica.</s>
+                <s xml:lang="lij" xml:id="z240308.l2ps4.l">L’autopscia, pe contra, a l’aiva ascciæio che a mòrte a l’ea stæta caxonâ da-a vacciña, somministrâ a-i 25 de mazzo.</s>
+                <s xml:lang="lij" xml:id="z240308.l2ps5.l">A-i 3 de zugno a s’ea sentia mâ, o giorno apreuvo gh’an fæto unna Tac sensa contrasto e l’an dimissa.</s>
+                <s xml:lang="lij" xml:id="z240308.l2ps6.l">A-i 5 a l’ea za a-o San Martin de Zena in condiçioin despiæ, a-i 10 a l’é mòrta.</s>
+                <s xml:lang="lij" xml:id="z240308.l2ps7.l">Oua i indagæ an 20 giorni pe presentâ de memöie e fâse interrogâ, dapeu i pm porrian domandâ de mandâli à giudiçio.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.l2.i">
+              <head xml:lang="ita" xml:id="z240308.l2h.i">
+                <s xml:lang="ita" xml:id="z240308.l2hs1.i">Morte di Camilla Canepa per il vaccino, cinque medici indagati</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.l2p.i">
+                <s xml:lang="ita" xml:id="z240308.l2ps1.i">Ci sono cinque indagati per la morte di Camilla Canepa, la ragazza di 18 anni che ha perso la vita nel 2021 dopo essere stata vaccinata contro il Covid con Astrazeneca a uno degli <hi rend="italic">open day</hi> organizzati per i giovani.</s>
+                <s xml:lang="ita" xml:id="z240308.l2ps2.i">Sono tutti medici del pronto soccorso di Lavagna, accusati di non aver compiuto tutti gli accertamenti previsti dal protocollo sanitario per scoprire la trombosi che l’aveva colpita, una procedura che le avrebbe permesso di salvarsi.</s>
+                <s xml:lang="ita" xml:id="z240308.l2ps3.i">La Procura ipotizza l’omicidio colposo e il falso ideologico: sapevano che Repetto si era vaccinata con Astrazeneca ma non l’hanno scritto nella cartella clinica.</s>
+                <s xml:lang="ita" xml:id="z240308.l2ps4.i">L’autopsia, invece, aveva chiarito che la morte era stata causata dal vaccino, somministrato il 25 maggio.</s>
+                <s xml:lang="ita" xml:id="z240308.l2ps5.i">Il 3 giugno si era sentita male, il giorno dopo le hanno fatto una Tac senza contrasto e l’hanno dimessa.</s>
+                <s xml:lang="ita" xml:id="z240308.l2ps6.i">Il 5 era già al San Martino di Genova in condizioni disperate, il 10 è morta.</s>
+                <s xml:lang="ita" xml:id="z240308.l2ps7.i">Ora gli indagati hanno 20 giorni per presentare memorie e farsi interrogare, poi i pm potranno chiedere il rinvio a giudizio.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.l2hs1.l #z240308.l2hs1.i" />
+            <link target="#z240308.l2ps1.l #z240308.l2ps1.i" />
+            <link target="#z240308.l2ps2.l #z240308.l2ps2.i" />
+            <link target="#z240308.l2ps3.l #z240308.l2ps3.i" />
+            <link target="#z240308.l2ps4.l #z240308.l2ps4.i" />
+            <link target="#z240308.l2ps5.l #z240308.l2ps5.i" />
+            <link target="#z240308.l2ps6.l #z240308.l2ps6.i" />
+            <link target="#z240308.l2ps7.l #z240308.l2ps7.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.l2.l #z240308.l2.i" />
+          </linkGrp>
+          <div xml:id="z240308.l3">
+            <div xml:lang="lij" xml:id="z240308.l3.l">
+              <head xml:lang="lij" xml:id="z240308.l3h.l">
+                <s xml:lang="lij" xml:id="z240308.l3hs1.l">Sanitæ, a-i privæ 120 prestaçioin e a gestion de l’uspiâ de Bordighea</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.l3p.l">
+                <s xml:lang="lij" xml:id="z240308.l3ps1.l">A Region Liguria a l’à assegnou 120mia prestaçioin de diagnòstica a-i privæ che da chì à no guæi se porrian prenottâ.</s>
+                <s xml:lang="lij" xml:id="z240308.l3ps2.l">A l’é a strategia da zonta Toti pe taggiâ e liste d’atteisa da sanitæ.</s>
+                <s xml:lang="lij" xml:id="z240308.l3ps3.l">Segondo i dæti do ministëio de Finanse a Liguria a l’é uña de Regioin che spendan ciù pöco pe dâ de prestaçioin a-i privæ con l‘11,9% contra unna media naçionale do 20,3%.</s>
+                <s xml:lang="lij" xml:id="z240308.l3ps4.l">Anche Campania, Pulia e Emilia Romagna stan de d’ato.</s>
+                <s xml:lang="lij" xml:id="z240308.l3ps5.l">Intanto l’é comensou a neuva gestion privâ de l’uspiâ Saint Charles de Bordighea ch’a vedde a <hi rend="italic">Gvm Care &amp; research</hi> convençionâ con l’Asl 1, a primma vòtta in Liguria.</s>
+                <s xml:lang="lij" xml:id="z240308.l3ps6.l">«I çittæn gh’avian i mæximi serviçi che un uspiâ pubrico, sensa pagâ ninte de ciù», o l’à dito o prescidente Giovanni Toti.</s>
+                <s xml:lang="lij" xml:id="z240308.l3ps7.l">Pe arrestâ into Ponente, a zonta da Region a l’à approvou o primmo incarrego pe-o papê de fattibilitæ de alternative de progetto pe-o neuvo uspiâ de Taggia.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.l3.i">
+              <head xml:lang="ita" xml:id="z240308.l3h.i">
+                <s xml:lang="ita" xml:id="z240308.l3hs1.i">Sanità, ai privati 120mila prestazioni e la gestione dell’ospedale di Bordighera</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.l3p.i">
+                <s xml:lang="ita" xml:id="z240308.l3ps1.i">La Regione Liguria ha assegnato 120mila prestazioni di diagnostica ai privati che a breve si potranno prenotare.</s>
+                <s xml:lang="ita" xml:id="z240308.l3ps2.i">È la strategia della giunta Toti per tagliare le liste d’attesa della sanità.</s>
+                <s xml:lang="ita" xml:id="z240308.l3ps3.i">Secondo i dati del ministero delle Finanze la Liguria è una delle Regioni che spendono meno per affidare prestazioni ai privati con l‘11,9% contro una media nazionale del 20,3%.</s>
+                <s xml:lang="ita" xml:id="z240308.l3ps4.i">Anche Campania, Puglia ed Emilia Romagna si collocano più in alto.</s>
+                <s xml:lang="ita" xml:id="z240308.l3ps5.i">Intanto è iniziata la nuova gestione privata dell’ospedale Saint Charles di Bordighera che vede la <hi rend="italic">Gvm Care &amp; research</hi> convenzionata con l’Asl 1, la prima volta in Liguria.</s>
+                <s xml:lang="ita" xml:id="z240308.l3ps6.i">«I cittadini avranno gli stessi servizi di un ospdale pubblico, senza pagare niente di più», ha detto il presidente Giovanni Toti.</s>
+                <s xml:lang="ita" xml:id="z240308.l3ps7.i">Per rimanere nel Ponente, la giunta regionale ha approvato il primo incarico per il documento di fattibilità delle alternative progettuali per il nuovo ospedale di Taggia.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.l3hs1.l #z240308.l3hs1.i" />
+            <link target="#z240308.l3ps1.l #z240308.l3ps1.i" />
+            <link target="#z240308.l3ps2.l #z240308.l3ps2.i" />
+            <link target="#z240308.l3ps3.l #z240308.l3ps3.i" />
+            <link target="#z240308.l3ps4.l #z240308.l3ps4.i" />
+            <link target="#z240308.l3ps5.l #z240308.l3ps5.i" />
+            <link target="#z240308.l3ps6.l #z240308.l3ps6.i" />
+            <link target="#z240308.l3ps7.l #z240308.l3ps7.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.l3.l #z240308.l3.i" />
+          </linkGrp>
+        </div>
+        <div xml:id="z240308.i">
+          <head xml:lang="lij" xml:id="z240308.ih.l">E notiçie da l’Italia</head>
+          <div xml:id="z240308.i1">
+            <div xml:lang="lij" xml:id="z240308.i1.l">
+              <head xml:lang="lij" xml:id="z240308.i1h.l">
+                <s xml:lang="lij" xml:id="z240308.i1hs1.l">Personaggi spionezzæ, scandalo in Italia: 15 indagæ e politica innaiâ</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.i1p.l">
+                <s xml:lang="lij" xml:id="z240308.i1ps1.l">O l’é un scandalo naçionale l’investigaçion da Procua de Perugia, partia da unna denonçia do ministro Crosetto, in sce l’attivitæ abuxiva d’arrecuggeita de dæti a-i danni de un muggio de personaggi in vista comme politichi, sportivi e imprenditoî.</s>
+                <s xml:lang="lij" xml:id="z240308.i1ps2.l">Tra i <hi rend="italic">spionezzæ</hi> gh’é ben ben de ministri do governo Meloni, parlamentari, o Giuseppe Conte e a seu galante, a Marta Fascina, o Fedez, o Cristiano Ronaldo e o prescidente da Figc Giancarlo Gravina, che intanto o l’é stæto indagou da-a Procua de Romma pe auto-laveuia de dinæ.</s>
+                <s xml:lang="lij" xml:id="z240308.i1ps3.l">«Numei da mette poia», o l’à dito o cappo da Procua Raffaele Cantone.</s>
+                <s xml:lang="lij" xml:id="z240308.i1ps4.l">Sta tutto d’in gio a-o Pasquale Striano, un finançiê ch’o l’ea into gruppo de travaggio da Procua naçionale antimafia e o poeiva intrâ into scistema de segnalaçioin d’operaçioin bancäie sospette.</s>
+                <s xml:lang="lij" xml:id="z240308.i1ps5.l">Inte l’insemme gh’é 15 persoñe indagæ, tra e quæ anche trei giornalisti ch’avieivan reçevuo de informaçioin reservæ.</s>
+                <s xml:lang="lij" xml:id="z240308.i1ps6.l">Sciben che se parla de dossieraggio, a mæxima Procua ch’a l’indaga a l’à taggiou feua st’ipòtexi.</s>
+                <s xml:lang="lij" xml:id="z240308.i1ps7.l">«L’é graviscimo, veuggio savei chi son i mandanti», l’é intervegnuo a prescidente do Conseggio Giorgia Meloni.</s>
+                <s xml:lang="lij" xml:id="z240308.i1ps8.l">Pe-a Lega o l’é un «spionezzo inlegale de stampo sovietico» e a l’avverte ch’a l’é pronta à ciammâ i danni.</s>
+                <s xml:lang="lij" xml:id="z240308.i1ps9.l">A Elly Schlein ascì, segrettäia do Pd, a commenta: «Gravitæ mai vista, che o governo o fasse ciæo».</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.i1.i">
+              <head xml:lang="ita" xml:id="z240308.i1h.i">
+                <s xml:lang="ita" xml:id="z240308.i1hs1.i">Personaggi spiati, scandalo in Italia: 15 indagati e politica in subbuglio</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.i1p.i">
+                <s xml:lang="ita" xml:id="z240308.i1ps1.i">È uno scandalo nazionale l’inchiesta della Procura di Perugia, partita da una denuncia del ministro Crosetto, sull’attività abusiva di raccolta di dati ai danni di numerosi personaggi in vista come politici, sportivi e imprenditori.</s>
+                <s xml:lang="ita" xml:id="z240308.i1ps2.i">Tra gli <hi rend="italic">spiati</hi> ci sono molti ministri del governo Meloni, parlamentari, Giuseppe Conte e la sua compagna, Marta Fascina, Fedez, Cristiano Ronaldo e il presidente della Figc Giancarlo Gravina, che intanto è stato indagato dalla Procura di Roma per autoriciclaggio.</s>
+                <s xml:lang="ita" xml:id="z240308.i1ps3.i">«Numeri spaventosi», ha detto il procuratore capo Raffaele Cantone.</s>
+                <s xml:lang="ita" xml:id="z240308.i1ps4.i">Tutto ruota intorno a Pasquale Striano, un finanziere che era nel gruppo di lavoro della Procura nazionale antimafia e poteva accedere al sistema di segnalazioni di operazioni bancarie sospette.</s>
+                <s xml:lang="ita" xml:id="z240308.i1ps5.i">Nel complesso ci sono 15 persone indagate, tra cui anche tre giornalisti che avrebbero ricevuto informazioni riservate.</s>
+                <s xml:lang="ita" xml:id="z240308.i1ps6.i">Benché si parli di dossieraggio, la stessa Procura che indaga ha escluso questa ipotesi.</s>
+                <s xml:lang="ita" xml:id="z240308.i1ps7.i">«È gravissimo, voglio sapere chi sono i mandanti», è intervenuta la presidente del Consiglio Giorgia Meloni.</s>
+                <s xml:lang="ita" xml:id="z240308.i1ps8.i">Per la Lega è uno «spionaggio illegale di stampo sovietico» e avverte che è pronta a chiedere i danni.</s>
+                <s xml:lang="ita" xml:id="z240308.i1ps9.i">Anche Elly Schlein, segretaria del Pd, commenta: «Gravità inaudita, il governo faccia chiarezza».</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.i1hs1.l #z240308.i1hs1.i" />
+            <link target="#z240308.i1ps1.l #z240308.i1ps1.i" />
+            <link target="#z240308.i1ps2.l #z240308.i1ps2.i" />
+            <link target="#z240308.i1ps3.l #z240308.i1ps3.i" />
+            <link target="#z240308.i1ps4.l #z240308.i1ps4.i" />
+            <link target="#z240308.i1ps5.l #z240308.i1ps5.i" />
+            <link target="#z240308.i1ps6.l #z240308.i1ps6.i" />
+            <link target="#z240308.i1ps7.l #z240308.i1ps7.i" />
+            <link target="#z240308.i1ps8.l #z240308.i1ps8.i" />
+            <link target="#z240308.i1ps9.l #z240308.i1ps9.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.i1.l #z240308.i1.i" />
+          </linkGrp>
+          <div xml:id="z240308.i2">
+            <div xml:lang="lij" xml:id="z240308.i2.l">
+              <head xml:lang="lij" xml:id="z240308.i2h.l">
+                <s xml:lang="lij" xml:id="z240308.i2hs1.l">Mòrta a Barbara Balzerani, passâ terrorista de Bregadde Rosse</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.i2p.l">
+                <s xml:lang="lij" xml:id="z240308.i2ps1.l">A l’é mòrta à Romma de 75 anni à Barbara Balzerani, passâ terrorista de Bregadde Rosse ch’a l’aiva parteçipou à ben ben d’assascinni e a-o sequestro do Aldo Moro.</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps2.l">A no s’é mai pentia e a no l’à mai piggiou e distanse, ma a l’à deciarou un profondo mâprô pe chi l’é stæto corpio da-i terroristi.</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps3.l">A l’ea stæta tra i urtimi agguantæ do 1985, da-o 2011 a l’ea tornâ in libertæ.</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps4.l">Ma l’é scciuppou a polemica in sce un <hi rend="italic">tweet</hi> pubricou e scancellou da-a Donatella Di Cesare, professoa de filosofia de l’universcitæ La Sapienza: «A teu revoluçion a l’é stæta a mæ ascì.</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps5.l">Un addio a-a compagna Luna», o testo accompagnou da unna fotografia da Balzerani.</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps6.l">Raffega d’attacchi, mascime da-o çentro-drita.</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps7.l">«Son mäveggiâ e abbarlugâ – a l’à replicou a Di Cesare –.</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps8.l">Son sempre stæta lontaña da tutte e forme de violensa».</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps9.l">Pe-a ministra Anna Maria Bernini de poule «arresegæ che no van d’accòrdio co-a responsabilitæ de l’insegnamento».</s>
+                <s xml:lang="lij" xml:id="z240308.i2ps10.l">A rettoa Antonella Polimeni a l’à piggiou e distanse, dapeu l’ateneo o l’à averto un proçedimento in sciâ professoa.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.i2.i">
+              <head xml:lang="ita" xml:id="z240308.i2h.i">
+                <s xml:lang="ita" xml:id="z240308.i2hs1.i">Morta Barbara Balzerani, ex terrorista delle Brigate Rosse</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.i2p.i">
+                <s xml:lang="ita" xml:id="z240308.i2ps1.i">È morta a Roma a 75 anni Barbara Balzerani, ex terrorista delle Brigate Rosse che aveva partecipato a molti assassini e al sequestro di Aldo Moro.</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps2.i">Non si è mai pentita e non si è mai dissociata, ma ha dichiarato un profondo rammarico per chi è stato colpito dai terroristi.</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps3.i">Era stata tra gli ultimi catturati nel 1985, dal 2011 era tornata in libertà.</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps4.i">Ma è scoppiata la polemica su un <hi rend="italic">tweet</hi> pubblicato e cancellato da Donatella Di Cesare, professoressa di filosofia dell’università La Sapienza: «La tua rivoluzione è stata anche la mia.</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps5.i">Un addio alla compagna Luna», il testo accompagnato da una foto di Balzerani.</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps6.i">Raffica di attacchi, soprattutto dal centrodestra.</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps7.i">«Sono stupita e sconcertata – ha replicato Di Cesare –.</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps8.i">Sono sempre stata lontana da tutte le forme di violenza».</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps9.i">Per la ministra Anna Maria Bernini parole «pericolose che non si conciliano con la responsabilità dell’insegnamento».</s>
+                <s xml:lang="ita" xml:id="z240308.i2ps10.i">La rettrice Antonella Polimeni ha preso le distanze, quindi l’ateneo ha avviato un procedimento sulla professoressa.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.i2hs1.l #z240308.i2hs1.i" />
+            <link target="#z240308.i2ps1.l #z240308.i2ps1.i" />
+            <link target="#z240308.i2ps2.l #z240308.i2ps2.i" />
+            <link target="#z240308.i2ps3.l #z240308.i2ps3.i" />
+            <link target="#z240308.i2ps4.l #z240308.i2ps4.i" />
+            <link target="#z240308.i2ps5.l #z240308.i2ps5.i" />
+            <link target="#z240308.i2ps6.l #z240308.i2ps6.i" />
+            <link target="#z240308.i2ps7.l #z240308.i2ps7.i" />
+            <link target="#z240308.i2ps8.l #z240308.i2ps8.i" />
+            <link target="#z240308.i2ps9.l #z240308.i2ps9.i" />
+            <link target="#z240308.i2ps10.l #z240308.i2ps10.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.i2.l #z240308.i2.i" />
+          </linkGrp>
+          <div xml:id="z240308.i3">
+            <div xml:lang="lij" xml:id="z240308.i3.l">
+              <head xml:lang="lij" xml:id="z240308.i3h.l">
+                <s xml:lang="lij" xml:id="z240308.i3hs1.l">8 marso, l’intervento do Mattarella e a polemica in scî cortëi</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.i3p.l">
+                <s xml:lang="lij" xml:id="z240308.i3ps1.l">«Son ancon frequenti di asciddi che no se peuan açettâ, de prescioin inleçite into mondo do travaggio, de discriminaçion, comme vëgne denonçiou da di anni».</s>
+                <s xml:lang="lij" xml:id="z240308.i3ps2.l">Coscì o prescidente da Repubrica Sergio Mattarella a-i 8 de marso, a Giornâ internaçionale da dònna, con regordâ e violense e in particolâ a Giulia Cecchettin.</s>
+                <s xml:lang="lij" xml:id="z240308.i3ps3.l">O movimento <hi rend="italic">Non una di meno</hi> o l’à inandiou di cortëi inte tante çittæ italiañe con di striscioin contra o patriarcato e o governo ma ascì à sostëgno da Palestiña.</s>
+                <s xml:lang="lij" xml:id="z240308.i3ps4.l">E pròpio in sce sto ponto s’é averto unn’atra polemica.</s>
+                <s xml:lang="lij" xml:id="z240308.i3ps5.l">«Un corteo ch’o tëgne feua e dònne isræliañe violentæ e ammassæ a-i 7 d’ottobre», a l’à attaccou a Noemi Di Segni, prescidente de l’Union de Communitæ ebraiche.</s>
+                <s xml:lang="lij" xml:id="z240308.i3ps6.l">A ministra de Opportunitæ pæge Eugenia Maria Roccella a s’é missa da-a seu parte e a l’à propòsto che i 7 d’ottobre, anniversäio de l’attacco de Hamas, vëgnan o Giorno contra o femminiçidio de massa.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.i3.i">
+              <head xml:lang="ita" xml:id="z240308.i3h.i">
+                <s xml:lang="ita" xml:id="z240308.i3hs1.i">8 marzo, l’intervento di Mattarella e la polemica sui cortei</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.i3p.i">
+                <s xml:lang="ita" xml:id="z240308.i3ps1.i">«Sono ancora frequenti molestie inaccettabili, pressioni illecite nel mondo del lavoro, discriminazioni, come viene denunciato da anni».</s>
+                <s xml:lang="ita" xml:id="z240308.i3ps2.i">Così il presidente della Repubblica Sergio Mattarella l‘8 marzo, la Giornata internazionale della donna, ricordando le violenze e in particolare Giulia Cecchettin.</s>
+                <s xml:lang="ita" xml:id="z240308.i3ps3.i">Il movimento <hi rend="italic">Non una di meno</hi> ha organizzato cortei in tante città italiane con striscioni contro il patriarcato e il governo ma anche a sostegno della Palestina.</s>
+                <s xml:lang="ita" xml:id="z240308.i3ps4.i">E proprio su questo punto si è aperta un’altra polemica.</s>
+                <s xml:lang="ita" xml:id="z240308.i3ps5.i">«Un corteo che esclude le donne israeliane, stuprate e uccise il 7 ottobre», ha attaccato Noemi Di Segni, presidente dell’Unione delle Comunità ebraiche.</s>
+                <s xml:lang="ita" xml:id="z240308.i3ps6.i">La ministra delle Pari opportunità Eugenia Maria Roccella si è schierata dalla sua parte e ha proposto che il 7 ottobre, anniversario dell’attacco di Hamas, diventi il Giorno contro il femminicidio di massa.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.i3hs1.l #z240308.i3hs1.i" />
+            <link target="#z240308.i3ps1.l #z240308.i3ps1.i" />
+            <link target="#z240308.i3ps2.l #z240308.i3ps2.i" />
+            <link target="#z240308.i3ps3.l #z240308.i3ps3.i" />
+            <link target="#z240308.i3ps4.l #z240308.i3ps4.i" />
+            <link target="#z240308.i3ps5.l #z240308.i3ps5.i" />
+            <link target="#z240308.i3ps6.l #z240308.i3ps6.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.i3.l #z240308.i3.i" />
+          </linkGrp>
+        </div>
+        <div xml:id="z240308.m">
+          <head xml:lang="lij" xml:id="z240308.mh.l">E notiçie da-o mondo</head>
+          <div xml:id="z240308.m1">
+            <div xml:lang="lij" xml:id="z240308.m1.l">
+              <head xml:lang="lij" xml:id="z240308.m1h.l">
+                <s xml:lang="lij" xml:id="z240308.m1hs1.l">Gazza, tregua ciù lontaña.</s>
+                <s xml:lang="lij" xml:id="z240308.m1hs2.l">Primmi mòrti into Mâ Rosso</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.m1p.l">
+                <s xml:lang="lij" xml:id="z240308.m1ps1.l">S’allontaña a tregua à Gazza: a delegaçion isræliaña a l’à desertou e negoçiaçioin a-o Cairo in sciô <hi rend="italic">fermæ o feugo</hi> e o scangio de prexonê con Hamas.</s>
+                <s xml:lang="lij" xml:id="z240308.m1ps2.l">O Stato ebraico o veu conosce i nommi di ostaggi che se dovieiva liberâ e verificâ o numeo de detegnui palestineixi da lasciâ anâ.</s>
+                <s xml:lang="lij" xml:id="z240308.m1ps3.l">Intanto o prescidente american Joe Biden o l’à propòsto a-o Congresso unna miscion militare d’emergensa in sciâ riva de Gazza pe construe unna banchiña a-o largo che se ghe pòsse ormezzâ di barchi ciù grendi co-i aggiutti pe-a popolaçion.</s>
+                <s xml:lang="lij" xml:id="z240308.m1ps4.l">Into Mâ Rosso, un miscile di Houthi partio d’into Yemen o l’à corpio unna nave grega caxonando trei mòrti inta ciusma.</s>
+                <s xml:lang="lij" xml:id="z240308.m1ps5.l">Fransa, Germania, Italia e Greçia parteçipian a-a miscion <hi rend="italic">Aspides</hi> pe defende e nave de mercançie e abbatte di miscili ò di droin lansæ contra de quelle.</s>
+                <s xml:lang="lij" xml:id="z240308.m1ps6.l">No ghe saià nisciun attacco preventivo, à differensa da miscion <hi rend="italic">Prosperity Guardian</hi> de Stati Unii e Regno Unio.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.m1.i">
+              <head xml:lang="ita" xml:id="z240308.m1h.i">
+                <s xml:lang="ita" xml:id="z240308.m1hs1.i">Gaza, tregua più lontana.</s>
+                <s xml:lang="ita" xml:id="z240308.m1hs2.i">Primi morti nel Mar Rosso</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.m1p.i">
+                <s xml:lang="ita" xml:id="z240308.m1ps1.i">Si allontana la tregua a Gaza: la delegazione israeliana ha disertato i negoziati al Cairo sul <hi rend="italic">cessate il fuoco</hi> e lo scambio di prigionieri con Hamas.</s>
+                <s xml:lang="ita" xml:id="z240308.m1ps2.i">Lo Stato ebraico vuole conoscere i nomi degli ostaggi che dovrebbero essere liberati e verificare il numero di detenuti palestinesi da rilasciare.</s>
+                <s xml:lang="ita" xml:id="z240308.m1ps3.i">Intanto il presidente americano Joe Biden ha proposto al Congresso una missione militare d’emergenza sulla costa di Gaza per costruire una banchina al largo dove si possano ormeggiare navi più grandi con gli aiuti per la popolazione.</s>
+                <s xml:lang="ita" xml:id="z240308.m1ps4.i">Nel Mar Rosso un missile degli Houthi partito dallo Yemen ha colpito una nave greca provocando tre morti nell’equipaggio.</s>
+                <s xml:lang="ita" xml:id="z240308.m1ps5.i">Francia, Germania, Italia e Grecia parteciperanno alla missione <hi rend="italic">Aspides</hi> per difendere le navi mercantili e abbattere missili o droni lanciati contro di esse.</s>
+                <s xml:lang="ita" xml:id="z240308.m1ps6.i">Non ci sarà nessun attacco preventivo, a differenza dalla missione <hi rend="italic">Prosperity Guardian</hi> di Stati Uniti e Regno Unito.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.m1hs1.l #z240308.m1hs1.i" />
+            <link target="#z240308.m1hs2.l #z240308.m1hs2.i" />
+            <link target="#z240308.m1ps1.l #z240308.m1ps1.i" />
+            <link target="#z240308.m1ps2.l #z240308.m1ps2.i" />
+            <link target="#z240308.m1ps3.l #z240308.m1ps3.i" />
+            <link target="#z240308.m1ps4.l #z240308.m1ps4.i" />
+            <link target="#z240308.m1ps5.l #z240308.m1ps5.i" />
+            <link target="#z240308.m1ps6.l #z240308.m1ps6.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.m1.l #z240308.m1.i" />
+          </linkGrp>
+          <div xml:id="z240308.m2">
+            <div xml:lang="lij" xml:id="z240308.m2.l">
+              <head xml:lang="lij" xml:id="z240308.m2h.l">
+                <s xml:lang="lij" xml:id="z240308.m2hs1.l">Stati Unii, o Trump o l’avansa.</s>
+                <s xml:lang="lij" xml:id="z240308.m2hs2.l">O Biden: «Reisego pe-a democraçia»</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.m2p.l">
+                <s xml:lang="lij" xml:id="z240308.m2ps1.l">S’ascada l’äia inti Stati Unii in vista de eleçioin de novembre.</s>
+                <s xml:lang="lij" xml:id="z240308.m2ps2.l">A Corte supremma a l’à confermou che o Trump o se peu candidâ a-e primmäie perché solo o Congresso federale o peu bandîlo pe-a seu fonçion inte l’assato à Capitol Hill do 2021.</s>
+                <s xml:lang="lij" xml:id="z240308.m2ps3.l">E dòppo l’exito do Super Tuesday, ch’o l’à marcou o dominio areo do <hi rend="italic">tycoon</hi> into campo repubrican, a Nikki Halley a l’à annonçiou o retio da-a regatta.</s>
+                <s xml:lang="lij" xml:id="z240308.m2ps4.l">Ma anche o Biden o l’à fæto o pin de voti tra-i democratichi, e coscì pâ sempre ciù vexin un neuvo scontro tra i doî.</s>
+                <s xml:lang="lij" xml:id="z240308.m2ps5.l">O prescidente o l’à prononçiou de poule de feugo contra o Trump: «L’ea da-i tempi da guæra çivile che a libertæ e a democraçia no ean sotta attacco comme ancheu», o l’à dito into descorso a-o Congresso e o l’à accaxonou de sottomettise a-o Putin.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.m2.i">
+              <head xml:lang="ita" xml:id="z240308.m2h.i">
+                <s xml:lang="ita" xml:id="z240308.m2hs1.i">Stati Uniti, Trump avanza.</s>
+                <s xml:lang="ita" xml:id="z240308.m2hs2.i">Biden: «Pericolo per la democrazia»</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.m2p.i">
+                <s xml:lang="ita" xml:id="z240308.m2ps1.i">Si scalda l’aria negli Stati Uniti in vista delle elezioni di novembre.</s>
+                <s xml:lang="ita" xml:id="z240308.m2ps2.i">La Corte suprema ha confermato che Trump si può candidre alle primarie perché solo il Congresso federale può bandirlo per il suo ruolo nell’assalto a Capitol Hill del 2021.</s>
+                <s xml:lang="ita" xml:id="z240308.m2ps3.i">E dopo l’esito del Super Tuesday, che ha segnato il dominio totale del <hi rend="italic">tycoon</hi> nel campo repubblicano, Nikki Halley ha annunciato il ritiro dalla corsa.</s>
+                <s xml:lang="ita" xml:id="z240308.m2ps4.i">Ma anche Biden ha fatto il pieno di voti tra i democratici, e così sembra sempre più vicino un nuovo scontro tra i due.</s>
+                <s xml:lang="ita" xml:id="z240308.m2ps5.i">Il presidente ha pronunciato parole di fuoco contro Trump: «Era dai tempi della guerra civile che la libertà e la democrazia non erano sotto attacco come oggi», ha detto nel discorso al Congresso e lo ha accusato di sottomettersi a Putin.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.m2hs1.l #z240308.m2hs1.i" />
+            <link target="#z240308.m2hs2.l #z240308.m2hs2.i" />
+            <link target="#z240308.m2ps1.l #z240308.m2ps1.i" />
+            <link target="#z240308.m2ps2.l #z240308.m2ps2.i" />
+            <link target="#z240308.m2ps3.l #z240308.m2ps3.i" />
+            <link target="#z240308.m2ps4.l #z240308.m2ps4.i" />
+            <link target="#z240308.m2ps5.l #z240308.m2ps5.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.m2.l #z240308.m2.i" />
+          </linkGrp>
+          <div xml:id="z240308.m3">
+            <div xml:lang="lij" xml:id="z240308.m3.l">
+              <head xml:lang="lij" xml:id="z240308.m3h.l">
+                <s xml:lang="lij" xml:id="z240308.m3hs1.l">In Fransa l’abòrto inta Constituçion, primma vòtta in Euröpa</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240308.m3p.l">
+                <s xml:lang="lij" xml:id="z240308.m3ps1.l">A Fransa a l’é o primmo Paise europeo à mette l’abòrto inta Constituçion.</s>
+                <s xml:lang="lij" xml:id="z240308.m3ps2.l">E doe camie do Parlamento, riunie in Congresso inta reggia de Versagge, an approvou unn’azzonta à l’articolo ch’o definisce i driti çivili, passâ con 780 scì in sce 925.</s>
+                <s xml:lang="lij" xml:id="z240308.m3ps3.l">O testo o dixe coscì: «A lezze a determina e condiçioin inte quæ se fa vai a libertæ garantia a-a dònna d’addeuviâ unn’interruçion volontäia da gestaçion».</s>
+                <s xml:lang="lij" xml:id="z240308.m3ps4.l">«Un messaggio universale», o l’à scrito o prescidente Emmanuel Macron.</s>
+                <s xml:lang="lij" xml:id="z240308.m3ps5.l">«O mæ còrpo, a mæ deçixon», a frase mandâ in sciâ Tour Eiffel.</s>
+                <s xml:lang="lij" xml:id="z240308.m3ps6.l">Ma da-a Gexa arriva de critiche: pe l’Academia pontifiçia pe-a vitta «pròpio inte l’epoca di driti umoen universali no peu ësighe un drito à desentegâ unna vitta umaña».</s>
+                <s xml:lang="lij" xml:id="z240308.m3ps7.l">I vescoi franseixi an ciammou a preghea e o zazzun contra a reforma e çentanæa d’anti-abortisti an manifestou davanti a-a reggia.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240308.m3.i">
+              <head xml:lang="ita" xml:id="z240308.m3h.i">
+                <s xml:lang="ita" xml:id="z240308.m3hs1.i">In Francia l’aborto in Costituzione, prima volta in Europa</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240308.m3p.i">
+                <s xml:lang="ita" xml:id="z240308.m3ps1.i">La Francia è il primo Paese europeo a inserire l’aborto nella Costituzione.</s>
+                <s xml:lang="ita" xml:id="z240308.m3ps2.i">Le due camere del Parlamento, riunite in Congresso nella reggia di Versailles, hanno approvato un’aggiunta all’articolo che definisce i diritti civili, passata con 780 voti favorevoli su 925.</s>
+                <s xml:lang="ita" xml:id="z240308.m3ps3.i">Il testo recita così: «La legge determina le condizioni in cui si esercita la libertà garantita alla donna di ricorrere all’interruzione volontaria di gravidanza».</s>
+                <s xml:lang="ita" xml:id="z240308.m3ps4.i">«Un messaggio universale», ha scritto il presidente Emmanuel Macron.</s>
+                <s xml:lang="ita" xml:id="z240308.m3ps5.i">«Il mio corpo, la mia scelta», la frase proiettata sulla Tour Eiffel.</s>
+                <s xml:lang="ita" xml:id="z240308.m3ps6.i">Ma dalla Chiesa arrivano critiche: per l’Accademia pontificia per la vita «proprio nell’epoca dei diritti universali non può esserci un diritto a sopprimere una vita umana».</s>
+                <s xml:lang="ita" xml:id="z240308.m3ps7.i">I vescovi francesi hanno chiesto preghiera e digiuno contro la riforma e centinaia di antiabortisti hanno manifestato davanti alla reggia.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240308.m3hs1.l #z240308.m3hs1.i" />
+            <link target="#z240308.m3ps1.l #z240308.m3ps1.i" />
+            <link target="#z240308.m3ps2.l #z240308.m3ps2.i" />
+            <link target="#z240308.m3ps3.l #z240308.m3ps3.i" />
+            <link target="#z240308.m3ps4.l #z240308.m3ps4.i" />
+            <link target="#z240308.m3ps5.l #z240308.m3ps5.i" />
+            <link target="#z240308.m3ps6.l #z240308.m3ps6.i" />
+            <link target="#z240308.m3ps7.l #z240308.m3ps7.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240308.m3.l #z240308.m3.i" />
+          </linkGrp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="z240315">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Ediçion di 15 de marso do 2024</title>
+          <author>Fabio Canessa</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="lij" when="2024-03-15">15 de marso do 2024</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title>O Zinâ</title>
+        </seriesStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://ozina.org/2024/03/15/">https://ozina.org/2024/03/15/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:lang="lij">Ediçion di 15 de marso do 2024</head>
+        <div xml:id="z240315.l">
+          <head xml:lang="lij" xml:id="z240315.lh.l">E notiçie da-a Liguria</head>
+          <div xml:id="z240315.l1">
+            <div xml:lang="lij" xml:id="z240315.l1.l">
+              <head xml:lang="lij" xml:id="z240315.l1h.l">
+                <s xml:lang="lij" xml:id="z240315.l1hs1.l">Scormatô do Besagno, neuvo ascado: o cantê o reisega o blòcco</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.l1p.l">
+                <s xml:lang="lij" xml:id="z240315.l1ps1.l">O reisega de fermâse ancon pe di meixi o cantê do scormatô do Besagno, un travaggio da 200 mioin e passa ch’o dovieiva mette in seguessa a parte de Zena ciù segnâ da-e alluvioin.</s>
+                <s xml:lang="lij" xml:id="z240315.l1ps2.l">O Conseggio de Stato o l’à abilitou torna l’interdittiva antimafia contra o consòrçio ReseArch, a mandatäia do contræto.</s>
+                <s xml:lang="lij" xml:id="z240315.l1ps3.l">O prescidente ligure Giovanni Toti o l’à dito che inti giorni che vëgne ghe saià unna discuscion co-e atre impreise pe capî se porrian piggiâ o pòsto do consòrçio, intanto i loei peuan anâ avanti.</s>
+                <s xml:lang="lij" xml:id="z240315.l1ps4.l">Sedonca se ciammià a segonda e a tersa clascificâ da cæga pubrica, e inta pezo de ipòtexi se dovià fâne uña neuva: vorrieiva dî fermâ i travaggi, za in fòrte retardio co-a previxon de concluddise do 2025, fin a-a fin de l’anno.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.l1.i">
+              <head xml:lang="ita" xml:id="z240315.l1h.i">
+                <s xml:lang="ita" xml:id="z240315.l1hs1.i">Scolmatore del Bisagno, nuova tegola: il cantiere rischia lo stop</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.l1p.i">
+                <s xml:lang="ita" xml:id="z240315.l1ps1.i">Rischia di fermarsi ancora per mesi il cantiere dello scolmatore del Bisagno, un’opera da oltre 200 milioni che dovrebbe mettere in sicurezza la parte di Genova più segnata dalle alluvioni.</s>
+                <s xml:lang="ita" xml:id="z240315.l1ps2.i">Il Consiglio di Stato ha riabilitato l’interdittiva antimafia contro il consorzio ReseArch, la mandataria dell’appalto.</s>
+                <s xml:lang="ita" xml:id="z240315.l1ps3.i">Il presidente ligure Giovanni Toti ha detto che nei prossimi giorni ci sarà un’interlocuzione con le altre imprese per capire se potranno subentrare al consorzio, nel frattempo i lavori possono continuare.</s>
+                <s xml:lang="ita" xml:id="z240315.l1ps4.i">In caso contrario verranno convocate la seconda e la terza classificata della gara, e nella peggiore delle ipotesi se ne dovrà fare una nuova: significherebbe fermare i lavori, già in forte ritardo con la previsione di concludersi nel 2025, fino alla fine dell’anno.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.l1hs1.l #z240315.l1hs1.i" />
+            <link target="#z240315.l1ps1.l #z240315.l1ps1.i" />
+            <link target="#z240315.l1ps2.l #z240315.l1ps2.i" />
+            <link target="#z240315.l1ps3.l #z240315.l1ps3.i" />
+            <link target="#z240315.l1ps4.l #z240315.l1ps4.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.l1.l #z240315.l1.i" />
+          </linkGrp>
+          <div xml:id="z240315.l2">
+            <div xml:lang="lij" xml:id="z240315.l2.l">
+              <head xml:lang="lij" xml:id="z240315.l2h.l">
+                <s xml:lang="lij" xml:id="z240315.l2hs1.l">Monexi, scialpinisti investii da unna valanga: meue un òmmo de 44 anni</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.l2p.l">
+                <s xml:lang="lij" xml:id="z240315.l2ps1.l">Tragedia in scê Arpe Ligure: un scialpinista de 44 anni, o Simone Rossi d’Arasce, o l’é mòrto investio da unna valanga à Monexi, in sciô monte Sciaccarê.</s>
+                <s xml:lang="lij" xml:id="z240315.l2ps2.l">O seu gruppo o l’ea sciortio pe unn’escurscioin a-i 10 de marso: ean çinque persoñe, i atri son arriëscii à sarvâse, pe lê no gh’é stæto ninte da fâ.</s>
+                <s xml:lang="lij" xml:id="z240315.l2ps3.l">Pe quella zöna o bollettin de l’Arpal o l’indicava un reisego de valanghe fin a-o livello 3, ma un di scampæ o l’à contou: «L’allerta a l’ea finia e noiatri semmo partii pe un percorso conosciuo».</s>
+                <s xml:lang="lij" xml:id="z240315.l2ps4.l">O Rossi o fava l’imprenditô e in passou o l’ea stæto assessô a-o Spòrt do Commun d’Arasce.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.l2.i">
+              <head xml:lang="ita" xml:id="z240315.l2h.i">
+                <s xml:lang="ita" xml:id="z240315.l2hs1.i">Monesi, scialpinisti travolti da una valanga: muore un uomo di 44 anni</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.l2p.i">
+                <s xml:lang="ita" xml:id="z240315.l2ps1.i">Tragedia sulle Alpi Liguri: uno scialpinista di 44 anni, Simone Rossi di Alassio, è morto travolto da una valanga a Monesi, sul monte Saccarello.</s>
+                <s xml:lang="ita" xml:id="z240315.l2ps2.i">Il suo gruppo era uscito per un’escursione il 10 marzo: erano cinque persone, gli altri sono riusciti a salvarsi, per lui non c’è stato nulla da fare.</s>
+                <s xml:lang="ita" xml:id="z240315.l2ps3.i">Per quella zona il bollettino di Arpal indicava un rischio di valanghe fino al livello 3, ma uno dei sopravvissuti ha raccontato: «L’allerta era finita e noi siamo partiti per un percorso conosciuto».</s>
+                <s xml:lang="ita" xml:id="z240315.l2ps4.i">Rossi faceva l’imprenditore e in passato era stato assessore allo Sport del Comune di Alassio.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.l2hs1.l #z240315.l2hs1.i" />
+            <link target="#z240315.l2ps1.l #z240315.l2ps1.i" />
+            <link target="#z240315.l2ps2.l #z240315.l2ps2.i" />
+            <link target="#z240315.l2ps3.l #z240315.l2ps3.i" />
+            <link target="#z240315.l2ps4.l #z240315.l2ps4.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.l2.l #z240315.l2.i" />
+          </linkGrp>
+          <div xml:id="z240315.l3">
+            <div xml:lang="lij" xml:id="z240315.l3.l">
+              <head xml:lang="lij" xml:id="z240315.l3h.l">
+                <s xml:lang="lij" xml:id="z240315.l3hs1.l">
+                  <hi rend="italic">Influencer</hi> savoneise accaxonâ: miggiæa d’euro ascoxi a-o fisco</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.l3p.l">
+                <s xml:lang="lij" xml:id="z240315.l3ps1.l">Unn’<hi rend="italic">influencer</hi> savoneise, a Giuseppina Rizzotto, a l’é stæta denonçiâ da-a Guardia di finansa pe l’evaxon de miggiæa d’euro mai deciaræ a-o fisco.</s>
+                <s xml:lang="lij" xml:id="z240315.l3ps2.l">A dònna, ch’a l’à in scî 400mia <hi rend="italic">follower</hi> tra Instagram e Tiktok, a l’avieiva ascoso in particolâ i guägni da Onlyfans, unna ciattaforma de contegnui à pagamento, da-o 2017 a-o 2023.</s>
+                <s xml:lang="lij" xml:id="z240315.l3ps3.l">Unna parte de quelli dinæ, segondo i investigatoî, a l’ea finia in sce di conti à l’estranxeo.</s>
+                <s xml:lang="lij" xml:id="z240315.l3ps4.l">A Rizzotto a s’aiva fæto a nòmina do 2021 quand’a s’ea candidâ co-o çentro-drita pe-o Commun de Saña.</s>
+                <s xml:lang="lij" xml:id="z240315.l3ps5.l">Quarchedun o l’aiva misso in gio un video <hi rend="italic">hard</hi> de unna dònna ch’a se gh’assomeggiava comme s’o fïse o seu, lê a l’aiva presentou unna quæla.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.l3.i">
+              <head xml:lang="ita" xml:id="z240315.l3h.i">
+                <s xml:lang="ita" xml:id="z240315.l3hs1.i">
+                  <hi rend="italic">Influencer</hi> savonese accusata: migliaia di euro nascosti al fisco</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.l3p.i">
+                <s xml:lang="ita" xml:id="z240315.l3ps1.i">Un’<hi rend="italic">influencer</hi> savonese, Giuseppina Rizzotto, è stata denunciata dalla Guardia di finanza per l’evasione di migliaia di euro mai dichiarati al fisco.</s>
+                <s xml:lang="ita" xml:id="z240315.l3ps2.i">La donna, che ha circa 400mila <hi rend="italic">follower</hi> tra Instagram e Tiktok, avrebbe nascosto in particolare i ricavi da Onlyfans, una piattaforma di contenuti a pagamento, dal 2017 al 2023.</s>
+                <s xml:lang="ita" xml:id="z240315.l3ps3.i">Una parte di quel denaro, secondo gli investigatori, era finita su conti all’estero.</s>
+                <s xml:lang="ita" xml:id="z240315.l3ps4.i">Rizzotto era diventata famosa nel 2021 quando si era candidata col centrodestra per il Comune di Savona.</s>
+                <s xml:lang="ita" xml:id="z240315.l3ps5.i">Qualcuno aveva diffuso un video <hi rend="italic">hard</hi> di una donna che le assomigliava spacciandolo per suo, lei aveva sporto querela.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.l3hs1.l #z240315.l3hs1.i" />
+            <link target="#z240315.l3ps1.l #z240315.l3ps1.i" />
+            <link target="#z240315.l3ps2.l #z240315.l3ps2.i" />
+            <link target="#z240315.l3ps3.l #z240315.l3ps3.i" />
+            <link target="#z240315.l3ps4.l #z240315.l3ps4.i" />
+            <link target="#z240315.l3ps5.l #z240315.l3ps5.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.l3.l #z240315.l3.i" />
+          </linkGrp>
+        </div>
+        <div xml:id="z240315.i">
+          <head xml:lang="lij" xml:id="z240315.ih.l">E notiçie da l’Italia</head>
+          <div xml:id="z240315.i1">
+            <div xml:lang="lij" xml:id="z240315.i1.l">
+              <head xml:lang="lij" xml:id="z240315.i1h.l">
+                <s xml:lang="lij" xml:id="z240315.i1hs1.l">Bològna, inçendio inte un appartamento: mòrti trei figgeu con seu moæ</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.i1p.l">
+                <s xml:lang="lij" xml:id="z240315.i1ps1.l">Tragedia a-i 15 de marso à Bològna: trei figgeu e seu moæ son mòrti inte un inçendio scciuppou de neutte inte un palaçio.</s>
+                <s xml:lang="lij" xml:id="z240315.i1ps2.l">I piccin, doî binelli e unna figgiña, ean inta mæxima stançia co-a dònna, de 32 anni e originäia da Romania.</s>
+                <s xml:lang="lij" xml:id="z240315.i1ps3.l">Da quello che l’é vegnuo feua, o feugo o saieiva partio da unna stiva elettrica: l’é façile che segge stæto o fumme à ammassâli.</s>
+                <s xml:lang="lij" xml:id="z240315.i1ps4.l">L’appartamento o l’é stæto sexio da-a magistratua.</s>
+                <s xml:lang="lij" xml:id="z240315.i1ps5.l">O poæ, ch’o l’ea spartio da-a moæ e o no ghe viveiva insemme, o s’é sentio mâ e o l’é stæto portou à l’uspiâ.</s>
+                <s xml:lang="lij" xml:id="z240315.i1ps6.l">«A l’ea unna figgia tanto corteise e graçiosa, unna belliscima famiggia», an contou i vexin ben ben sciätæ.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.i1.i">
+              <head xml:lang="ita" xml:id="z240315.i1h.i">
+                <s xml:lang="ita" xml:id="z240315.i1hs1.i">Bologna, incendio in appartamento: morti tre bambini con la madre</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.i1p.i">
+                <s xml:lang="ita" xml:id="z240315.i1ps1.i">Tragedia il 15 marzo a Bologna: tre bambini e la loro madre sono morti in un incendio scoppiato di notte in un palazzo.</s>
+                <s xml:lang="ita" xml:id="z240315.i1ps2.i">I piccoli, due gemelli e una bimba, erano nella stessa stanza con la donna, 32enne originaria della Romania.</s>
+                <s xml:lang="ita" xml:id="z240315.i1ps3.i">Da quanto risulta, il fuoco sarebbe partito da una stufa elettrica: è probabile che sia stato il fumo a ucciderli.</s>
+                <s xml:lang="ita" xml:id="z240315.i1ps4.i">L’appartamento è stato sequestrato dalla magistratura.</s>
+                <s xml:lang="ita" xml:id="z240315.i1ps5.i">Il padre, che era separato dalla madre e non conviveva con lei, si è sentito male ed è stato portato in ospedale.</s>
+                <s xml:lang="ita" xml:id="z240315.i1ps6.i">«Era una ragazza molto gentile e carina, una bellissima famiglia», hanno raccontato i vicini sotto choc.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.i1hs1.l #z240315.i1hs1.i" />
+            <link target="#z240315.i1ps1.l #z240315.i1ps1.i" />
+            <link target="#z240315.i1ps2.l #z240315.i1ps2.i" />
+            <link target="#z240315.i1ps3.l #z240315.i1ps3.i" />
+            <link target="#z240315.i1ps4.l #z240315.i1ps4.i" />
+            <link target="#z240315.i1ps5.l #z240315.i1ps5.i" />
+            <link target="#z240315.i1ps6.l #z240315.i1ps6.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.i1.l #z240315.i1.i" />
+          </linkGrp>
+          <div xml:id="z240315.i2">
+            <div xml:lang="lij" xml:id="z240315.i2.l">
+              <head xml:lang="lij" xml:id="z240315.i2h.l">
+                <s xml:lang="lij" xml:id="z240315.i2hs1.l">O çentrodrita o guägna in Abrusso ma o se scciappa in sciô terso incarrego</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.i2p.l">
+                <s xml:lang="lij" xml:id="z240315.i2ps1.l">Dòppo a battòsta in Sardegna o çentrodrita o l’à guägno e eleçion regionale in Abrusso, donde l’é stæto confermou o Marco Marsilio comme prescidente contra o Luciano D’Amico, sostegnuo da-o campo <hi rend="italic">larghiscimo</hi> di progrescisti.</s>
+                <s xml:lang="lij" xml:id="z240315.i2ps2.l">Fratelli d’Italia primmo partio, apreuvo gh’é o Pd e Forza Italia, vëgne zu a Lega ch’a passa da-o 27,5% a-o 7,6%.</s>
+                <s xml:lang="lij" xml:id="z240315.i2ps3.l">Intanto o Senato o l’à refuou l’emendamento da Lega in sciô terso incarrego a-i governatoî, coscì comme unna nòrma à sorpreisa ch’a pontava à levâ o segondo gio pe l’eleçion di scindichi.</s>
+                <s xml:lang="lij" xml:id="z240315.i2ps4.l">Unn’atra scciappeuia inta maggioransa, solo Italia Viva a l’à votou o mæximo.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.i2.i">
+              <head xml:lang="ita" xml:id="z240315.i2h.i">
+                <s xml:lang="ita" xml:id="z240315.i2hs1.i">Il centrodestra vince in Abruzzo ma si spacca sul terzo mandato</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.i2p.i">
+                <s xml:lang="ita" xml:id="z240315.i2ps1.i">Dopo la sconfitta in Sardegna il centrodestra ha vinto le elezioni regionali in Abruzzo, dove è stato confermato Marco Marsilio come presidente contro Luciano D’Amico, sostenuto dal campo <hi rend="italic">larghissimo</hi> dei progressisti.</s>
+                <s xml:lang="ita" xml:id="z240315.i2ps2.i">Fratelli d’Italia primo partito, dopo ci sono Pd e Forza Italia, crolla la Lega che passa dal 27,5% al 7,6%.</s>
+                <s xml:lang="ita" xml:id="z240315.i2ps3.i">Intanto il Senato ha rifiutato l’emendamento della Lega sul terzo mandato ai governatori, così come una norma a sorpresa che puntava a eliminare il secondo turno per l’elezione dei sindaci.</s>
+                <s xml:lang="ita" xml:id="z240315.i2ps4.i">Un’altra spaccatura nella maggioranza, solo Italia Viva ha votato allo stesso modo.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.i2hs1.l #z240315.i2hs1.i" />
+            <link target="#z240315.i2ps1.l #z240315.i2ps1.i" />
+            <link target="#z240315.i2ps2.l #z240315.i2ps2.i" />
+            <link target="#z240315.i2ps3.l #z240315.i2ps3.i" />
+            <link target="#z240315.i2ps4.l #z240315.i2ps4.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.i2.l #z240315.i2.i" />
+          </linkGrp>
+          <div xml:id="z240315.i3">
+            <div xml:lang="lij" xml:id="z240315.i3.l">
+              <head xml:lang="lij" xml:id="z240315.i3h.l">
+                <s xml:lang="lij" xml:id="z240315.i3hs1.l">Foresto piggiou à cäsci e pugni da un carabinê: «No ò fæto ninte, ô denonçio»</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.i3p.l">
+                <s xml:lang="lij" xml:id="z240315.i3ps1.l">Un òmmo de 23 anni, originäio da Guinea, o l’é stæto piggiou à cäsci e pugni da un carabinê ch’o l’ea apreuvo à arrestâlo pe rescistensa e dannezzamento.</s>
+                <s xml:lang="lij" xml:id="z240315.i3ps2.l">O l’é avvegnuo à Mòdena: à mostrâlo gh’é un video repiggiou da un passante e spantegou in scî <hi rend="italic">social</hi>.</s>
+                <s xml:lang="lij" xml:id="z240315.i3ps3.l">Oua o protagonista o veu denonçiâ o militare: «M’an piccou sensa unna raxon, mi travaggio, no ò fæto niente de mâ», o dixe.</s>
+                <s xml:lang="lij" xml:id="z240315.i3ps4.l">À defendilo gh’é ascì o seu prinçipâ: «L’é sëi anni ch’o loua chì, an piggiou a persoña errâ».</s>
+                <s xml:lang="lij" xml:id="z240315.i3ps5.l">A Procua de Mòdena a l’à averto unn’investigaçion.</s>
+                <s xml:lang="lij" xml:id="z240315.i3ps6.l">Intanto o zoeno o l’é stæto lasciou anâ e o proçesso postiçipou a-i 18 d’arvî.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.i3.i">
+              <head xml:lang="ita" xml:id="z240315.i3h.i">
+                <s xml:lang="ita" xml:id="z240315.i3hs1.i">Straniero preso a calci e pugno da un carabiniere: «Non ho fatto niente, lo denuncio»</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.i3p.i">
+                <s xml:lang="ita" xml:id="z240315.i3ps1.i">Un uomo di 23 anni, originario della Guinea, è stato preso a calci e pugni da un carabiniere che lo stava arrestando per resistenza e danneggiamento.</s>
+                <s xml:lang="ita" xml:id="z240315.i3ps2.i">È successo a Modena: a mostrarlo è un video ripreso da un passante e diffuso sui <hi rend="italic">social</hi>.</s>
+                <s xml:lang="ita" xml:id="z240315.i3ps3.i">Ora il protagonista vuole denunciare il militare: «Mi hanno picchiato senza un motivo, io lavoro, non ho fatto niente di male», dice.</s>
+                <s xml:lang="ita" xml:id="z240315.i3ps4.i">A difenderlo c’è anche il suo datore di lavoro: «Lavora qui da sei anni, hanno preso la persona sbagliata».</s>
+                <s xml:lang="ita" xml:id="z240315.i3ps5.i">La Procura di Modena ha aperto un’inchiesta.</s>
+                <s xml:lang="ita" xml:id="z240315.i3ps6.i">Intanto il giovane è stato rilasciato e il processo posticipato al 18 aprile.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.i3hs1.l #z240315.i3hs1.i" />
+            <link target="#z240315.i3ps1.l #z240315.i3ps1.i" />
+            <link target="#z240315.i3ps2.l #z240315.i3ps2.i" />
+            <link target="#z240315.i3ps3.l #z240315.i3ps3.i" />
+            <link target="#z240315.i3ps4.l #z240315.i3ps4.i" />
+            <link target="#z240315.i3ps5.l #z240315.i3ps5.i" />
+            <link target="#z240315.i3ps6.l #z240315.i3ps6.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.i3.l #z240315.i3.i" />
+          </linkGrp>
+        </div>
+        <div xml:id="z240315.m">
+          <head xml:lang="lij" xml:id="z240315.mh.l">E notiçie da-o mondo</head>
+          <div xml:id="z240315.m1">
+            <div xml:lang="lij" xml:id="z240315.m1.l">
+              <head xml:lang="lij" xml:id="z240315.m1h.l">
+                <s xml:lang="lij" xml:id="z240315.m1hs1.l">O pappa: «Che l’Ucraina a l’ïse a bandea gianca».</s>
+                <s xml:lang="lij" xml:id="z240315.m1hs2.l">A Ruscia a-a preuva de eleçioin</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.m1p.l">
+                <s xml:lang="lij" xml:id="z240315.m1ps1.l">L’Ucraina a dovieiva aveighe o cheu da «bandea gianca», ò sæ de «negoçiâ».</s>
+                <s xml:lang="lij" xml:id="z240315.m1ps2.l">L’à dito o pappa Françesco inte unn’intervista a-a svissera Rsi, de poule ch’an açeiso a dua reaçion de Kiev.</s>
+                <s xml:lang="lij" xml:id="z240315.m1ps3.l">«A nòstra bandea a l’é giana e bleu, con sta chì vivemmo, moimmo e guägnemmo.</s>
+                <s xml:lang="lij" xml:id="z240315.m1ps4.l">No ïsiemo mai de atre bandee», o l’à scrito o ministro de l’Estranxeo.</s>
+                <s xml:lang="lij" xml:id="z240315.m1ps5.l">Intanto o Vladimir Putin o parla torna de nucleare: «Da-o ponto de vista tecnico semmo pronti», o l’à dito.</s>
+                <s xml:lang="lij" xml:id="z240315.m1ps6.l">E intanto o veu mette de truppe a-o confin co-a Finlandia.</s>
+                <s xml:lang="lij" xml:id="z240315.m1ps7.l">In Ruscia, inte un climma de tenscion estremma, l’é comensou e eleçioin pe-o neuvo prescidente: Mosca a l’à misso in guardia da-e manifestaçioin d’oppoxiçioin, che se peuan punî in sciâ base da lezze.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.m1.i">
+              <head xml:lang="ita" xml:id="z240315.m1h.i">
+                <s xml:lang="ita" xml:id="z240315.m1hs1.i">Il Papa: «L’Ucraina alzi bandiera bianca».</s>
+                <s xml:lang="ita" xml:id="z240315.m1hs2.i">La Russia alla prova delle elezioni</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.m1p.i">
+                <s xml:lang="ita" xml:id="z240315.m1ps1.i">L’Ucraina dovrebbe avere il coraggio della «bandiera bianca», cioè di «negoziare».</s>
+                <s xml:lang="ita" xml:id="z240315.m1ps2.i">Lo ha detto papa Francesco in un’intervista alla svizzera Rsi, parole che hanno acceso la dura reazione di Kiev.</s>
+                <s xml:lang="ita" xml:id="z240315.m1ps3.i">«La nostra bandiera è gialla e blu, con questa viviamo, moriamo e vinciamo.</s>
+                <s xml:lang="ita" xml:id="z240315.m1ps4.i">Non alzeremo mai altre bandiere», ha scritto il ministro degli Esteri.</s>
+                <s xml:lang="ita" xml:id="z240315.m1ps5.i">Intanto Vladimir Putin parla ancora di nucleare: «Dal punto di vista tecnico siamo pronti», ha detto.</s>
+                <s xml:lang="ita" xml:id="z240315.m1ps6.i">E intanto vuole schierare truppe al confine con la Finlandia.</s>
+                <s xml:lang="ita" xml:id="z240315.m1ps7.i">In Russia, in un clima di tensione estrema, sono iniziate le elezioni presidenziali: Mosca ha messo in guardia dalle manifestazioni di dissenso, punibili in base alla legge.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.m1hs1.l #z240315.m1hs1.i" />
+            <link target="#z240315.m1hs2.l #z240315.m1hs2.i" />
+            <link target="#z240315.m1ps1.l #z240315.m1ps1.i" />
+            <link target="#z240315.m1ps2.l #z240315.m1ps2.i" />
+            <link target="#z240315.m1ps3.l #z240315.m1ps3.i" />
+            <link target="#z240315.m1ps4.l #z240315.m1ps4.i" />
+            <link target="#z240315.m1ps5.l #z240315.m1ps5.i" />
+            <link target="#z240315.m1ps6.l #z240315.m1ps6.i" />
+            <link target="#z240315.m1ps7.l #z240315.m1ps7.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.m1.l #z240315.m1.i" />
+          </linkGrp>
+          <div xml:id="z240315.m2">
+            <div xml:lang="lij" xml:id="z240315.m2.l">
+              <head xml:lang="lij" xml:id="z240315.m2h.l">
+                <s xml:lang="lij" xml:id="z240315.m2hs1.l">In Euröpa a primma lezze a-o mondo in sce l’intelligensa artifiçiale</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.m2p.l">
+                <s xml:lang="lij" xml:id="z240315.m2ps1.l">O Parlamento europeo o l’à approvou a primma lezze a-o mondo in sce l’intelligensa artifiçiale.</s>
+                <s xml:lang="lij" xml:id="z240315.m2ps2.l">E neuve nòrme proibiscian çerte applicaçioin che mettan à reisego i driti de persoñe, comme i scistemi de categorizzaçion biometrica, l’estrapolaçion d’imagine de facce d’in sciâ Ræ ò da-e registraçioin de telecamere de guardia, i scistemi de reconoscimento de emoscioin in sciô travaggio e inte scheue.</s>
+                <s xml:lang="lij" xml:id="z240315.m2ps3.l">Ma ghe saià ascì de eçeçioin pe-e fòrse de poliçia inte çerti caxi particolæ.</s>
+                <s xml:lang="lij" xml:id="z240315.m2ps4.l">Intanto a Commiscion europea a l’à domandou de informaçioin à 8 zaganti do web, compreiso Facebook e Google, in sce l’intelligensa artifiçiale generativa e a diffuxon de <hi rend="italic">deepfake</hi>.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.m2.i">
+              <head xml:lang="ita" xml:id="z240315.m2h.i">
+                <s xml:lang="ita" xml:id="z240315.m2hs1.i">In Europa la prima legge al mondo sull’intelligenza artificiale</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.m2p.i">
+                <s xml:lang="ita" xml:id="z240315.m2ps1.i">Il Parlamento europeo ha approvato la prima legge al mondo sull’intelligenza artificiale.</s>
+                <s xml:lang="ita" xml:id="z240315.m2ps2.i">Le nuove norme proibiscono alcune applicazioni che mettono a rischio i diritti delle persone, come i sistemi di categorizzazione biometrica, l’estrapolazione di immagini dalle facce su Internet o dalle registrazioni delle telecamere di sorveglianza, i sistemi di riconoscimento delle emozioni nei luoghi di lavoro e nelle scuole.</s>
+                <s xml:lang="ita" xml:id="z240315.m2ps3.i">Ma ci saranno anche eccezioni per le forze dell’ordine in alcuni casi specifici.</s>
+                <s xml:lang="ita" xml:id="z240315.m2ps4.i">Intanto la Commissione europea ha chiesto informazioni a 8 colossi del web, compresi Facebook e Google, sull’intelligenza artificiale generativa e la diffusione di <hi rend="italic">deepfake</hi>.</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.m2hs1.l #z240315.m2hs1.i" />
+            <link target="#z240315.m2ps1.l #z240315.m2ps1.i" />
+            <link target="#z240315.m2ps2.l #z240315.m2ps2.i" />
+            <link target="#z240315.m2ps3.l #z240315.m2ps3.i" />
+            <link target="#z240315.m2ps4.l #z240315.m2ps4.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.m2.l #z240315.m2.i" />
+          </linkGrp>
+          <div xml:id="z240315.m3">
+            <div xml:lang="lij" xml:id="z240315.m3.l">
+              <head xml:lang="lij" xml:id="z240315.m3h.l">
+                <s xml:lang="lij" xml:id="z240315.m3hs1.l">Oscar, <hi rend="italic">Oppenheimer</hi> do Nolan o trionfa con sette premmi</s>
+              </head>
+              <p xml:lang="lij" xml:id="z240315.m3p.l">
+                <s xml:lang="lij" xml:id="z240315.m3ps1.l">
+                  <hi rend="italic">Oppenheimer</hi>, l’urtimo cine do Christopher Nolan basou in sciâ biografia do poæ da bomba atòmica, o l’à trionfou a-a neutte di Oscar incasciando ben 7 premmi in sce 13 nòmine: megio cine, megio attô protagonista e comprimäio, megio regista, montaggio, fotografia e muxica originale.</s>
+                <s xml:lang="lij" xml:id="z240315.m3ps2.l">O premio pe-a megio attoa o l’é anæto a-a Emma Stone pe <hi rend="italic">Poor Things</hi> do Yorgos Lanthimos, za Lion d’Öo à Veneçia, dond’a l’interpreta a Bella Baxter.</s>
+                <s xml:lang="lij" xml:id="z240315.m3ps3.l">O Jonathan Glazer o l’à battuo l’italian Matteo Garrone con <hi rend="italic">The zone of interest</hi> comme megio cine in lengua foresta.</s>
+              </p>
+            </div>
+            <div xml:lang="ita" xml:id="z240315.m3.i">
+              <head xml:lang="ita" xml:id="z240315.m3h.i">
+                <s xml:lang="ita" xml:id="z240315.m3hs1.i">Oscar, <hi rend="italic">Oppenheimer</hi> di Nolan trionfa con sette premi</s>
+              </head>
+              <p xml:lang="ita" xml:id="z240315.m3p.i">
+                <s xml:lang="ita" xml:id="z240315.m3ps1.i">
+                  <hi rend="italic">Oppenheimer</hi>, l’ultimo film di Christopher Nolan basato sulla biografia del padre della bomba atomica, ha trionfato alla notte degli Oscar incassando ben 7 premi su 13 nomination: miglior film, miglior attore protagonista e comprimario, miglior regista, montaggio, fotografia e colonna sonora originale.</s>
+                <s xml:lang="ita" xml:id="z240315.m3ps2.i">Il premio per la miglior attrice è andato a Emma Stone per <hi rend="italic">Poor Things</hi> di Yorgos Lanthimos, già Leone d’Oro a Venezia, dove interpreta Bella Baxter.</s>
+                <s xml:lang="ita" xml:id="z240315.m3ps3.i">Jonathan Glazer ha battuto l’italiano Matteo Garrone con <hi rend="italic">The zone of interest</hi> come miglior film in lingua straniera</s>
+              </p>
+            </div>
+          </div>
+          <linkGrp type="translation">
+            <link target="#z240315.m3hs1.l #z240315.m3hs1.i" />
+            <link target="#z240315.m3ps1.l #z240315.m3ps1.i" />
+            <link target="#z240315.m3ps2.l #z240315.m3ps2.i" />
+            <link target="#z240315.m3ps3.l #z240315.m3ps3.i" />
+          </linkGrp>
+          <linkGrp type="documentTranslation">
+            <link target="#z240315.m3.l #z240315.m3.i" />
           </linkGrp>
         </div>
       </body>

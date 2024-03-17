@@ -14,3 +14,4 @@ python ../tei2corpus.py news.xml valid \
 python ../tei2corpus.py news.xml train \
   -l lij ita \
   --exclude-ids ${TEST_IDS} ${VALID_IDS}
+  
