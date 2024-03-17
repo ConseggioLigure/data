@@ -7,6 +7,7 @@ The data is partitioned according to the class of the named entity.
 | Partition | Topic    |
 |-----------|----------|
 | `urban`   | Names of urban toponyms: names of cities, towns, villages and neighbourhoods of Liguria and other culturally linked territories. |
+| `natural` | Names of natural toponyms: names of the main rivers, mountains, lakes, etc. of Liguria. |
 
 > [!NOTE]
 > This corpus is under construction.
