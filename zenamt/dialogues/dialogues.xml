@@ -1,0 +1,2402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href="https://conseggio-ligure.org/zenamt.rng" type="application/relax-ng-syntax"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="lij">Corpus de dialoghi zeneixi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <s xml:lang="lij">Vivagna originäia</s>
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <TEI xml:id="biggetto-autobo">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Accatto da un biggetto de l’autobo</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="biggetto-autobo.l">
+          <head xml:lang="lij" xml:id="biggetto-autobo.h.l">Accatto da un biggetto de l’autobo</head>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p1.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p1s1.l">Bongiorno, vorriæ un biggetto de l’autobo.</s>
+            <s xml:lang="lij" xml:id="biggetto-autobo.p1s2.l">Spero ch’a segge a vòtta boña che l’attreuvo, perché ò za giou træ baracchin da giornali e doî stanchi e nisciun o n’aiva.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p2.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p2s1.l">Scì, che qualitæ de biggetto?</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p3.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p3s1.l">Mah, un biggetto normale.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p4.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p4s1.l">Pe novanta menuti?</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p5.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p5s1.l">Pe unna corsa.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p6.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p6s1.l">Chì da niatri i biggetti van à menuti, sedonca sciâ peu accattâne un pe unna giornâ intrega, ò donca un carnet da dexe biggetti pe novanta menuti, ch’o costa ciù pöco che dexe biggetti insemme.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p7.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p7s1.l">Na, na, me fermo solo che ancheu, aloa scià me dagghe un biggetto pe novanta menuti.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p8.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p8s1.l">L’é doî euro e dexe.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p9.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p9s1.l">Comme doî euro e dexe?</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p10.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p10s1.l">Doî euro e dexe o l’é o prexo de un biggetto da novanta menuti.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p11.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p11s1.l">Coscì tanto?</s>
+            <s xml:lang="lij" xml:id="biggetto-autobo.p11s2.l">E comme van i autobi chì da viatri, co-a benziña di sceicchi do Kuwait?</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p12.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p12s1.l">O prexo o l’é sto chì.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p13.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p13s1.l">Ma no ghe n’é un ch’o coste ciù pöco?</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p14.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p14s1.l">Na.</s>
+            <s xml:lang="lij" xml:id="biggetto-autobo.p14s2.l">Chì coscì i prexi en sti chì.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p15.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p15s1.l">Ma ammia ti se me tocca tiâ feua doî euro pe fâ euttoçento metri.</s>
+            <s xml:lang="lij" xml:id="biggetto-autobo.p15s2.l">Scià l’agge paçiensa, ma ciufito vaggo à pê.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p16.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p16s1.l">Pe mi, sciâ fasse un pö comme gh’é ciù cao.</s>
+            <s xml:lang="lij" xml:id="biggetto-autobo.p16s2.l">À reveise.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-autobo.p17.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.p17s1.l">Boña giornâ.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="biggetto-autobo.i">
+          <head xml:lang="ita" xml:id="biggetto-autobo.h.i">Acquisto di un biglietto dell’autobus</head>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p1.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p1s1.i">Buongiorno, vorrei un biglietto dell’autobus.</s>
+            <s xml:lang="ita" xml:id="biggetto-autobo.p1s2.i">Spero che sia la volta buona che lo trovo, perché ho già girato tre edicole e due tabacchini e nessuno ne aveva.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p2.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p2s1.i">Sì, che tipo di biglietto?</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p3.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p3s1.i">Mah, un biglietto normale.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p4.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p4s1.i">Da novanta minuti?</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p5.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p5s1.i">Da una corsa.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p6.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p6s1.i">Qui da noi i biglietti vanno a minuti, altrimenti può comprarne uno per una giornata intera, oppure un carnet da dieci biglietti da novanta minuti, che costa meno che dieci biglietti tutti insieme.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p7.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p7s1.i">No, no, mi fermo soltanto oggi, quindi mi dia un biglietto da novanta minuti.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p8.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p8s1.i">Sono due euro e dieci.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p9.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p9s1.i">Come due euro e dieci?</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p10.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p10s1.i">Due euro e dieci è il prezzo di un biglietto da novanta minuti.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p11.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p11s1.i">Così tanto?</s>
+            <s xml:lang="ita" xml:id="biggetto-autobo.p11s2.i">E come funzionano gli autobus qui da voi, con la benzina degli sceicchi del Kuwair?</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p12.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p12s1.i">Il prezzo è questo.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p13.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p13s1.i">Ma non ce n’è uno che costi meno?</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p14.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p14s1.i">No.</s>
+            <s xml:lang="ita" xml:id="biggetto-autobo.p14s2.i">Da queste parti i prezzi sono questi.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p15.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p15s1.i">Ma tu guarda se mi tocca sborsare due euro per fare ottocento metri.</s>
+            <s xml:lang="ita" xml:id="biggetto-autobo.p15s2.i">Voglia scusare, ma piuttosto vado a piedi.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p16.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p16s1.i">Per me, faccia un po’ come preferisce.</s>
+            <s xml:lang="ita" xml:id="biggetto-autobo.p16s2.i">Arrivederci.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-autobo.p17.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.p17s1.i">Buona giornata.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#biggetto-autobo.p1s1.l #biggetto-autobo.p1s1.i" />
+      <link target="#biggetto-autobo.p1s2.l #biggetto-autobo.p1s2.i" />
+      <link target="#biggetto-autobo.p2s1.l #biggetto-autobo.p2s1.i" />
+      <link target="#biggetto-autobo.p3s1.l #biggetto-autobo.p3s1.i" />
+      <link target="#biggetto-autobo.p4s1.l #biggetto-autobo.p4s1.i" />
+      <link target="#biggetto-autobo.p5s1.l #biggetto-autobo.p5s1.i" />
+      <link target="#biggetto-autobo.p6s1.l #biggetto-autobo.p6s1.i" />
+      <link target="#biggetto-autobo.p7s1.l #biggetto-autobo.p7s1.i" />
+      <link target="#biggetto-autobo.p8s1.l #biggetto-autobo.p8s1.i" />
+      <link target="#biggetto-autobo.p9s1.l #biggetto-autobo.p9s1.i" />
+      <link target="#biggetto-autobo.p10s1.l #biggetto-autobo.p10s1.i" />
+      <link target="#biggetto-autobo.p11s1.l #biggetto-autobo.p11s1.i" />
+      <link target="#biggetto-autobo.p11s2.l #biggetto-autobo.p11s2.i" />
+      <link target="#biggetto-autobo.p12s1.l #biggetto-autobo.p12s1.i" />
+      <link target="#biggetto-autobo.p13s1.l #biggetto-autobo.p13s1.i" />
+      <link target="#biggetto-autobo.p14s1.l #biggetto-autobo.p14s1.i" />
+      <link target="#biggetto-autobo.p14s2.l #biggetto-autobo.p14s2.i" />
+      <link target="#biggetto-autobo.p15s1.l #biggetto-autobo.p15s1.i" />
+      <link target="#biggetto-autobo.p15s2.l #biggetto-autobo.p15s2.i" />
+      <link target="#biggetto-autobo.p16s1.l #biggetto-autobo.p16s1.i" />
+      <link target="#biggetto-autobo.p16s2.l #biggetto-autobo.p16s2.i" />
+      <link target="#biggetto-autobo.p17s1.l #biggetto-autobo.p17s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#biggetto-autobo.l #biggetto-autobo.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="biggetto-treno">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Accatto de un biggetto do treno</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="biggetto-treno.l">
+          <head xml:lang="lij" xml:id="biggetto-treno.h.l">Accatto de un biggetto do treno</head>
+          <p xml:lang="lij" xml:id="biggetto-treno.p1.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p1s1.l">Bongiorno, vorrieiva accattâ un biggetto pe doman mattin, da Zena à Saña.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p1s2.l">Scià l’agge paçiensa, ma no l’é poscibile che tutte e vòtte che un o preuva à deuviâ e machinette, no fonçioñan mai.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p2.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p2s1.l">Me rincresce, l’é quello che dixe tante gente.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p3.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p3s1.l">Magara scià ne parle co-o seu prinçipâ, se sciâ peu.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p3s2.l">No se peu perde vinti menuti tutte e vòtte pe accattâ un biggetto da-e machinette e sciorbîse ancon vinti menuti de coa da-i sportelli.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p4.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p4s1.l">Me rincresce tanto, ma a l’é unna cösa ch’a no depende ni de mi, ni da-i mæ prinçipæ.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p4s2.l">Beseugna che vëgne di tecnichi à controllâ tutte e machinette pe asseguâse che fonçioñan sensa di guasti ògni dötrei giorni.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p4s3.l">À tutti i mòddi, sciâ me diva che sciâ vorrieiva un biggetto da Zena à Saña, giusto?</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p5.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p5s1.l">Scì, pe piaxei.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p6.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p6s1.l">Quande e à che oa?</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p6s2.l">De de chì da Prinçipe?</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p7.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p7s1.l">Pe doman à partî da eutt’oe da mattin.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p7s2.l">Scì, da Prinçipe.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p8.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p8s1.l">Gh’é un regionale spedio ch’o parte à eutto e vinti e ch’o l’arriva à Saña à manca un quarto à dex’oe.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p8s2.l">O ghe va ben?</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p9.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p9s1.l">Scì, diæ de scì.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p10.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p10s1.l">Beniscimo, l’é çinque euro e quarantedoî.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p11.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p11s1.l">Aloa...</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p11s2.l">Çinque...</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p11s3.l">Oua beseugna che çerche into portafeuggio se gh’ò e monæe giuste...</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p11s4.l">Chì, sciâ pigge çinquanta.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p12.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p12s1.l">Graçie.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p12s2.l">Oua ghe daggo o resto...</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p13.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p13s1.l">Scià l’ammie, sciâ se î tëgne, che tanto eutto citti no me servan à ninte.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p13s2.l">Ciufito scià l’ammie se sciâ peu fâ savei à chi de dovei de vegnî à dâ recatto a-e machinette.</s>
+            <s xml:lang="lij" xml:id="biggetto-treno.p13s3.l">Scignoria.</s>
+          </p>
+          <p xml:lang="lij" xml:id="biggetto-treno.p14.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.p14s1.l">Scignoria, boña giornâ.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="biggetto-treno.i">
+          <head xml:lang="ita" xml:id="biggetto-treno.h.i">Acquisto di un biglietto del treno</head>
+          <p xml:lang="ita" xml:id="biggetto-treno.p1.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p1s1.i">Buongiorno, vorrei comprare un biglietto per domattina, da Genova a Savona.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p1s2.i">Scusi, ma non è possibile che ogni volta che uno prova a usare le macchinette, quelle non funzionano.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p2.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p2s1.i">Mi spiace, è quello che dicono in molti.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p3.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p3s1.i">Magari ne parli con il suo principale, se può.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p3s2.i">Non si possono perdere venti minuti ogni volta per comprare un biglietto alle macchinette e sorbirsi ancora venti minuti di coda agli sportelli.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p4.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p4s1.i">Mi spiace molto, ma è una cosa che non dipende né da me, né dai miei principali.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p4s2.i">Occorre che vengano dei tecnici a controllare tutte le macchinette per assicurarsi che funzionino senza avere guasti ogni pochi giorni.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p4s3.i">Ad ogni modo, mi diceva che vorrebbe un biglietto da Genova a Savona, giusto?</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p5.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p5s1.i">Sì, grazie.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p6.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p6s1.i">Quando e a che ora?</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p6s2.i">Da qui a Principe?</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p7.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p7s1.i">Per domani a partire dalle otto del mattino.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p7s2.i">Sì, da Principe.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p8.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p8s1.i">C’è un regionale veloce che parte alle otto e venti e che arriva a Savona alle dieci meno un quarto.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p8s2.i">Le va bene?</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p9.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p9s1.i">Sì, direi di sì.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p10.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p10s1.i">Benissimo, sono cinque euro e quarantadue.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p11.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p11s1.i">Dunque...</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p11s2.i">Cinque...</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p11s3.i">Adesso devo cercare nel portafoglio, se ho le monete giuste...</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p11s4.i">Ecco, prenda cinquanta.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p12.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p12s1.i">Grazie.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p12s2.i">Ora le do il resto...</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p13.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p13s1.i">Guardi, se li tenga, tanto otto centesimi non mi servono a nulla.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p13s2.i">Piuttosto veda se può far sapere a chi di dovere di venire a sistemare le macchinette.</s>
+            <s xml:lang="ita" xml:id="biggetto-treno.p13s3.i">Arrivederci.</s>
+          </p>
+          <p xml:lang="ita" xml:id="biggetto-treno.p14.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.p14s1.i">Arrivederci, buona giornata.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#biggetto-treno.p1s1.l #biggetto-treno.p1s1.i" />
+      <link target="#biggetto-treno.p1s2.l #biggetto-treno.p1s2.i" />
+      <link target="#biggetto-treno.p2s1.l #biggetto-treno.p2s1.i" />
+      <link target="#biggetto-treno.p3s1.l #biggetto-treno.p3s1.i" />
+      <link target="#biggetto-treno.p3s2.l #biggetto-treno.p3s2.i" />
+      <link target="#biggetto-treno.p4s1.l #biggetto-treno.p4s1.i" />
+      <link target="#biggetto-treno.p4s2.l #biggetto-treno.p4s2.i" />
+      <link target="#biggetto-treno.p4s3.l #biggetto-treno.p4s3.i" />
+      <link target="#biggetto-treno.p5s1.l #biggetto-treno.p5s1.i" />
+      <link target="#biggetto-treno.p6s1.l #biggetto-treno.p6s1.i" />
+      <link target="#biggetto-treno.p6s2.l #biggetto-treno.p6s2.i" />
+      <link target="#biggetto-treno.p7s1.l #biggetto-treno.p7s1.i" />
+      <link target="#biggetto-treno.p7s2.l #biggetto-treno.p7s2.i" />
+      <link target="#biggetto-treno.p8s1.l #biggetto-treno.p8s1.i" />
+      <link target="#biggetto-treno.p8s2.l #biggetto-treno.p8s2.i" />
+      <link target="#biggetto-treno.p9s1.l #biggetto-treno.p9s1.i" />
+      <link target="#biggetto-treno.p10s1.l #biggetto-treno.p10s1.i" />
+      <link target="#biggetto-treno.p11s1.l #biggetto-treno.p11s1.i" />
+      <link target="#biggetto-treno.p11s2.l #biggetto-treno.p11s2.i" />
+      <link target="#biggetto-treno.p11s3.l #biggetto-treno.p11s3.i" />
+      <link target="#biggetto-treno.p11s4.l #biggetto-treno.p11s4.i" />
+      <link target="#biggetto-treno.p12s1.l #biggetto-treno.p12s1.i" />
+      <link target="#biggetto-treno.p12s2.l #biggetto-treno.p12s2.i" />
+      <link target="#biggetto-treno.p13s1.l #biggetto-treno.p13s1.i" />
+      <link target="#biggetto-treno.p13s2.l #biggetto-treno.p13s2.i" />
+      <link target="#biggetto-treno.p13s3.l #biggetto-treno.p13s3.i" />
+      <link target="#biggetto-treno.p14s1.l #biggetto-treno.p14s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#biggetto-treno.l #biggetto-treno.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="che-autobo">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Çerne l’autobo</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="che-autobo.l">
+          <head xml:lang="lij" xml:id="che-autobo.h.l">Çerne l’autobo</head>
+          <p xml:lang="lij" xml:id="che-autobo.p1.l">
+            <s xml:lang="lij" xml:id="che-autobo.p1s1.l">Che autobo piggemmo?</s>
+          </p>
+          <p xml:lang="lij" xml:id="che-autobo.p2.l">
+            <s xml:lang="lij" xml:id="che-autobo.p2s1.l">Dimme ti, se te gusta de ciù ammiâ o mâ, poemmo piggiâ o chinze, sedonca, pe fâ ciù fito, porriëscimo piggiâ o dïsette, ma o Corso Euröpa o l’é unna vista ch’a mette tristessa.</s>
+          </p>
+          <p xml:lang="lij" xml:id="che-autobo.p3.l">
+            <s xml:lang="lij" xml:id="che-autobo.p3s1.l">Ti dixi?</s>
+            <s xml:lang="lij" xml:id="che-autobo.p3s2.l">Ma tanto quande s’arriva à Nervi se rescioemmo!</s>
+            <s xml:lang="lij" xml:id="che-autobo.p3s3.l">E se, comme an dito, no se peu anâ in sciâ Passaggiâ pe-o mâ gròsso, poemmo anâ inti Parchi…</s>
+          </p>
+          <p xml:lang="lij" xml:id="che-autobo.p4.l">
+            <s xml:lang="lij" xml:id="che-autobo.p4s1.l">Scì, però se l’é vea ch’a l’é unna meistraladda, reiseghemmo de finî de lengê inti remoin de pua: into Parco l’é za un pö che no se fa ciù a ciantomaçion do zerbo, inte çerti ponti o pâ bombezzou!</s>
+          </p>
+          <p xml:lang="lij" xml:id="che-autobo.p5.l">
+            <s xml:lang="lij" xml:id="che-autobo.p5s1.l">Baccere comme t’ê öxello de gramma neuva!</s>
+            <s xml:lang="lij" xml:id="che-autobo.p5s2.l">Ma figurite se no an fæto o prou!</s>
+            <s xml:lang="lij" xml:id="che-autobo.p5s3.l">Gh’emmo i megio giardinê d’Italia!</s>
+          </p>
+          <p xml:lang="lij" xml:id="che-autobo.p6.l">
+            <s xml:lang="lij" xml:id="che-autobo.p6s1.l">Mia, no gh’ò coæ de parlâ de glöie passæ…</s>
+          </p>
+          <p xml:lang="lij" xml:id="che-autobo.p7.l">
+            <s xml:lang="lij" xml:id="che-autobo.p7s1.l">T’ê delongo o mæximo, se no anemmo à finî pe parlâ de politica e rattellâ, no t’ê contento!</s>
+          </p>
+          <p xml:lang="lij" xml:id="che-autobo.p8.l">
+            <s xml:lang="lij" xml:id="che-autobo.p8s1.l">Stanni à sentî, anemmo inta Gallaia d’Arte Moderna, coscì mi no veddo tutto quello ch’an desentegou inti Parchi, no fasso o moro da desmuo e ti, no ti m’angosci.</s>
+          </p>
+          <p xml:lang="lij" xml:id="che-autobo.p9.l">
+            <s xml:lang="lij" xml:id="che-autobo.p9s1.l">Scì, femmo coscì.</s>
+            <s xml:lang="lij" xml:id="che-autobo.p9s2.l">Ascì se oua te mandieva à quello paise, atro che anâ à Nervi!</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="che-autobo.i">
+          <head xml:lang="ita" xml:id="che-autobo.h.i">Scegliere l’autobus</head>
+          <p xml:lang="ita" xml:id="che-autobo.p1.i">
+            <s xml:lang="ita" xml:id="che-autobo.p1s1.i">Che autobus prendiamo?</s>
+          </p>
+          <p xml:lang="ita" xml:id="che-autobo.p2.i">
+            <s xml:lang="ita" xml:id="che-autobo.p2s1.i">Dimmi tu, se ti piace di più guardare il mare potremmo prendere il quindici, altrimenti, per fare prima, potremmo prendere il diciassette, ma Corso Europa è un panorama che mette tristezza</s>
+          </p>
+          <p xml:lang="ita" xml:id="che-autobo.p3.i">
+            <s xml:lang="ita" xml:id="che-autobo.p3s1.i">Dici?</s>
+            <s xml:lang="ita" xml:id="che-autobo.p3s2.i">Ma tanto quando si arriva a Nervi ci ricreiamo!</s>
+            <s xml:lang="ita" xml:id="che-autobo.p3s3.i">E se come hanno detto, non si può andare sulla Passeggiata per la mareggiata, possiamo andare ai Parchi…</s>
+          </p>
+          <p xml:lang="ita" xml:id="che-autobo.p4.i">
+            <s xml:lang="ita" xml:id="che-autobo.p4s1.i">Sì, però se è vero che è burrasca di maestrale, rischiamo di finire facilmente nei mulinelli di polvere: è parecchio che nei Parchi non fanno la piantumazione del prato, in certi punti sembra bombardato!</s>
+          </p>
+          <p xml:lang="ita" xml:id="che-autobo.p5.i">
+            <s xml:lang="ita" xml:id="che-autobo.p5s1.i">Caspita che uccello del malaugurio che sei!</s>
+            <s xml:lang="ita" xml:id="che-autobo.p5s2.i">Ma figurati se non hanno fatto il prato!</s>
+            <s xml:lang="ita" xml:id="che-autobo.p5s3.i">Abbiamo i migliori giardinieri d’Italia!</s>
+          </p>
+          <p xml:lang="ita" xml:id="che-autobo.p6.i">
+            <s xml:lang="ita" xml:id="che-autobo.p6s1.i">Guarda, non ho voglia di parlare delle glorie passate…</s>
+          </p>
+          <p xml:lang="ita" xml:id="che-autobo.p7.i">
+            <s xml:lang="ita" xml:id="che-autobo.p7s1.i">Sei sempre lo stesso, se non finiamo per parlare di politica e litigare, non sei contento!</s>
+          </p>
+          <p xml:lang="ita" xml:id="che-autobo.p8.i">
+            <s xml:lang="ita" xml:id="che-autobo.p8s1.i">Guarda, andiamo alla Galleria d’Arte Moderna, così io non vedo tutto quello che hanno sradicato nei Parchi, non metto il muso da lutto e tu, non mi scocci.</s>
+          </p>
+          <p xml:lang="ita" xml:id="che-autobo.p9.i">
+            <s xml:lang="ita" xml:id="che-autobo.p9s1.i">Sì, facciamo così.</s>
+            <s xml:lang="ita" xml:id="che-autobo.p9s2.i">Anche se adesso ti manderei a quel Paese, altro che andare a Nervi!</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#che-autobo.p1s1.l #che-autobo.p1s1.i" />
+      <link target="#che-autobo.p2s1.l #che-autobo.p2s1.i" />
+      <link target="#che-autobo.p3s1.l #che-autobo.p3s1.i" />
+      <link target="#che-autobo.p3s2.l #che-autobo.p3s2.i" />
+      <link target="#che-autobo.p3s3.l #che-autobo.p3s3.i" />
+      <link target="#che-autobo.p4s1.l #che-autobo.p4s1.i" />
+      <link target="#che-autobo.p5s1.l #che-autobo.p5s1.i" />
+      <link target="#che-autobo.p5s2.l #che-autobo.p5s2.i" />
+      <link target="#che-autobo.p5s3.l #che-autobo.p5s3.i" />
+      <link target="#che-autobo.p6s1.l #che-autobo.p6s1.i" />
+      <link target="#che-autobo.p7s1.l #che-autobo.p7s1.i" />
+      <link target="#che-autobo.p8s1.l #che-autobo.p8s1.i" />
+      <link target="#che-autobo.p9s1.l #che-autobo.p9s1.i" />
+      <link target="#che-autobo.p9s2.l #che-autobo.p9s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#che-autobo.l #che-autobo.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="cirolla1">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Contando i ponti a-a cirolla</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="cirolla1.l">
+          <head xml:lang="lij" xml:id="cirolla1.h.l">Contando i ponti a-a cirolla</head>
+          <p xml:lang="lij" xml:id="cirolla1.p1.l">
+            <s xml:lang="lij" xml:id="cirolla1.p1s1.l">Dixeutto, dixineuve, vinti, vintuña… Fasso carte…</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p2.l">
+            <s xml:lang="lij" xml:id="cirolla1.p2s1.l">O sette bello o l’é o mæ.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p3.l">
+            <s xml:lang="lij" xml:id="cirolla1.p3s1.l">O sette bello o l’é o teu.</s>
+            <s xml:lang="lij" xml:id="cirolla1.p3s2.l">Ti fæ sette bello, dinæ… A primmea de chi a l’é?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p4.l">
+            <s xml:lang="lij" xml:id="cirolla1.p4s1.l">Contila ti, che mi no son bon.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p5.l">
+            <s xml:lang="lij" xml:id="cirolla1.p5s1.l">Aloa, mi gh’ò doî sette e un sëi… M’ammanca spâ… Ti cöse t’æ de spâ?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p6.l">
+            <s xml:lang="lij" xml:id="cirolla1.p6s1.l">De spâ gh’ò un quattro.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p7.l">
+            <s xml:lang="lij" xml:id="cirolla1.p7s1.l">Aloa ninte, mi gh’ò un asso, a primmea a l’é a mæ.</s>
+            <s xml:lang="lij" xml:id="cirolla1.p7s2.l">Aloa mi fasso carte e primmea, ti ti fæ dinæ e sette bello…</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p8.l">
+            <s xml:lang="lij" xml:id="cirolla1.p8s1.l">E fasso a bassa da l’un a-o trei.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p9.l">
+            <s xml:lang="lij" xml:id="cirolla1.p9s1.l">Ah, scì, t’ô lì.</s>
+            <s xml:lang="lij" xml:id="cirolla1.p9s2.l">Aloa mi fasso doî, ti ti fæ doî e trei, çinque… À quante semmo?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p10.l">
+            <s xml:lang="lij" xml:id="cirolla1.p10s1.l">Quante sgobbe t’aivi fæto, che no l’ò ciù in cheu?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p11.l">
+            <s xml:lang="lij" xml:id="cirolla1.p11s1.l">Çinque sgobbe.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p12.l">
+            <s xml:lang="lij" xml:id="cirolla1.p12s1.l">Aloa mi vaggo à çinquantedoî e ti ti t’affermi à quaranteneuve.</s>
+            <s xml:lang="lij" xml:id="cirolla1.p12s2.l">Ò guägno!</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p13.l">
+            <s xml:lang="lij" xml:id="cirolla1.p13s1.l">E t’ô creddo, con tutte e boñe che ti gii delongo… Va ben, ne femmo unn’atra?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p14.l">
+            <s xml:lang="lij" xml:id="cirolla1.p14s1.l">Dagghe, coscì no ti t’allamenti che no son sportivo.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p15.l">
+            <s xml:lang="lij" xml:id="cirolla1.p15s1.l">Ben, aloa remescia e carte.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p16.l">
+            <s xml:lang="lij" xml:id="cirolla1.p16s1.l">Comme, remescia e carte!</s>
+            <s xml:lang="lij" xml:id="cirolla1.p16s2.l">Ê ò tòsto dæte mi!</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p17.l">
+            <s xml:lang="lij" xml:id="cirolla1.p17s1.l">Scì, ma t’æ guägno, ti vorriæ fâme a-o manco sto piaxei?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p18.l">
+            <s xml:lang="lij" xml:id="cirolla1.p18s1.l">E va ben… Coppa.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla1.p19.l">
+            <s xml:lang="lij" xml:id="cirolla1.p19s1.l">Passo.</s>
+            <s xml:lang="lij" xml:id="cirolla1.p19s2.l">Ammia se ti peu mette torna trenta in sciâ töa!</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="cirolla1.i">
+          <head xml:lang="ita" xml:id="cirolla1.h.i">Contando i punti a cirulla</head>
+          <p xml:lang="ita" xml:id="cirolla1.p1.i">
+            <s xml:lang="ita" xml:id="cirolla1.p1s1.i">Diciotto, diciannove, venti, ventuno… Faccio carte…</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p2.i">
+            <s xml:lang="ita" xml:id="cirolla1.p2s1.i">Il sette bello è il mio.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p3.i">
+            <s xml:lang="ita" xml:id="cirolla1.p3s1.i">Il sette bello è il tuo.</s>
+            <s xml:lang="ita" xml:id="cirolla1.p3s2.i">Fai sette bello, ori… La primiera di chi è?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p4.i">
+            <s xml:lang="ita" xml:id="cirolla1.p4s1.i">Contala tu, io non sono capace.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p5.i">
+            <s xml:lang="ita" xml:id="cirolla1.p5s1.i">Allora, io ho un sette e un sei… Mi mancano picche… Tu cos’hai di picche?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p6.i">
+            <s xml:lang="ita" xml:id="cirolla1.p6s1.i">Di picche ho un quattro.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p7.i">
+            <s xml:lang="ita" xml:id="cirolla1.p7s1.i">Allora nulla, io ho un asso, la primiera è mia.</s>
+            <s xml:lang="ita" xml:id="cirolla1.p7s2.i">Allora io faccio carte e primiera, tu fai ori e sette bello…</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p8.i">
+            <s xml:lang="ita" xml:id="cirolla1.p8s1.i">E faccio la bassa dall’uno al tre.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p9.i">
+            <s xml:lang="ita" xml:id="cirolla1.p9s1.i">Ah, sì, ecco.</s>
+            <s xml:lang="ita" xml:id="cirolla1.p9s2.i">Allora io faccio due, tu fai due più tre, cinque… A quanto siamo?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p10.i">
+            <s xml:lang="ita" xml:id="cirolla1.p10s1.i">Quante scope avevi fatto, che non mi ricordo?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p11.i">
+            <s xml:lang="ita" xml:id="cirolla1.p11s1.i">Cinque scope.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p12.i">
+            <s xml:lang="ita" xml:id="cirolla1.p12s1.i">Allora io vado a cinquantadue e tu rimani a quarantanove.</s>
+            <s xml:lang="ita" xml:id="cirolla1.p12s2.i">Ho vinto!</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p13.i">
+            <s xml:lang="ita" xml:id="cirolla1.p13s1.i">E lo credo, con tutte le buone che giri in continuazione… Vabbe’, ne facciamo un’altra?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p14.i">
+            <s xml:lang="ita" xml:id="cirolla1.p14s1.i">D’accordo, così non puoi lamentarti dicendo che non sono sportivo.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p15.i">
+            <s xml:lang="ita" xml:id="cirolla1.p15s1.i">Bene, allora mescola le carte.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p16.i">
+            <s xml:lang="ita" xml:id="cirolla1.p16s1.i">Come, mescola le carte!</s>
+            <s xml:lang="ita" xml:id="cirolla1.p16s2.i">Le ho appena date io!</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p17.i">
+            <s xml:lang="ita" xml:id="cirolla1.p17s1.i">Sì, ma hai vinto, vorrai farmi almeno questo favore?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p18.i">
+            <s xml:lang="ita" xml:id="cirolla1.p18s1.i">E va bene… Taglia.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla1.p19.i">
+            <s xml:lang="ita" xml:id="cirolla1.p19s1.i">Passo.</s>
+            <s xml:lang="ita" xml:id="cirolla1.p19s2.i">Prova a mettere di nuovo trenta in tavola!</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#cirolla1.p1s1.l #cirolla1.p1s1.i" />
+      <link target="#cirolla1.p2s1.l #cirolla1.p2s1.i" />
+      <link target="#cirolla1.p3s1.l #cirolla1.p3s1.i" />
+      <link target="#cirolla1.p3s2.l #cirolla1.p3s2.i" />
+      <link target="#cirolla1.p4s1.l #cirolla1.p4s1.i" />
+      <link target="#cirolla1.p5s1.l #cirolla1.p5s1.i" />
+      <link target="#cirolla1.p6s1.l #cirolla1.p6s1.i" />
+      <link target="#cirolla1.p7s1.l #cirolla1.p7s1.i" />
+      <link target="#cirolla1.p7s2.l #cirolla1.p7s2.i" />
+      <link target="#cirolla1.p8s1.l #cirolla1.p8s1.i" />
+      <link target="#cirolla1.p9s1.l #cirolla1.p9s1.i" />
+      <link target="#cirolla1.p9s2.l #cirolla1.p9s2.i" />
+      <link target="#cirolla1.p10s1.l #cirolla1.p10s1.i" />
+      <link target="#cirolla1.p11s1.l #cirolla1.p11s1.i" />
+      <link target="#cirolla1.p12s1.l #cirolla1.p12s1.i" />
+      <link target="#cirolla1.p12s2.l #cirolla1.p12s2.i" />
+      <link target="#cirolla1.p13s1.l #cirolla1.p13s1.i" />
+      <link target="#cirolla1.p14s1.l #cirolla1.p14s1.i" />
+      <link target="#cirolla1.p15s1.l #cirolla1.p15s1.i" />
+      <link target="#cirolla1.p16s1.l #cirolla1.p16s1.i" />
+      <link target="#cirolla1.p16s2.l #cirolla1.p16s2.i" />
+      <link target="#cirolla1.p17s1.l #cirolla1.p17s1.i" />
+      <link target="#cirolla1.p18s1.l #cirolla1.p18s1.i" />
+      <link target="#cirolla1.p19s1.l #cirolla1.p19s1.i" />
+      <link target="#cirolla1.p19s2.l #cirolla1.p19s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#cirolla1.l #cirolla1.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="cirolla2">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Zugando a-a cirolla</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="cirolla2.l">
+          <head xml:lang="lij" xml:id="cirolla2.h.l">Zugando a-a cirolla</head>
+          <p xml:lang="lij" xml:id="cirolla2.p1.l">
+            <s xml:lang="lij" xml:id="cirolla2.p1s1.l">Cöse t’æ piggiou?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p2.l">
+            <s xml:lang="lij" xml:id="cirolla2.p2s1.l">O sëi e o sbiro…</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p3.l">
+            <s xml:lang="lij" xml:id="cirolla2.p3s1.l">E comme ti fæ à piggiâ o sëi co-o sbiro?</s>
+            <s xml:lang="lij" xml:id="cirolla2.p3s2.l">En quattòrze!</s>
+            <s xml:lang="lij" xml:id="cirolla2.p3s3.l">Lascia lì in sciâ töa.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p4.l">
+            <s xml:lang="lij" xml:id="cirolla2.p4s1.l">Comme, ma no en chinze?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p5.l">
+            <s xml:lang="lij" xml:id="cirolla2.p5s1.l">Aloa, se ti piggi dònna e sëi ti fæ chinze.</s>
+            <s xml:lang="lij" xml:id="cirolla2.p5s2.l">O sbiro o vâ eutto.</s>
+            <s xml:lang="lij" xml:id="cirolla2.p5s3.l">Donca co-o sbiro ò che ti piggi un atro sbiro, ò che ti piggi o sette.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p6.l">
+            <s xml:lang="lij" xml:id="cirolla2.p6s1.l">Me sconfondo delongo…</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p7.l">
+            <s xml:lang="lij" xml:id="cirolla2.p7s1.l">Va ben.</s>
+            <s xml:lang="lij" xml:id="cirolla2.p7s2.l">Intanto marca dexe ponti pe mi.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p8.l">
+            <s xml:lang="lij" xml:id="cirolla2.p8s1.l">Comme, dexe ponti?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p9.l">
+            <s xml:lang="lij" xml:id="cirolla2.p9s1.l">Ammia chì, trei asci.</s>
+            <s xml:lang="lij" xml:id="cirolla2.p9s2.l">E con sto chì fasso fiña sgobba.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p10.l">
+            <s xml:lang="lij" xml:id="cirolla2.p10s1.l">Bellan, ma t’æ ciù cû che anima…</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p11.l">
+            <s xml:lang="lij" xml:id="cirolla2.p11s1.l">Scì, dagghe, zeuga.</s>
+            <s xml:lang="lij" xml:id="cirolla2.p11s2.l">Ma stavòtta ammia a-o manco de contâ ben.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p12.l">
+            <s xml:lang="lij" xml:id="cirolla2.p12s1.l">O poncin o l’é o sette à dinæ ò de coppe?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p13.l">
+            <s xml:lang="lij" xml:id="cirolla2.p13s1.l">O sette de coppe.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p14.l">
+            <s xml:lang="lij" xml:id="cirolla2.p14s1.l">Aloa marchime træ sgobbe.</s>
+            <s xml:lang="lij" xml:id="cirolla2.p14s2.l">Ammia chì.</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p15.l">
+            <s xml:lang="lij" xml:id="cirolla2.p15s1.l">T’æ o sette de coppe e doî çinque.</s>
+            <s xml:lang="lij" xml:id="cirolla2.p15s2.l">Comme ti fæ à fâ træ sgobbe?</s>
+          </p>
+          <p xml:lang="lij" xml:id="cirolla2.p16.l">
+            <s xml:lang="lij" xml:id="cirolla2.p16s1.l">Çinque e çinque, dexe… Ah, scì, t’æ raxon…</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="cirolla2.i">
+          <head xml:lang="ita" xml:id="cirolla2.h.i">Giocando a cirulla</head>
+          <p xml:lang="ita" xml:id="cirolla2.p1.i">
+            <s xml:lang="ita" xml:id="cirolla2.p1s1.i">Cos’hai preso?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p2.i">
+            <s xml:lang="ita" xml:id="cirolla2.p2s1.i">Il sei e il fante.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p3.i">
+            <s xml:lang="ita" xml:id="cirolla2.p3s1.i">Ma come puoi prendere il sei con il fante?</s>
+            <s xml:lang="ita" xml:id="cirolla2.p3s2.i">Sono quattordici!</s>
+            <s xml:lang="ita" xml:id="cirolla2.p3s3.i">Lascia lì sul tavolo.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p4.i">
+            <s xml:lang="ita" xml:id="cirolla2.p4s1.i">Ma come, non sono quindici?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p5.i">
+            <s xml:lang="ita" xml:id="cirolla2.p5s1.i">Allora, se prendi la regina e il sei fai quindici.</s>
+            <s xml:lang="ita" xml:id="cirolla2.p5s2.i">Il fante vale otto.</s>
+            <s xml:lang="ita" xml:id="cirolla2.p5s3.i">Quindi, con il fante, o prendi un altro fante, oppure il sette.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p6.i">
+            <s xml:lang="ita" xml:id="cirolla2.p6s1.i">Mi confondo sempre…</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p7.i">
+            <s xml:lang="ita" xml:id="cirolla2.p7s1.i">Vabbe’.</s>
+            <s xml:lang="ita" xml:id="cirolla2.p7s2.i">Intanto segna dieci punti.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p8.i">
+            <s xml:lang="ita" xml:id="cirolla2.p8s1.i">Come, dieci punti?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p9.i">
+            <s xml:lang="ita" xml:id="cirolla2.p9s1.i">Guarda qui, tre assi.</s>
+            <s xml:lang="ita" xml:id="cirolla2.p9s2.i">E con questo faccio anche scopa.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p10.i">
+            <s xml:lang="ita" xml:id="cirolla2.p10s1.i">Cacchio, ma che culo…</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p11.i">
+            <s xml:lang="ita" xml:id="cirolla2.p11s1.i">Sì, dai, gioca.</s>
+            <s xml:lang="ita" xml:id="cirolla2.p11s2.i">Ma stavolta bada almeno di fare bene i conti.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p12.i">
+            <s xml:lang="ita" xml:id="cirolla2.p12s1.i">La matta è il sette di denari o di cuori?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p13.i">
+            <s xml:lang="ita" xml:id="cirolla2.p13s1.i">Il sette di cuori.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p14.i">
+            <s xml:lang="ita" xml:id="cirolla2.p14s1.i">Allora segnami tre scope.</s>
+            <s xml:lang="ita" xml:id="cirolla2.p14s2.i">Guarda qua.</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p15.i">
+            <s xml:lang="ita" xml:id="cirolla2.p15s1.i">Hai il sette di cuori e due cinque.</s>
+            <s xml:lang="ita" xml:id="cirolla2.p15s2.i">Come puoi fare tre scope?</s>
+          </p>
+          <p xml:lang="ita" xml:id="cirolla2.p16.i">
+            <s xml:lang="ita" xml:id="cirolla2.p16s1.i">Cinque più cinque, dieci… Ah, sì, hai ragione…</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#cirolla2.p1s1.l #cirolla2.p1s1.i" />
+      <link target="#cirolla2.p2s1.l #cirolla2.p2s1.i" />
+      <link target="#cirolla2.p3s1.l #cirolla2.p3s1.i" />
+      <link target="#cirolla2.p3s2.l #cirolla2.p3s2.i" />
+      <link target="#cirolla2.p3s3.l #cirolla2.p3s3.i" />
+      <link target="#cirolla2.p4s1.l #cirolla2.p4s1.i" />
+      <link target="#cirolla2.p5s1.l #cirolla2.p5s1.i" />
+      <link target="#cirolla2.p5s2.l #cirolla2.p5s2.i" />
+      <link target="#cirolla2.p5s3.l #cirolla2.p5s3.i" />
+      <link target="#cirolla2.p6s1.l #cirolla2.p6s1.i" />
+      <link target="#cirolla2.p7s1.l #cirolla2.p7s1.i" />
+      <link target="#cirolla2.p7s2.l #cirolla2.p7s2.i" />
+      <link target="#cirolla2.p8s1.l #cirolla2.p8s1.i" />
+      <link target="#cirolla2.p9s1.l #cirolla2.p9s1.i" />
+      <link target="#cirolla2.p9s2.l #cirolla2.p9s2.i" />
+      <link target="#cirolla2.p10s1.l #cirolla2.p10s1.i" />
+      <link target="#cirolla2.p11s1.l #cirolla2.p11s1.i" />
+      <link target="#cirolla2.p11s2.l #cirolla2.p11s2.i" />
+      <link target="#cirolla2.p12s1.l #cirolla2.p12s1.i" />
+      <link target="#cirolla2.p13s1.l #cirolla2.p13s1.i" />
+      <link target="#cirolla2.p14s1.l #cirolla2.p14s1.i" />
+      <link target="#cirolla2.p14s2.l #cirolla2.p14s2.i" />
+      <link target="#cirolla2.p15s1.l #cirolla2.p15s1.i" />
+      <link target="#cirolla2.p15s2.l #cirolla2.p15s2.i" />
+      <link target="#cirolla2.p16s1.l #cirolla2.p16s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#cirolla2.l #cirolla2.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="coxinna">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Inta coxiña, à l’oa da çeña</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="coxinna.l">
+          <head xml:lang="lij" xml:id="coxinna.h.l">Inta coxiña, à l’oa da çeña</head>
+          <p xml:lang="lij" xml:id="coxinna.p1.l">
+            <s xml:lang="lij" xml:id="coxinna.p1s1.l">Cöse ti veu inandiâ de çeña?</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p2.l">
+            <s xml:lang="lij" xml:id="coxinna.p2s1.l">Mah, ghe saiæ ancon sta meza succa e sto pevion da deuviâ.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p3.l">
+            <s xml:lang="lij" xml:id="coxinna.p3s1.l">Ben, aloa se femmo unna pastasciuta con un pö de cremma de verdua e quarcös’atro ancon.</s>
+            <s xml:lang="lij" xml:id="coxinna.p3s2.l">Inta despensa gh’é un sacchettin de lentigge averto.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p4.l">
+            <s xml:lang="lij" xml:id="coxinna.p4s1.l">D’accòrdio, aloa intanto fasso boggî e lentigge.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p5.l">
+            <s xml:lang="lij" xml:id="coxinna.p5s1.l">Scì, ma primma regòrdite de lavâle con de l’ægua freida.</s>
+            <s xml:lang="lij" xml:id="coxinna.p5s2.l">Mi intanto comenso à taggiâ a succa.</s>
+            <s xml:lang="lij" xml:id="coxinna.p5s3.l">Dond’o l’é o cotello gròsso?</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p6.l">
+            <s xml:lang="lij" xml:id="coxinna.p6s1.l">Ammia lì inta cantia donde gh’é e posate.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p7.l">
+            <s xml:lang="lij" xml:id="coxinna.p7s1.l">Inta cantia o no gh’é.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p8.l">
+            <s xml:lang="lij" xml:id="coxinna.p8s1.l">Ah scì, mai scemma, o l’ea ancon chì da-o lavello à sciugâ.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p9.l">
+            <s xml:lang="lij" xml:id="coxinna.p9s1.l">Ben.</s>
+            <s xml:lang="lij" xml:id="coxinna.p9s2.l">Ti me passi o taggiou?</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p10.l">
+            <s xml:lang="lij" xml:id="coxinna.p10s1.l">T’ô chì.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p11.l">
+            <s xml:lang="lij" xml:id="coxinna.p11s1.l">Graçie.</s>
+            <s xml:lang="lij" xml:id="coxinna.p11s2.l">Quande t’æ misso à boggî e lentigge, ti me taggi unna meza çioula ò unna scalòtta?</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p12.l">
+            <s xml:lang="lij" xml:id="coxinna.p12s1.l">Scalòtte no ghe n’é ciù.</s>
+            <s xml:lang="lij" xml:id="coxinna.p12s2.l">N’arresta unna meza çioula ch’a l’é into frigo.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p13.l">
+            <s xml:lang="lij" xml:id="coxinna.p13s1.l">Ben, aloa deuvia quella.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p14.l">
+            <s xml:lang="lij" xml:id="coxinna.p14s1.l">Cös’ò da mette ancon inta poela?</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p15.l">
+            <s xml:lang="lij" xml:id="coxinna.p15s1.l">Ò un pö de butiro, ò sedonca un pö d’euio d’öia, comme t’é ciù cao.</s>
+            <s xml:lang="lij" xml:id="coxinna.p15s2.l">Intanto chì gh’é a succa taggiâ.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p16.l">
+            <s xml:lang="lij" xml:id="coxinna.p16s1.l">E o pevion?</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p17.l">
+            <s xml:lang="lij" xml:id="coxinna.p17s1.l">O pevion gh’ô mettemmo ciù tardi, che tanto o ghe mette ciù pöco à cheuxe.</s>
+            <s xml:lang="lij" xml:id="coxinna.p17s2.l">Quande a çioula a comensa à piggiâ o cô, caccighe a succa, ma stanni attenta à no fâla bruxâ.</s>
+            <s xml:lang="lij" xml:id="coxinna.p17s3.l">Versighe un pö de vin gianco, coscì a piggiâ ascì un pö de savô.</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p18.l">
+            <s xml:lang="lij" xml:id="coxinna.p18s1.l">Quant’an da cheuxe e lentigge?</s>
+          </p>
+          <p xml:lang="lij" xml:id="coxinna.p19.l">
+            <s xml:lang="lij" xml:id="coxinna.p19s1.l">Unna vinteña de menuti, dapeu beseugna scoâle e mettile da unna parte.</s>
+            <s xml:lang="lij" xml:id="coxinna.p19s2.l">No se peuan azzonze subito a-a verdua, sedonca vëgnan mòlle.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="coxinna.i">
+          <head xml:lang="ita" xml:id="coxinna.h.i">In cucina, all’ora di cena</head>
+          <p xml:lang="ita" xml:id="coxinna.p1.i">
+            <s xml:lang="ita" xml:id="coxinna.p1s1.i">Cosa vuoi preparare per cerna?</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p2.i">
+            <s xml:lang="ita" xml:id="coxinna.p2s1.i">Mah, ci sarebbe ancora questa mezza zucca e questo peperone da usare.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p3.i">
+            <s xml:lang="ita" xml:id="coxinna.p3s1.i">Be’, allora facciamo una pastasciutta con un po’ di crema di verdure e con qualcos’altro ancora.</s>
+            <s xml:lang="ita" xml:id="coxinna.p3s2.i">In dispensa c’è un sacchetto aperto di lenticchie.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p4.i">
+            <s xml:lang="ita" xml:id="coxinna.p4s1.i">D’accordo, allora intanto faccio bollire le lenticchie.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p5.i">
+            <s xml:lang="ita" xml:id="coxinna.p5s1.i">Sì, ma prima ricordati di lavarle con acqua fredda.</s>
+            <s xml:lang="ita" xml:id="coxinna.p5s2.i">Io intanto comincio a tagliare la zucca.</s>
+            <s xml:lang="ita" xml:id="coxinna.p5s3.i">Dov’è il coltello grosso?</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p6.i">
+            <s xml:lang="ita" xml:id="coxinna.p6s1.i">Guarda lì nel cassetto delle posate.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p7.i">
+            <s xml:lang="ita" xml:id="coxinna.p7s1.i">Nel cassetto non c’è.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p8.i">
+            <s xml:lang="ita" xml:id="coxinna.p8s1.i">Ah sì, che scema, era ancora qui ad asciugare vicino al lavandino.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p9.i">
+            <s xml:lang="ita" xml:id="coxinna.p9s1.i">Bene.</s>
+            <s xml:lang="ita" xml:id="coxinna.p9s2.i">Mi passi il tagliere?</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p10.i">
+            <s xml:lang="ita" xml:id="coxinna.p10s1.i">Eccolo.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p11.i">
+            <s xml:lang="ita" xml:id="coxinna.p11s1.i">Grazie.</s>
+            <s xml:lang="ita" xml:id="coxinna.p11s2.i">Quando hai messo a bollire le lenticchie, mi tagli una mezza cipolla o uno scalogno?</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p12.i">
+            <s xml:lang="ita" xml:id="coxinna.p12s1.i">Scalogni non ce ne sono più.</s>
+            <s xml:lang="ita" xml:id="coxinna.p12s2.i">Ci rimane solo una mezza cipolla in frigo.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p13.i">
+            <s xml:lang="ita" xml:id="coxinna.p13s1.i">Va bene, allora usa quella.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p14.i">
+            <s xml:lang="ita" xml:id="coxinna.p14s1.i">Cosa devo mettere ancora in padella?</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p15.i">
+            <s xml:lang="ita" xml:id="coxinna.p15s1.i">Un po’ di burro, oppure un po’ d’olio d’oliva, come preferisco.</s>
+            <s xml:lang="ita" xml:id="coxinna.p15s2.i">Intanto qui c’è la zucca tagliata.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p16.i">
+            <s xml:lang="ita" xml:id="coxinna.p16s1.i">E il peperone?</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p17.i">
+            <s xml:lang="ita" xml:id="coxinna.p17s1.i">Il peperone lo mettiamo più tardi, perché ci mette meno a cuocere.</s>
+            <s xml:lang="ita" xml:id="coxinna.p17s2.i">Quando la cipolla comincia a dorarsi, butta dentro la zucca, ma sta’ attenta a non farla bruciare.</s>
+            <s xml:lang="ita" xml:id="coxinna.p17s3.i">Versa un po’ di vino bianco, così si insaporisce anche un po’.</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p18.i">
+            <s xml:lang="ita" xml:id="coxinna.p18s1.i">Quanto devono cuocere le lenticchie?</s>
+          </p>
+          <p xml:lang="ita" xml:id="coxinna.p19.i">
+            <s xml:lang="ita" xml:id="coxinna.p19s1.i">Una ventina di minuti, poi bisogna scolarle e metterle da parte.</s>
+            <s xml:lang="ita" xml:id="coxinna.p19s2.i">Non si possono aggiungere subito alla verdura, altrimenti diventano molli.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#coxinna.p1s1.l #coxinna.p1s1.i" />
+      <link target="#coxinna.p2s1.l #coxinna.p2s1.i" />
+      <link target="#coxinna.p3s1.l #coxinna.p3s1.i" />
+      <link target="#coxinna.p3s2.l #coxinna.p3s2.i" />
+      <link target="#coxinna.p4s1.l #coxinna.p4s1.i" />
+      <link target="#coxinna.p5s1.l #coxinna.p5s1.i" />
+      <link target="#coxinna.p5s2.l #coxinna.p5s2.i" />
+      <link target="#coxinna.p5s3.l #coxinna.p5s3.i" />
+      <link target="#coxinna.p6s1.l #coxinna.p6s1.i" />
+      <link target="#coxinna.p7s1.l #coxinna.p7s1.i" />
+      <link target="#coxinna.p8s1.l #coxinna.p8s1.i" />
+      <link target="#coxinna.p9s1.l #coxinna.p9s1.i" />
+      <link target="#coxinna.p9s2.l #coxinna.p9s2.i" />
+      <link target="#coxinna.p10s1.l #coxinna.p10s1.i" />
+      <link target="#coxinna.p11s1.l #coxinna.p11s1.i" />
+      <link target="#coxinna.p11s2.l #coxinna.p11s2.i" />
+      <link target="#coxinna.p12s1.l #coxinna.p12s1.i" />
+      <link target="#coxinna.p12s2.l #coxinna.p12s2.i" />
+      <link target="#coxinna.p13s1.l #coxinna.p13s1.i" />
+      <link target="#coxinna.p14s1.l #coxinna.p14s1.i" />
+      <link target="#coxinna.p15s1.l #coxinna.p15s1.i" />
+      <link target="#coxinna.p15s2.l #coxinna.p15s2.i" />
+      <link target="#coxinna.p16s1.l #coxinna.p16s1.i" />
+      <link target="#coxinna.p17s1.l #coxinna.p17s1.i" />
+      <link target="#coxinna.p17s2.l #coxinna.p17s2.i" />
+      <link target="#coxinna.p17s3.l #coxinna.p17s3.i" />
+      <link target="#coxinna.p18s1.l #coxinna.p18s1.i" />
+      <link target="#coxinna.p19s1.l #coxinna.p19s1.i" />
+      <link target="#coxinna.p19s2.l #coxinna.p19s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#coxinna.l #coxinna.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="ertoparlante">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Annonçi à l’ertoparlante</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="ertoparlante.l">
+          <head xml:lang="lij" xml:id="ertoparlante.h.l">Annonçi à l’ertoparlante</head>
+          <p xml:lang="lij" xml:id="ertoparlante.p1.l">
+            <s xml:lang="lij" xml:id="ertoparlante.p1s1.l">Ti veu stâ un pö sitto che n’arriëscio à capî squæxi ninte de quello ch’o dixe l’ertoparlante!</s>
+          </p>
+          <p xml:lang="lij" xml:id="ertoparlante.p2.l">
+            <s xml:lang="lij" xml:id="ertoparlante.p2s1.l">Squæxi?</s>
+            <s xml:lang="lij" xml:id="ertoparlante.p2s2.l">Perché t’é arriescia à capî quarcösa?</s>
+            <s xml:lang="lij" xml:id="ertoparlante.p2s3.l">Quell’angæzo o ciarbòtta comme tutto!</s>
+          </p>
+          <p xml:lang="lij" xml:id="ertoparlante.p3.l">
+            <s xml:lang="lij" xml:id="ertoparlante.p3s1.l">Mah!</s>
+            <s xml:lang="lij" xml:id="ertoparlante.p3s2.l">Ò capio che o gio do Pòrto co-o barco o partià à doe oe, e che i biggetti s’accattan depoî a l’Aquäio…</s>
+          </p>
+          <p xml:lang="lij" xml:id="ertoparlante.p4.l">
+            <s xml:lang="lij" xml:id="ertoparlante.p4s1.l">E quelli pe-a Navebus ch’a va à Pegi?</s>
+          </p>
+          <p xml:lang="lij" xml:id="ertoparlante.p5.l">
+            <s xml:lang="lij" xml:id="ertoparlante.p5s1.l">Eh, l’é quello che no son arriescia à capî</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="ertoparlante.i">
+          <head xml:lang="ita" xml:id="ertoparlante.h.i">Annunci all’altoparlante</head>
+          <p xml:lang="ita" xml:id="ertoparlante.p1.i">
+            <s xml:lang="ita" xml:id="ertoparlante.p1s1.i">Vuoi stare un po’ zitto che non riesco a capire quasi niente di quello che dice l’altoparlante!</s>
+          </p>
+          <p xml:lang="ita" xml:id="ertoparlante.p2.i">
+            <s xml:lang="ita" xml:id="ertoparlante.p2s1.i">Quasi?</s>
+            <s xml:lang="ita" xml:id="ertoparlante.p2s2.i">Perché sei riuscita a capire qualcosa?</s>
+            <s xml:lang="ita" xml:id="ertoparlante.p2s3.i">Quell’aggeggio farfuglia incredibilmente!</s>
+          </p>
+          <p xml:lang="ita" xml:id="ertoparlante.p3.i">
+            <s xml:lang="ita" xml:id="ertoparlante.p3s1.i">Mah!</s>
+            <s xml:lang="ita" xml:id="ertoparlante.p3s2.i">Ho capito che il giro del Porto con la nave partirà alle quattordici, e che i biglietti si comprano davanti all’Acquario…</s>
+          </p>
+          <p xml:lang="ita" xml:id="ertoparlante.p4.i">
+            <s xml:lang="ita" xml:id="ertoparlante.p4s1.i">E quelli per la Navebus che va a Pegli?</s>
+          </p>
+          <p xml:lang="ita" xml:id="ertoparlante.p5.i">
+            <s xml:lang="ita" xml:id="ertoparlante.p5s1.i">Eh, è quello che non sono riuscito a capire.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#ertoparlante.p1s1.l #ertoparlante.p1s1.i" />
+      <link target="#ertoparlante.p2s1.l #ertoparlante.p2s1.i" />
+      <link target="#ertoparlante.p2s2.l #ertoparlante.p2s2.i" />
+      <link target="#ertoparlante.p2s3.l #ertoparlante.p2s3.i" />
+      <link target="#ertoparlante.p3s1.l #ertoparlante.p3s1.i" />
+      <link target="#ertoparlante.p3s2.l #ertoparlante.p3s2.i" />
+      <link target="#ertoparlante.p4s1.l #ertoparlante.p4s1.i" />
+      <link target="#ertoparlante.p5s1.l #ertoparlante.p5s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#ertoparlante.l #ertoparlante.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="guidda">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Leçion de guidda</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="guidda.l">
+          <head xml:lang="lij" xml:id="guidda.h.l">Leçion de guidda</head>
+          <p xml:lang="lij" xml:id="guidda.p1.l">
+            <s xml:lang="lij" xml:id="guidda.p1s1.l">A primma cösa da fâ primma ancon de fâ partî a machina a l’é de levâ o fren à man.</s>
+            <s xml:lang="lij" xml:id="guidda.p1s2.l">Chì semmo in cian e inte sto caxo o l’é za tiou zu.</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p2.l">
+            <s xml:lang="lij" xml:id="guidda.p2s1.l">E dapeu?</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p3.l">
+            <s xml:lang="lij" xml:id="guidda.p3s1.l">Oua gia a ciave e açendi a machina.</s>
+            <s xml:lang="lij" xml:id="guidda.p3s2.l">Ti veddi che s’açende o cruscòtto?</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p4.l">
+            <s xml:lang="lij" xml:id="guidda.p4s1.l">Ben, oua comm’ò da fâ pe fâla partî?</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p5.l">
+            <s xml:lang="lij" xml:id="guidda.p5s1.l">Pe primma cösa mettite a çenta, che no se sa mai.</s>
+            <s xml:lang="lij" xml:id="guidda.p5s2.l">Ancon d’assæ che sta chì a l’é unna machina vegia, sedonca comensiæ à sunnâ de spie.</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p6.l">
+            <s xml:lang="lij" xml:id="guidda.p6s1.l">Ghe vorrià za tutta che â fasse partî, figurite se ghe veu che se mettemmo a çenta…</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p7.l">
+            <s xml:lang="lij" xml:id="guidda.p7s1.l">Ti fanni comme te diggo, che se se piggemmo unna bolletta pe no aveighe a çenta inlassâ te â fasso pagâ à ti.</s>
+            <s xml:lang="lij" xml:id="guidda.p7s2.l">Pe fâ partî a machina beseugna tiâ sciù o pê d’in sciô pedale da frescion e comensâ à sciaccâ cian cianin l’acceleratô.</s>
+            <s xml:lang="lij" xml:id="guidda.p7s3.l">Dagghe…</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p8.l">
+            <s xml:lang="lij" xml:id="guidda.p8s1.l">[A machina pâ ch’a parte, ma se blòcca de ficco]</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p9.l">
+            <s xml:lang="lij" xml:id="guidda.p9s1.l">Comm’a l’é ch’a no parte?</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p10.l">
+            <s xml:lang="lij" xml:id="guidda.p10s1.l">Te l’aiva dito de lasciâ anâ a frescion cian cianin.</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p11.l">
+            <s xml:lang="lij" xml:id="guidda.p11s1.l">Ciù cianin de coscì…</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p12.l">
+            <s xml:lang="lij" xml:id="guidda.p12s1.l">Ah, mia chì, t’aivi a segonda.</s>
+            <s xml:lang="lij" xml:id="guidda.p12s2.l">Beseugna che ti cangi co-a primma se ti veu che a machina a parte.</s>
+            <s xml:lang="lij" xml:id="guidda.p12s3.l">Tëgni sciaccou a frescion e tia a leva verso a primma.</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p13.l">
+            <s xml:lang="lij" xml:id="guidda.p13s1.l">Coscì?</s>
+          </p>
+          <p xml:lang="lij" xml:id="guidda.p14.l">
+            <s xml:lang="lij" xml:id="guidda.p14s1.l">Scì.</s>
+            <s xml:lang="lij" xml:id="guidda.p14s2.l">Oua fanni comme t’aiva dito avanti, sensa stâ à mollâ tutt’assemme un di doî pedali.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="guidda.i">
+          <head xml:lang="ita" xml:id="guidda.h.i">Lezione di guida</head>
+          <p xml:lang="ita" xml:id="guidda.p1.i">
+            <s xml:lang="ita" xml:id="guidda.p1s1.i">La prima cosa da fare, ancor prima di far partire la macchina, è togliere il freno a mano.</s>
+            <s xml:lang="ita" xml:id="guidda.p1s2.i">Qui siamo in pianura e in questo caso è già abbassato.</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p2.i">
+            <s xml:lang="ita" xml:id="guidda.p2s1.i">E poi?</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p3.i">
+            <s xml:lang="ita" xml:id="guidda.p3s1.i">Adesso gira la chiave e accendi la macchina.</s>
+            <s xml:lang="ita" xml:id="guidda.p3s2.i">Vedi che si accende il cruscotto?</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p4.i">
+            <s xml:lang="ita" xml:id="guidda.p4s1.i">Be’, adesso come devo fare per farla partire?</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p5.i">
+            <s xml:lang="ita" xml:id="guidda.p5s1.i">Anzitutto mettiti la cintura, non si sa mai.</s>
+            <s xml:lang="ita" xml:id="guidda.p5s2.i">Per fortuna questa è una macchina vecchia, altrimenti comincerebbero a suonare delle spie.</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p6.i">
+            <s xml:lang="ita" xml:id="guidda.p6s1.i">Sarà già tanto se la farò partire, figurati se occorre che mettiamo la cintura…</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p7.i">
+            <s xml:lang="ita" xml:id="guidda.p7s1.i">Tu fa’ come ti dico, perché se prendiamo una multa per non avere la cintura allacciata, la faccio parare a te.</s>
+            <s xml:lang="ita" xml:id="guidda.p7s2.i">Per far partire la macchina bisogna alzare il piede dal pedale della frizione e cominciare a schiacciare poco a poco l’acceleratore.</s>
+            <s xml:lang="ita" xml:id="guidda.p7s3.i">Forza…</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p8.i">
+            <s xml:lang="ita" xml:id="guidda.p8s1.i">[Sembra che la macchina parta, ma si blocca all’improvviso]</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p9.i">
+            <s xml:lang="ita" xml:id="guidda.p9s1.i">Come mai non parte?</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p10.i">
+            <s xml:lang="ita" xml:id="guidda.p10s1.i">Te l’avevo detto di lasciare andare la frizione dolcemente.</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p11.i">
+            <s xml:lang="ita" xml:id="guidda.p11s1.i">Più dolcemente di così…</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p12.i">
+            <s xml:lang="ita" xml:id="guidda.p12s1.i">Ah, guarda qui, avevi la seconda.</s>
+            <s xml:lang="ita" xml:id="guidda.p12s2.i">Devi cambiare con la prima se vuoi che la macchina parte.</s>
+            <s xml:lang="ita" xml:id="guidda.p12s3.i">Tieni schiacciata la frizione e tira la leva verso la prima.</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p13.i">
+            <s xml:lang="ita" xml:id="guidda.p13s1.i">Così?</s>
+          </p>
+          <p xml:lang="ita" xml:id="guidda.p14.i">
+            <s xml:lang="ita" xml:id="guidda.p14s1.i">Sì.</s>
+            <s xml:lang="ita" xml:id="guidda.p14s2.i">Adesso fa’ come ti avevo detto prima, senza lasciar andare all’improvviso uno dei due pedali.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#guidda.p1s1.l #guidda.p1s1.i" />
+      <link target="#guidda.p1s2.l #guidda.p1s2.i" />
+      <link target="#guidda.p2s1.l #guidda.p2s1.i" />
+      <link target="#guidda.p3s1.l #guidda.p3s1.i" />
+      <link target="#guidda.p3s2.l #guidda.p3s2.i" />
+      <link target="#guidda.p4s1.l #guidda.p4s1.i" />
+      <link target="#guidda.p5s1.l #guidda.p5s1.i" />
+      <link target="#guidda.p5s2.l #guidda.p5s2.i" />
+      <link target="#guidda.p6s1.l #guidda.p6s1.i" />
+      <link target="#guidda.p7s1.l #guidda.p7s1.i" />
+      <link target="#guidda.p7s2.l #guidda.p7s2.i" />
+      <link target="#guidda.p7s3.l #guidda.p7s3.i" />
+      <link target="#guidda.p8s1.l #guidda.p8s1.i" />
+      <link target="#guidda.p9s1.l #guidda.p9s1.i" />
+      <link target="#guidda.p10s1.l #guidda.p10s1.i" />
+      <link target="#guidda.p11s1.l #guidda.p11s1.i" />
+      <link target="#guidda.p12s1.l #guidda.p12s1.i" />
+      <link target="#guidda.p12s2.l #guidda.p12s2.i" />
+      <link target="#guidda.p12s3.l #guidda.p12s3.i" />
+      <link target="#guidda.p13s1.l #guidda.p13s1.i" />
+      <link target="#guidda.p14s1.l #guidda.p14s1.i" />
+      <link target="#guidda.p14s2.l #guidda.p14s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#guidda.l #guidda.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="lavapiati">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">A lavapiati a no særa</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="lavapiati.l">
+          <head xml:lang="lij" xml:id="lavapiati.h.l">A lavapiati a no særa</head>
+          <p xml:lang="lij" xml:id="lavapiati.p1.l">
+            <s xml:lang="lij" xml:id="lavapiati.p1s1.l">Ti m’aggiutti a capî comm’a l’é che a lavapiati a no særa?</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p2.l">
+            <s xml:lang="lij" xml:id="lavapiati.p2s1.l">Ti gh’aviæ misso drento tròppa röba… Ammia comm’a l’é piña… Beseugna comensâ à tiâ feua quello che gh’é drento pittin à pittin e ammiâ cöse gh’é che no a fa serrâ.</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p3.l">
+            <s xml:lang="lij" xml:id="lavapiati.p3s1.l">Ò za levou sta poela e ste doe pugnatte, ma a no særa ancon…</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p4.l">
+            <s xml:lang="lij" xml:id="lavapiati.p4s1.l">Oua gh’ammio… Ma quante vòtte gh’ò dito che i cuggiæ de legno no beseugna lavâli co-a lavapiati?</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p5.l">
+            <s xml:lang="lij" xml:id="lavapiati.p5s1.l">Aggi paçiensa, ma no gh’ò testa de lavâli à man…</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p6.l">
+            <s xml:lang="lij" xml:id="lavapiati.p6s1.l">Scì, ma dapeu no ti peu lamentâte se s’arroviñan.</s>
+            <s xml:lang="lij" xml:id="lavapiati.p6s2.l">Mia chì quante gòtti che t’æ misso drento… Oua a særa?</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p7.l">
+            <s xml:lang="lij" xml:id="lavapiati.p7s1.l">Na.</s>
+            <s xml:lang="lij" xml:id="lavapiati.p7s2.l">N’accapiscio comme mai.</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p8.l">
+            <s xml:lang="lij" xml:id="lavapiati.p8s1.l">Ghe saià quarcösa che fa contatto.</s>
+            <s xml:lang="lij" xml:id="lavapiati.p8s2.l">Dagghe, leva tutto e ammia cöse gh’é che no va.</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p9.l">
+            <s xml:lang="lij" xml:id="lavapiati.p9s1.l">Ninte, ò levou poele, pugnatte, gòtti e posate, ma a no se særa ancon.</s>
+          </p>
+          <p xml:lang="lij" xml:id="lavapiati.p10.l">
+            <s xml:lang="lij" xml:id="lavapiati.p10s1.l">Ah, t’ô lì!</s>
+            <s xml:lang="lij" xml:id="lavapiati.p10s2.l">Gh’ea o carrello de sotta ch’o l’ea pösou mâ, gh’ea uña de reua ch’a sciortiva da-e colisse.</s>
+            <s xml:lang="lij" xml:id="lavapiati.p10s3.l">Oua a se særa torna.</s>
+            <s xml:lang="lij" xml:id="lavapiati.p10s4.l">Che ti stagghi ciù attenta!</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="lavapiati.i">
+          <head xml:lang="ita" xml:id="lavapiati.h.i">La lavastoviglie non si chiude</head>
+          <p xml:lang="ita" xml:id="lavapiati.p1.i">
+            <s xml:lang="ita" xml:id="lavapiati.p1s1.i">Mi aiuti a capire come mai la lavastoviglie non si chiude?</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p2.i">
+            <s xml:lang="ita" xml:id="lavapiati.p2s1.i">Ci avrai messo dentro troppe cose… Guarda com’è piena… Bisogna cominciare a tirare fuori quello che c’è dentro poco a poco e guardare cos’è che non la fa chiudere.</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p3.i">
+            <s xml:lang="ita" xml:id="lavapiati.p3s1.i">Ho già tolto questa padella e due pentole, ma non si chiude ancora…</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p4.i">
+            <s xml:lang="ita" xml:id="lavapiati.p4s1.i">Adesso guardo… Ma quante volte ti ho detto che i cucchiai di legno non bisogna lavarli in lavastoviglie?</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p5.i">
+            <s xml:lang="ita" xml:id="lavapiati.p5s1.i">Scusa, ma non ho voglia di lavarli a mano…</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p6.i">
+            <s xml:lang="ita" xml:id="lavapiati.p6s1.i">Sì, ma poi non puoi lamentarti se si rovinano.</s>
+            <s xml:lang="ita" xml:id="lavapiati.p6s2.i">Guarda qua quanti bicchieri hai messo dentro… Adesso si chiude?</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p7.i">
+            <s xml:lang="ita" xml:id="lavapiati.p7s1.i">No.</s>
+            <s xml:lang="ita" xml:id="lavapiati.p7s2.i">Non capisco come mai.</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p8.i">
+            <s xml:lang="ita" xml:id="lavapiati.p8s1.i">Ci sarà qualcosa che fa contatto.</s>
+            <s xml:lang="ita" xml:id="lavapiati.p8s2.i">Forza, togli tutto e guarda cos’è che non va.</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p9.i">
+            <s xml:lang="ita" xml:id="lavapiati.p9s1.i">Nulla, ho tolto padelle, pentole, bicchieri e posate, ma non si chiude ancora.</s>
+          </p>
+          <p xml:lang="ita" xml:id="lavapiati.p10.i">
+            <s xml:lang="ita" xml:id="lavapiati.p10s1.i">Ah, ecco!</s>
+            <s xml:lang="ita" xml:id="lavapiati.p10s2.i">C’era il cartello inferiore appoggiato male, c’era una delle ruote che usciva dalle guide.</s>
+            <s xml:lang="ita" xml:id="lavapiati.p10s3.i">Ora si chiude di nuovo.</s>
+            <s xml:lang="ita" xml:id="lavapiati.p10s4.i">Sta’ più attenta!</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#lavapiati.p1s1.l #lavapiati.p1s1.i" />
+      <link target="#lavapiati.p2s1.l #lavapiati.p2s1.i" />
+      <link target="#lavapiati.p3s1.l #lavapiati.p3s1.i" />
+      <link target="#lavapiati.p4s1.l #lavapiati.p4s1.i" />
+      <link target="#lavapiati.p5s1.l #lavapiati.p5s1.i" />
+      <link target="#lavapiati.p6s1.l #lavapiati.p6s1.i" />
+      <link target="#lavapiati.p6s2.l #lavapiati.p6s2.i" />
+      <link target="#lavapiati.p7s1.l #lavapiati.p7s1.i" />
+      <link target="#lavapiati.p7s2.l #lavapiati.p7s2.i" />
+      <link target="#lavapiati.p8s1.l #lavapiati.p8s1.i" />
+      <link target="#lavapiati.p8s2.l #lavapiati.p8s2.i" />
+      <link target="#lavapiati.p9s1.l #lavapiati.p9s1.i" />
+      <link target="#lavapiati.p10s1.l #lavapiati.p10s1.i" />
+      <link target="#lavapiati.p10s2.l #lavapiati.p10s2.i" />
+      <link target="#lavapiati.p10s3.l #lavapiati.p10s3.i" />
+      <link target="#lavapiati.p10s4.l #lavapiati.p10s4.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#lavapiati.l #lavapiati.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="maenna">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Dialogo pe telefono in sce unna giornâ a-a mæña</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="maenna.l">
+          <head xml:lang="lij" xml:id="maenna.h.l">Dialogo pe telefono in sce unna giornâ a-a mæña</head>
+          <p xml:lang="lij" xml:id="maenna.p1.l">
+            <s xml:lang="lij" xml:id="maenna.p1s1.l">Pronto?</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p2.l">
+            <s xml:lang="lij" xml:id="maenna.p2s1.l">Ciao, Gioan, son mi.</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p3.l">
+            <s xml:lang="lij" xml:id="maenna.p3s1.l">Ou, Manoælo, comm’anemmo?</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p4.l">
+            <s xml:lang="lij" xml:id="maenna.p4s1.l">Ben, ben, chì in cà con l’äia condiçionâ, che se meue da-o cado...</s>
+            <s xml:lang="lij" xml:id="maenna.p4s2.l">Comm’a l’é lì da ti?</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p5.l">
+            <s xml:lang="lij" xml:id="maenna.p5s1.l">Eh, anche chì no se sa donde stâ...</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p6.l">
+            <s xml:lang="lij" xml:id="maenna.p6s1.l">Fin à quande t’ê in vacansa?</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p7.l">
+            <s xml:lang="lij" xml:id="maenna.p7s1.l">Fin à lunesdì ch’o vëgne, dapeu me toccâ torna anâ à guägnâme a suppa...</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p8.l">
+            <s xml:lang="lij" xml:id="maenna.p8s1.l">Ben, aloa stanni à sentî, se ti n’æ coæ, doman mattin porriëscimo anâ à piggiâse un pö de fresco in sciâ mæña, con mæ moggê e i figgeu.</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p9.l">
+            <s xml:lang="lij" xml:id="maenna.p9s1.l">Scì, ma à dex’oe ghe saià za trenteçinque graddi à l’ombra...</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p10.l">
+            <s xml:lang="lij" xml:id="maenna.p10s1.l">Apòsta che t’ô diggo, besorriæ anâ fito.</s>
+            <s xml:lang="lij" xml:id="maenna.p10s2.l">Arrivemmo che no gh’é nisciun, se piggemmo un pö de fresco, se n’emmo coæ femmo doî bolli e dapeu levemmo e tende.</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p11.l">
+            <s xml:lang="lij" xml:id="maenna.p11s1.l">Mah, scì, pe mi...</s>
+            <s xml:lang="lij" xml:id="maenna.p11s2.l">Donde e pe che oa?</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p12.l">
+            <s xml:lang="lij" xml:id="maenna.p12s1.l">Se ti veu, passemmo à piggiâte co-a machina pe sett’oe, sette e un quarto, e anemmo à Camoggi.</s>
+            <s xml:lang="lij" xml:id="maenna.p12s2.l">Pe eutt’oe doviëscimo arrivâghe.</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p13.l">
+            <s xml:lang="lij" xml:id="maenna.p13s1.l">Bellan, ti me fæ stâ sciù à l’arba fiña in vacansa!</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p14.l">
+            <s xml:lang="lij" xml:id="maenna.p14s1.l">Oua...</s>
+            <s xml:lang="lij" xml:id="maenna.p14s2.l">Che tanto à çinqu’oe l’é za ciæo...</s>
+            <s xml:lang="lij" xml:id="maenna.p14s3.l">Va ben, aloa semmo d’accòrdio?</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p15.l">
+            <s xml:lang="lij" xml:id="maenna.p15s1.l">Va ben, va ben...</s>
+            <s xml:lang="lij" xml:id="maenna.p15s2.l">Ti veu che pòrte un päsô o ò no ghe stà drento a-a machina?</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p16.l">
+            <s xml:lang="lij" xml:id="maenna.p16s1.l">Se ti ô ceighi, o doviæ stâghe inta valixea.</s>
+            <s xml:lang="lij" xml:id="maenna.p16s2.l">À tutti i mòddi, pòrtite ciufito un sciugaman e doe savatte.</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p17.l">
+            <s xml:lang="lij" xml:id="maenna.p17s1.l">D’accòrdio.</s>
+            <s xml:lang="lij" xml:id="maenna.p17s2.l">Quand’arrivemmo, magara avanti de chinâ in sciâ ciazza poemmo piggiâse dötrei tòcchi de fugassa...</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p18.l">
+            <s xml:lang="lij" xml:id="maenna.p18s1.l">Scì, bravo, basta che no t’arrestan in sciô steumago comme l’urtima vòtta...</s>
+            <s xml:lang="lij" xml:id="maenna.p18s2.l">Ma ammia che pe unz’oe, unze e meza, se n’anemmo.</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p19.l">
+            <s xml:lang="lij" xml:id="maenna.p19s1.l">D’accòrdio!</s>
+            <s xml:lang="lij" xml:id="maenna.p19s2.l">Va ben, aloa à doman!</s>
+          </p>
+          <p xml:lang="lij" xml:id="maenna.p20.l">
+            <s xml:lang="lij" xml:id="maenna.p20s1.l">À doman, ciao!</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="maenna.i">
+          <head xml:lang="ita" xml:id="maenna.h.i">Dialogo al telefono su una giornata al mare</head>
+          <p xml:lang="ita" xml:id="maenna.p1.i">
+            <s xml:lang="ita" xml:id="maenna.p1s1.i">Pronto?</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p2.i">
+            <s xml:lang="ita" xml:id="maenna.p2s1.i">Ciao, Giovanni, sono io.</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p3.i">
+            <s xml:lang="ita" xml:id="maenna.p3s1.i">Ehi, Emanuele, come stai?</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p4.i">
+            <s xml:lang="ita" xml:id="maenna.p4s1.i">Bene, bene, sono a casa con l’aria condizionata, visto che si muore di caldo...</s>
+            <s xml:lang="ita" xml:id="maenna.p4s2.i">Come va lì da te?</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p5.i">
+            <s xml:lang="ita" xml:id="maenna.p5s1.i">Eh, anche qui c’è da morire...</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p6.i">
+            <s xml:lang="ita" xml:id="maenna.p6s1.i">Fin quando sei in ferie?</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p7.i">
+            <s xml:lang="ita" xml:id="maenna.p7s1.i">Fino a lunedì prossimo, poi mi tocca andare di nuovo a guadagnarmi la pagnotta...</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p8.i">
+            <s xml:lang="ita" xml:id="maenna.p8s1.i">Beh, allora ascolta, se ne hai voglia, domattina potremmo andare a prendere un po’ di fresco al mare, con mia moglie e i bambini.</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p9.i">
+            <s xml:lang="ita" xml:id="maenna.p9s1.i">Sì, ma alle dieci ci saranno già trentacinque gradi all’ombra...</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p10.i">
+            <s xml:lang="ita" xml:id="maenna.p10s1.i">Te lo dico proprio per quello, occorrerebbe andare sul presto.</s>
+            <s xml:lang="ita" xml:id="maenna.p10s2.i">Arriviamo quando non c’è ancora nessuno, prendiamo un po’ di fresco, se vogliamo facciamo due tuffi e poi togliamo le tende.</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p11.i">
+            <s xml:lang="ita" xml:id="maenna.p11s1.i">Mah, sì, per me...</s>
+            <s xml:lang="ita" xml:id="maenna.p11s2.i">Dove e a che ora?</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p12.i">
+            <s xml:lang="ita" xml:id="maenna.p12s1.i">Se vuoi, passiamo a prenderti in macchina verso le sette, le sette e un quarto, e andiamo a Camogli.</s>
+            <s xml:lang="ita" xml:id="maenna.p12s2.i">Per le otto dovremmo arrivare.</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p13.i">
+            <s xml:lang="ita" xml:id="maenna.p13s1.i">Cavolo, mi fai svegliare all’alba perfino in ferie!</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p14.i">
+            <s xml:lang="ita" xml:id="maenna.p14s1.i">Esagerato...</s>
+            <s xml:lang="ita" xml:id="maenna.p14s2.i">Tanto alle cinque è già giorno...</s>
+            <s xml:lang="ita" xml:id="maenna.p14s3.i">Va bene, allora siamo d’accordo?</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p15.i">
+            <s xml:lang="ita" xml:id="maenna.p15s1.i">Va bene, va bene...</s>
+            <s xml:lang="ita" xml:id="maenna.p15s2.i">Vuoi che porti un ombrellone o non ci sta in macchina?</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p16.i">
+            <s xml:lang="ita" xml:id="maenna.p16s1.i">Se lo pieghi, dovrebbe entrare nel bagagliaio.</s>
+            <s xml:lang="ita" xml:id="maenna.p16s2.i">Ad ogni modo, portati piuttosto un asciugamano e due ciabatte.</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p17.i">
+            <s xml:lang="ita" xml:id="maenna.p17s1.i">D’accordo.</s>
+            <s xml:lang="ita" xml:id="maenna.p17s2.i">Quando arriviamo, magari prima di scendere in spiaggia possiamo prenderci qualche pezzo di focaccia...</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p18.i">
+            <s xml:lang="ita" xml:id="maenna.p18s1.i">Sì, bravo, basta che non ti rimangano sullo stomaco come l’ultima volta...</s>
+            <s xml:lang="ita" xml:id="maenna.p18s2.i">Guarda però che verso le undici, le undici e mezza, ce ne andiamo.</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p19.i">
+            <s xml:lang="ita" xml:id="maenna.p19s1.i">D’accordo!</s>
+            <s xml:lang="ita" xml:id="maenna.p19s2.i">Va bene, allora a domani!</s>
+          </p>
+          <p xml:lang="ita" xml:id="maenna.p20.i">
+            <s xml:lang="ita" xml:id="maenna.p20s1.i">A domani, ciao!</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#maenna.p1s1.l #maenna.p1s1.i" />
+      <link target="#maenna.p2s1.l #maenna.p2s1.i" />
+      <link target="#maenna.p3s1.l #maenna.p3s1.i" />
+      <link target="#maenna.p4s1.l #maenna.p4s1.i" />
+      <link target="#maenna.p4s2.l #maenna.p4s2.i" />
+      <link target="#maenna.p5s1.l #maenna.p5s1.i" />
+      <link target="#maenna.p6s1.l #maenna.p6s1.i" />
+      <link target="#maenna.p7s1.l #maenna.p7s1.i" />
+      <link target="#maenna.p8s1.l #maenna.p8s1.i" />
+      <link target="#maenna.p9s1.l #maenna.p9s1.i" />
+      <link target="#maenna.p10s1.l #maenna.p10s1.i" />
+      <link target="#maenna.p10s2.l #maenna.p10s2.i" />
+      <link target="#maenna.p11s1.l #maenna.p11s1.i" />
+      <link target="#maenna.p11s2.l #maenna.p11s2.i" />
+      <link target="#maenna.p12s1.l #maenna.p12s1.i" />
+      <link target="#maenna.p12s2.l #maenna.p12s2.i" />
+      <link target="#maenna.p13s1.l #maenna.p13s1.i" />
+      <link target="#maenna.p14s1.l #maenna.p14s1.i" />
+      <link target="#maenna.p14s2.l #maenna.p14s2.i" />
+      <link target="#maenna.p14s3.l #maenna.p14s3.i" />
+      <link target="#maenna.p15s1.l #maenna.p15s1.i" />
+      <link target="#maenna.p15s2.l #maenna.p15s2.i" />
+      <link target="#maenna.p16s1.l #maenna.p16s1.i" />
+      <link target="#maenna.p16s2.l #maenna.p16s2.i" />
+      <link target="#maenna.p17s1.l #maenna.p17s1.i" />
+      <link target="#maenna.p17s2.l #maenna.p17s2.i" />
+      <link target="#maenna.p18s1.l #maenna.p18s1.i" />
+      <link target="#maenna.p18s2.l #maenna.p18s2.i" />
+      <link target="#maenna.p19s1.l #maenna.p19s1.i" />
+      <link target="#maenna.p19s2.l #maenna.p19s2.i" />
+      <link target="#maenna.p20s1.l #maenna.p20s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#maenna.l #maenna.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="prenotacion">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Prenotaçion a-o restorante</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="prenotacion.l">
+          <head xml:lang="lij" xml:id="prenotacion.h.l">Prenotaçion a-o restorante</head>
+          <p xml:lang="lij" xml:id="prenotacion.p1.l">
+            <s xml:lang="lij" xml:id="prenotacion.p1s1.l">Bongiorno.</s>
+            <s xml:lang="lij" xml:id="prenotacion.p1s2.l">Parlo co-o restorante «O cuggiâ d’öo»?</s>
+          </p>
+          <p xml:lang="lij" xml:id="prenotacion.p2.l">
+            <s xml:lang="lij" xml:id="prenotacion.p2s1.l">Scì, bongiorno, scià me digghe.</s>
+          </p>
+          <p xml:lang="lij" xml:id="prenotacion.p3.l">
+            <s xml:lang="lij" xml:id="prenotacion.p3s1.l">Vorrieiva prenottâ unna töa pe staseia, à sette e meza.</s>
+          </p>
+          <p xml:lang="lij" xml:id="prenotacion.p4.l">
+            <s xml:lang="lij" xml:id="prenotacion.p4s1.l">Scì, oua ammio se gh’é pòsto.</s>
+            <s xml:lang="lij" xml:id="prenotacion.p4s2.l">Inta quante scià gh’en?</s>
+          </p>
+          <p xml:lang="lij" xml:id="prenotacion.p5.l">
+            <s xml:lang="lij" xml:id="prenotacion.p5s1.l">Inta çinque.</s>
+          </p>
+          <p xml:lang="lij" xml:id="prenotacion.p6.l">
+            <s xml:lang="lij" xml:id="prenotacion.p6s1.l">Pe çinque persoñe à sette e meza no gh’é pòsto.</s>
+            <s xml:lang="lij" xml:id="prenotacion.p6s2.l">Doviëscimo ëse pin fin à neuv’oe.</s>
+          </p>
+          <p xml:lang="lij" xml:id="prenotacion.p7.l">
+            <s xml:lang="lij" xml:id="prenotacion.p7s1.l">À neuv’oe me pâ un pö tardi… No se porrieiva fâ un pö ciù fito?</s>
+          </p>
+          <p xml:lang="lij" xml:id="prenotacion.p8.l">
+            <s xml:lang="lij" xml:id="prenotacion.p8s1.l">Me rincresce, ma giusto ancheu emmo tutto coverto.</s>
+          </p>
+          <p xml:lang="lij" xml:id="prenotacion.p9.l">
+            <s xml:lang="lij" xml:id="prenotacion.p9s1.l">D’accòrdio, graçie a-o mæximo.</s>
+            <s xml:lang="lij" xml:id="prenotacion.p9s2.l">Scignoria e à reveise.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="prenotacion.i">
+          <head xml:lang="ita" xml:id="prenotacion.h.i">Prenotazione al ristorante</head>
+          <p xml:lang="ita" xml:id="prenotacion.p1.i">
+            <s xml:lang="ita" xml:id="prenotacion.p1s1.i">Buongiorno.</s>
+            <s xml:lang="ita" xml:id="prenotacion.p1s2.i">Parlo con il ristorante «Il cucchiaio d’oro»?</s>
+          </p>
+          <p xml:lang="ita" xml:id="prenotacion.p2.i">
+            <s xml:lang="ita" xml:id="prenotacion.p2s1.i">Sì, buongiorno, mi dica.</s>
+          </p>
+          <p xml:lang="ita" xml:id="prenotacion.p3.i">
+            <s xml:lang="ita" xml:id="prenotacion.p3s1.i">Vorrei prenotare un tavolo per stasera, alle sette e mezza.</s>
+          </p>
+          <p xml:lang="ita" xml:id="prenotacion.p4.i">
+            <s xml:lang="ita" xml:id="prenotacion.p4s1.i">Sì, ora guardo se c’è posto.</s>
+            <s xml:lang="ita" xml:id="prenotacion.p4s2.i">In quanti siete?</s>
+          </p>
+          <p xml:lang="ita" xml:id="prenotacion.p5.i">
+            <s xml:lang="ita" xml:id="prenotacion.p5s1.i">In cinque.</s>
+          </p>
+          <p xml:lang="ita" xml:id="prenotacion.p6.i">
+            <s xml:lang="ita" xml:id="prenotacion.p6s1.i">Per cinque persone alle sette e mezza non c’è posto.</s>
+            <s xml:lang="ita" xml:id="prenotacion.p6s2.i">Dovremmo essere al completo fino alle nove.</s>
+          </p>
+          <p xml:lang="ita" xml:id="prenotacion.p7.i">
+            <s xml:lang="ita" xml:id="prenotacion.p7s1.i">Alle nove mi sembra un po’ tardi… Non si potrebbe fare un po’ prima?</s>
+          </p>
+          <p xml:lang="ita" xml:id="prenotacion.p8.i">
+            <s xml:lang="ita" xml:id="prenotacion.p8s1.i">Mi dispiace, ma proprio oggi abbiamo tutti i tavoli prenotati.</s>
+          </p>
+          <p xml:lang="ita" xml:id="prenotacion.p9.i">
+            <s xml:lang="ita" xml:id="prenotacion.p9s1.i">D’accordo, grazie lo stesso.</s>
+            <s xml:lang="ita" xml:id="prenotacion.p9s2.i">Arrivederci.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#prenotacion.p1s1.l #prenotacion.p1s1.i" />
+      <link target="#prenotacion.p1s2.l #prenotacion.p1s2.i" />
+      <link target="#prenotacion.p2s1.l #prenotacion.p2s1.i" />
+      <link target="#prenotacion.p3s1.l #prenotacion.p3s1.i" />
+      <link target="#prenotacion.p4s1.l #prenotacion.p4s1.i" />
+      <link target="#prenotacion.p4s2.l #prenotacion.p4s2.i" />
+      <link target="#prenotacion.p5s1.l #prenotacion.p5s1.i" />
+      <link target="#prenotacion.p6s1.l #prenotacion.p6s1.i" />
+      <link target="#prenotacion.p6s2.l #prenotacion.p6s2.i" />
+      <link target="#prenotacion.p7s1.l #prenotacion.p7s1.i" />
+      <link target="#prenotacion.p8s1.l #prenotacion.p8s1.i" />
+      <link target="#prenotacion.p9s1.l #prenotacion.p9s1.i" />
+      <link target="#prenotacion.p9s2.l #prenotacion.p9s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#prenotacion.l #prenotacion.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="sciorbette">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Da-o sciorbettê</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="sciorbette.l">
+          <head xml:lang="lij" xml:id="sciorbette.h.l">Da-o sciorbettê</head>
+          <p xml:lang="lij" xml:id="sciorbette.p1.l">
+            <s xml:lang="lij" xml:id="sciorbette.p1s1.l">Bongiorno.</s>
+            <s xml:lang="lij" xml:id="sciorbette.p1s2.l">Pe mi, unna negia à trei gusti.</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p2.l">
+            <s xml:lang="lij" xml:id="sciorbette.p2s1.l">Scì, sciâ me digghe.</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p3.l">
+            <s xml:lang="lij" xml:id="sciorbette.p3s1.l">Mah, no saviæ… Merello… Bricòccalo… E dapeu…</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p4.l">
+            <s xml:lang="lij" xml:id="sciorbette.p4s1.l">[Passa vinti segondi]</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p5.l">
+            <s xml:lang="lij" xml:id="sciorbette.p5s1.l">Scià l’à deçiso?</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p6.l">
+            <s xml:lang="lij" xml:id="sciorbette.p6s1.l">Scì, scià l’ammie, no ô sò… Ghe n’ei da menta?</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p7.l">
+            <s xml:lang="lij" xml:id="sciorbette.p7s1.l">A menta l’emmo finia.</s>
+            <s xml:lang="lij" xml:id="sciorbette.p7s2.l">N’arresta o limon, a stracciatella, o torron…</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p8.l">
+            <s xml:lang="lij" xml:id="sciorbette.p8s1.l">Mah, o limon, graçie.</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p9.l">
+            <s xml:lang="lij" xml:id="sciorbette.p9s1.l">Ghe metto ascì un pö de panna in çimma?</s>
+            <s xml:lang="lij" xml:id="sciorbette.p9s2.l">A vëgne çinquanta citti.</s>
+          </p>
+          <p xml:lang="lij" xml:id="sciorbette.p10.l">
+            <s xml:lang="lij" xml:id="sciorbette.p10s1.l">Na, a va ben coscì.</s>
+            <s xml:lang="lij" xml:id="sciorbette.p10s2.l">Graçie e à reveise.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="sciorbette.i">
+          <head xml:lang="ita" xml:id="sciorbette.h.i">In gelateria</head>
+          <p xml:lang="ita" xml:id="sciorbette.p1.i">
+            <s xml:lang="ita" xml:id="sciorbette.p1s1.i">Buongiorno.</s>
+            <s xml:lang="ita" xml:id="sciorbette.p1s2.i">Per me, un cono a tre gusti.</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p2.i">
+            <s xml:lang="ita" xml:id="sciorbette.p2s1.i">Sì, mi dica.</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p3.i">
+            <s xml:lang="ita" xml:id="sciorbette.p3s1.i">Mah, non saprei… Fragola… Albicocca… E poi…</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p4.i">
+            <s xml:lang="ita" xml:id="sciorbette.p4s1.i">[Passano venti secondi]</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p5.i">
+            <s xml:lang="ita" xml:id="sciorbette.p5s1.i">Ha deciso?</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p6.i">
+            <s xml:lang="ita" xml:id="sciorbette.p6s1.i">Scì, guardi, non so… Menta, ne avete?</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p7.i">
+            <s xml:lang="ita" xml:id="sciorbette.p7s1.i">La menta la abbiamo finita.</s>
+            <s xml:lang="ita" xml:id="sciorbette.p7s2.i">Abbiamo ancora limone, stracciatella, torrone…</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p8.i">
+            <s xml:lang="ita" xml:id="sciorbette.p8s1.i">Mah, limone, grazie.</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p9.i">
+            <s xml:lang="ita" xml:id="sciorbette.p9s1.i">Le metto anche un po’ di panna?</s>
+            <s xml:lang="ita" xml:id="sciorbette.p9s2.i">Viene cinquanta centesimi.</s>
+          </p>
+          <p xml:lang="ita" xml:id="sciorbette.p10.i">
+            <s xml:lang="ita" xml:id="sciorbette.p10s1.i">No, va bene così.</s>
+            <s xml:lang="ita" xml:id="sciorbette.p10s2.i">Grazie e arrivederci.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#sciorbette.p1s1.l #sciorbette.p1s1.i" />
+      <link target="#sciorbette.p1s2.l #sciorbette.p1s2.i" />
+      <link target="#sciorbette.p2s1.l #sciorbette.p2s1.i" />
+      <link target="#sciorbette.p3s1.l #sciorbette.p3s1.i" />
+      <link target="#sciorbette.p4s1.l #sciorbette.p4s1.i" />
+      <link target="#sciorbette.p5s1.l #sciorbette.p5s1.i" />
+      <link target="#sciorbette.p6s1.l #sciorbette.p6s1.i" />
+      <link target="#sciorbette.p7s1.l #sciorbette.p7s1.i" />
+      <link target="#sciorbette.p7s2.l #sciorbette.p7s2.i" />
+      <link target="#sciorbette.p8s1.l #sciorbette.p8s1.i" />
+      <link target="#sciorbette.p9s1.l #sciorbette.p9s1.i" />
+      <link target="#sciorbette.p9s2.l #sciorbette.p9s2.i" />
+      <link target="#sciorbette.p10s1.l #sciorbette.p10s1.i" />
+      <link target="#sciorbette.p10s2.l #sciorbette.p10s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#sciorbette.l #sciorbette.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="supermercou1">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Into supermercou</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="supermercou1.l">
+          <head xml:lang="lij" xml:id="supermercou1.h.l">Into supermercou</head>
+          <p xml:lang="lij" xml:id="supermercou1.p1.l">
+            <s xml:lang="lij" xml:id="supermercou1.p1s1.l">Boñaseia, çerco da fæña da fâ dôsci.</s>
+            <s xml:lang="lij" xml:id="supermercou1.p1s2.l">Sciâ me porrieiva aggiuttâ?</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou1.p2.l">
+            <s xml:lang="lij" xml:id="supermercou1.p2s1.l">Scì, e fæñe en inte quello reparto lazù, vixin a-i produti de læte e a-i formaggi.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou1.p3.l">
+            <s xml:lang="lij" xml:id="supermercou1.p3s1.l">Scì, ô sò, gh’ò za ammiou, ma no n’attreuvo.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou1.p4.l">
+            <s xml:lang="lij" xml:id="supermercou1.p4s1.l">Gh’é unna sganzia piña de tante qualitæ de fæña, giusto de fronta à quella co-e pastesciute.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou1.p5.l">
+            <s xml:lang="lij" xml:id="supermercou1.p5s1.l">Scì, ô sò, ma n’arriëscio à attrovâ a fæña che me serve à mi, ch’a l’é quella da fâ dôsci.</s>
+            <s xml:lang="lij" xml:id="supermercou1.p5s2.l">Gh’é da fæña da fâ pan, pisse e tutto o resto, ma no quella ch’a me serve à mi.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou1.p6.l">
+            <s xml:lang="lij" xml:id="supermercou1.p6s1.l">Scià me fasse vedde.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou1.p7.l">
+            <s xml:lang="lij" xml:id="supermercou1.p7s1.l">[Van da-a sganzia co-e tante qualitæ de fæña]</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou1.p8.l">
+            <s xml:lang="lij" xml:id="supermercou1.p8s1.l">Scì, de quella qualitæ che scià çerca no n’arresta, ma a doviæ arrivâ doman ò da chì à dötrei giorni.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou1.p9.l">
+            <s xml:lang="lij" xml:id="supermercou1.p9s1.l">D’accòrdio, aloa çerco da unn’atra parte.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="supermercou1.i">
+          <head xml:lang="ita" xml:id="supermercou1.h.i">Al supermercato</head>
+          <p xml:lang="ita" xml:id="supermercou1.p1.i">
+            <s xml:lang="ita" xml:id="supermercou1.p1s1.i">Buonasera, cerco farina per dolci.</s>
+            <s xml:lang="ita" xml:id="supermercou1.p1s2.i">Mi potrebbe aiutare?</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou1.p2.i">
+            <s xml:lang="ita" xml:id="supermercou1.p2s1.i">Sì, le farine sono in quel reparto laggiù, vicino ai latticini e ai formaggi.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou1.p3.i">
+            <s xml:lang="ita" xml:id="supermercou1.p3s1.i">Sì, lo so, ho già guardato, ma non la trovo.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou1.p4.i">
+            <s xml:lang="ita" xml:id="supermercou1.p4s1.i">C’è uno scaffale pieno di diversi tipi di farina, proprio di fronte a quello con la pastasciutta.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou1.p5.i">
+            <s xml:lang="ita" xml:id="supermercou1.p5s1.i">Sì, lo so, ma non riesco a trovare la farina che serve a me, che è quella per dolci.</s>
+            <s xml:lang="ita" xml:id="supermercou1.p5s2.i">C’è farina da pane, da pizza e tutto il resto, ma non quella che serve a me.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou1.p6.i">
+            <s xml:lang="ita" xml:id="supermercou1.p6s1.i">Mi faccia vedere.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou1.p7.i">
+            <s xml:lang="ita" xml:id="supermercou1.p7s1.i">[Vanno allo scaffale con i diversi tipi di farina]</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou1.p8.i">
+            <s xml:lang="ita" xml:id="supermercou1.p8s1.i">Sì, il tipo che cerca Lei lo abbiamo finito, ma dovrebbe arrivare domani o fra qualche giorno.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou1.p9.i">
+            <s xml:lang="ita" xml:id="supermercou1.p9s1.i">D’accordo, allora cerco altrove.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#supermercou1.p1s1.l #supermercou1.p1s1.i" />
+      <link target="#supermercou1.p1s2.l #supermercou1.p1s2.i" />
+      <link target="#supermercou1.p2s1.l #supermercou1.p2s1.i" />
+      <link target="#supermercou1.p3s1.l #supermercou1.p3s1.i" />
+      <link target="#supermercou1.p4s1.l #supermercou1.p4s1.i" />
+      <link target="#supermercou1.p5s1.l #supermercou1.p5s1.i" />
+      <link target="#supermercou1.p5s2.l #supermercou1.p5s2.i" />
+      <link target="#supermercou1.p6s1.l #supermercou1.p6s1.i" />
+      <link target="#supermercou1.p7s1.l #supermercou1.p7s1.i" />
+      <link target="#supermercou1.p8s1.l #supermercou1.p8s1.i" />
+      <link target="#supermercou1.p9s1.l #supermercou1.p9s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#supermercou1.l #supermercou1.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="supermercou2">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Da-e casce do supermercou</title>
+          <author>Stefano Lusito</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="supermercou2.l">
+          <head xml:lang="lij" xml:id="supermercou2.h.l">Da-e casce do supermercou</head>
+          <p xml:lang="lij" xml:id="supermercou2.p1.l">
+            <s xml:lang="lij" xml:id="supermercou2.p1s1.l">Scià me scuse, ma chì gh’ea mi.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p2.l">
+            <s xml:lang="lij" xml:id="supermercou2.p2s1.l">[L’interlocutô o fa mostra de no capî]</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p3.l">
+            <s xml:lang="lij" xml:id="supermercou2.p3s1.l">Scià scuse, ghe diggo che avanti de voscià chì gh’ea mi.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p4.l">
+            <s xml:lang="lij" xml:id="supermercou2.p4s1.l">Cöse scià dixe?</s>
+            <s xml:lang="lij" xml:id="supermercou2.p4s2.l">Scià se n’é anæto, e oua scià l’à perso o pòsto.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p5.l">
+            <s xml:lang="lij" xml:id="supermercou2.p5s1.l">M’ea vegnuo in cheu ch’aiva ancon da piggiâ unna cösa, ma aiva lasciou chì sotta o çestin co-a mæ speisa.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p6.l">
+            <s xml:lang="lij" xml:id="supermercou2.p6s1.l">Se scià sciòrte d’inta coa, sciâ perde o pòsto.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p7.l">
+            <s xml:lang="lij" xml:id="supermercou2.p7s1.l">Scià no vedde che chì sotta gh’é a mæ röba?</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p8.l">
+            <s xml:lang="lij" xml:id="supermercou2.p8s1.l">Scià l’agge paçiensa, ma me na fasso assæ da seu speisa.</s>
+            <s xml:lang="lij" xml:id="supermercou2.p8s2.l">Scià se pigge o seu çestin e scià se mette torna inta coa.</s>
+            <s xml:lang="lij" xml:id="supermercou2.p8s3.l">No l’é che se mi sciòrto da-a coa, quello derê o me tëgne o pòsto.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p9.l">
+            <s xml:lang="lij" xml:id="supermercou2.p9s1.l">Scià l’ammie, ò da fâ fito, ch’ò un appontamento.</s>
+          </p>
+          <p xml:lang="lij" xml:id="supermercou2.p10.l">
+            <s xml:lang="lij" xml:id="supermercou2.p10s1.l">E mi, cöse sciâ veu che ghe digghe?</s>
+            <s xml:lang="lij" xml:id="supermercou2.p10s2.l">Tanto pezo pe voscià.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="supermercou2.i">
+          <head xml:lang="ita" xml:id="supermercou2.h.i">Alle casse del supermercato</head>
+          <p xml:lang="ita" xml:id="supermercou2.p1.i">
+            <s xml:lang="ita" xml:id="supermercou2.p1s1.i">Mi scusi, ma qui c’ero io.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p2.i">
+            <s xml:lang="ita" xml:id="supermercou2.p2s1.i">[L’interlocuore fa finta di non capire]</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p3.i">
+            <s xml:lang="ita" xml:id="supermercou2.p3s1.i">Scusi, le sto dicendo che qui prima di Lei c’ero io.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p4.i">
+            <s xml:lang="ita" xml:id="supermercou2.p4s1.i">Ma che sta dicendo?</s>
+            <s xml:lang="ita" xml:id="supermercou2.p4s2.i">Se ne è andato, e adesso ha perso il posto.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p5.i">
+            <s xml:lang="ita" xml:id="supermercou2.p5s1.i">Mi ero ricordato che dovevo ancora prendere una cosa, ma avevo lasciato qui sotto il cestino con la mia spesa.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p6.i">
+            <s xml:lang="ita" xml:id="supermercou2.p6s1.i">Se esce dalla fila, perde il posto.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p7.i">
+            <s xml:lang="ita" xml:id="supermercou2.p7s1.i">Non vede che qui sotto ci sono le mie cose?</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p8.i">
+            <s xml:lang="ita" xml:id="supermercou2.p8s1.i">Mi scusi, ma me ne infischio della sua spesa.</s>
+            <s xml:lang="ita" xml:id="supermercou2.p8s2.i">Si prenda il suo cestino e si rimetta in fila.</s>
+            <s xml:lang="ita" xml:id="supermercou2.p8s3.i">Non è che se io esco dalla fila, quello dietro mi tiene il posto.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p9.i">
+            <s xml:lang="ita" xml:id="supermercou2.p9s1.i">Guardi, devo sbrigarmi, ho un appuntamento.</s>
+          </p>
+          <p xml:lang="ita" xml:id="supermercou2.p10.i">
+            <s xml:lang="ita" xml:id="supermercou2.p10s1.i">E cosa vuole che le dica?</s>
+            <s xml:lang="ita" xml:id="supermercou2.p10s2.i">Tanto peggio per Lei.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#supermercou2.p1s1.l #supermercou2.p1s1.i" />
+      <link target="#supermercou2.p2s1.l #supermercou2.p2s1.i" />
+      <link target="#supermercou2.p3s1.l #supermercou2.p3s1.i" />
+      <link target="#supermercou2.p4s1.l #supermercou2.p4s1.i" />
+      <link target="#supermercou2.p4s2.l #supermercou2.p4s2.i" />
+      <link target="#supermercou2.p5s1.l #supermercou2.p5s1.i" />
+      <link target="#supermercou2.p6s1.l #supermercou2.p6s1.i" />
+      <link target="#supermercou2.p7s1.l #supermercou2.p7s1.i" />
+      <link target="#supermercou2.p8s1.l #supermercou2.p8s1.i" />
+      <link target="#supermercou2.p8s2.l #supermercou2.p8s2.i" />
+      <link target="#supermercou2.p8s3.l #supermercou2.p8s3.i" />
+      <link target="#supermercou2.p9s1.l #supermercou2.p9s1.i" />
+      <link target="#supermercou2.p10s1.l #supermercou2.p10s1.i" />
+      <link target="#supermercou2.p10s2.l #supermercou2.p10s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#supermercou2.l #supermercou2.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="travaggi">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">I travaggi de casa</title>
+          <author>– Mi e a mæ galante se semmo torna rattellæ in sciâ gestion di travaggi de casa. A dixe che ghe tocca fâ delongo tutto à lê, ma l’é squæxi doe settemañe ch’a no mescia un dio…</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="travaggi.l">
+          <head xml:lang="lij" xml:id="travaggi.h.l">I travaggi de casa</head>
+          <p xml:lang="lij" xml:id="travaggi.p1.l">
+            <s xml:lang="lij" xml:id="travaggi.p1s1.l">Mi co-a mæ pe-o ciù fasso à turni.</s>
+            <s xml:lang="lij" xml:id="travaggi.p1s2.l">Quande gh’é da nettezzâ a casa, se demmo o cangio l’un con l’atra unna vòtta a-a settemaña, pe-o ciù a-o sabbo ò a-a domenega.</s>
+            <s xml:lang="lij" xml:id="travaggi.p1s3.l">A mæxima cösa pe lavâ i tondi dòppo çeña.</s>
+          </p>
+          <p xml:lang="lij" xml:id="travaggi.p2.l">
+            <s xml:lang="lij" xml:id="travaggi.p2s1.l">E pe-o disnâ?</s>
+          </p>
+          <p xml:lang="lij" xml:id="travaggi.p3.l">
+            <s xml:lang="lij" xml:id="travaggi.p3s1.l">À mëzogiorno lê a no gh’é mai, donca se mangio in casa son delongo chì che lavo i tondi e che daggo recatto a-a coxiña.</s>
+            <s xml:lang="lij" xml:id="travaggi.p3s2.l">L’unica cösa che ghe lascio fâ à lê a l’é de stiâ, perché mi no son bon.</s>
+          </p>
+          <p xml:lang="lij" xml:id="travaggi.p4.l">
+            <s xml:lang="lij" xml:id="travaggi.p4s1.l">E no ti peu çercâ d’imprende?</s>
+          </p>
+          <p xml:lang="lij" xml:id="travaggi.p5.l">
+            <s xml:lang="lij" xml:id="travaggi.p5s1.l">Gh’ò za provou un muggio de vòtte, ma i vestî m’arrestan delongo accettæ.</s>
+            <s xml:lang="lij" xml:id="travaggi.p5s2.l">M’é mille vòtte ciù cao dâ o striggion pe tæra…</s>
+          </p>
+          <p xml:lang="lij" xml:id="travaggi.p6.l">
+            <s xml:lang="lij" xml:id="travaggi.p6s1.l">E a bugâ?</s>
+          </p>
+          <p xml:lang="lij" xml:id="travaggi.p7.l">
+            <s xml:lang="lij" xml:id="travaggi.p7s1.l">Quella a â fa a lavadoa, no ghe veu chi sa che sfòrso!</s>
+            <s xml:lang="lij" xml:id="travaggi.p7s2.l">Sciben che çerchemmo de fâla quande gh’é o sô, pe no aveighe l’imbrumme da destendea into mezo da casa.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="travaggi.i">
+          <head xml:lang="ita" xml:id="travaggi.h.i">Le faccende domestiche</head>
+          <p xml:lang="ita" xml:id="travaggi.p1.i">
+            <s xml:lang="ita" xml:id="travaggi.p1s1.i">Io con la mia perlopiù faccio a turni.</s>
+            <s xml:lang="ita" xml:id="travaggi.p1s2.i">Quando bisogna pulire casa, ci diamo il cambio a vicenda una volta a settimana, normalmente il sabato e la domenica.</s>
+            <s xml:lang="ita" xml:id="travaggi.p1s3.i">Lo stesso per quanto riguarda il lavare i piatti dopo cena.</s>
+          </p>
+          <p xml:lang="ita" xml:id="travaggi.p2.i">
+            <s xml:lang="ita" xml:id="travaggi.p2s1.i">E a pranzo?</s>
+          </p>
+          <p xml:lang="ita" xml:id="travaggi.p3.i">
+            <s xml:lang="ita" xml:id="travaggi.p3s1.i">A mezzogiorno lei non c’è mai, quindi se mangio a casa sono sempre io a lavare i piatti e a sistemare la cucina.</s>
+            <s xml:lang="ita" xml:id="travaggi.p3s2.i">L’unica cosa che lascio fare a lei è stirare, perché io non sono capace.</s>
+          </p>
+          <p xml:lang="ita" xml:id="travaggi.p4.i">
+            <s xml:lang="ita" xml:id="travaggi.p4s1.i">E non puoi cercare di imparare?</s>
+          </p>
+          <p xml:lang="ita" xml:id="travaggi.p5.i">
+            <s xml:lang="ita" xml:id="travaggi.p5s1.i">Ci ho già provato un sacco di volte, ma i vestiti rimangono sempre spiegazzati.</s>
+            <s xml:lang="ita" xml:id="travaggi.p5s2.i">Preferisco mille volte passare lo strofinaccio sul pavimento…</s>
+          </p>
+          <p xml:lang="ita" xml:id="travaggi.p6.i">
+            <s xml:lang="ita" xml:id="travaggi.p6s1.i">E il bucato?</s>
+          </p>
+          <p xml:lang="ita" xml:id="travaggi.p7.i">
+            <s xml:lang="ita" xml:id="travaggi.p7s1.i">Quello lo fa la lavatrice, non ci vuole chissà che sforzo!</s>
+            <s xml:lang="ita" xml:id="travaggi.p7s2.i">Anche se cerchiamo di farlo quando c’è il sole, per non avere lo stendibiancheria fra i piedi in mezzo alla casa.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#travaggi.p1s1.l #travaggi.p1s1.i" />
+      <link target="#travaggi.p1s2.l #travaggi.p1s2.i" />
+      <link target="#travaggi.p1s3.l #travaggi.p1s3.i" />
+      <link target="#travaggi.p2s1.l #travaggi.p2s1.i" />
+      <link target="#travaggi.p3s1.l #travaggi.p3s1.i" />
+      <link target="#travaggi.p3s2.l #travaggi.p3s2.i" />
+      <link target="#travaggi.p4s1.l #travaggi.p4s1.i" />
+      <link target="#travaggi.p5s1.l #travaggi.p5s1.i" />
+      <link target="#travaggi.p5s2.l #travaggi.p5s2.i" />
+      <link target="#travaggi.p6s1.l #travaggi.p6s1.i" />
+      <link target="#travaggi.p7s1.l #travaggi.p7s1.i" />
+      <link target="#travaggi.p7s2.l #travaggi.p7s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#travaggi.l #travaggi.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="vua-casa">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Vuâ casa</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="vua-casa.l">
+          <head xml:lang="lij" xml:id="vua-casa.h.l">Vuâ casa</head>
+          <p xml:lang="lij" xml:id="vua-casa.p1.l">
+            <s xml:lang="lij" xml:id="vua-casa.p1s1.l">Òhu Peo, cose ti ghe fæ da ste bande in questa saxon?</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p2.l">
+            <s xml:lang="lij" xml:id="vua-casa.p2s1.l">No stâ à dime ninte, son vegnuo perché devo vuâ a casa.</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p3.l">
+            <s xml:lang="lij" xml:id="vua-casa.p3s1.l">Vuâla?</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p4.l">
+            <s xml:lang="lij" xml:id="vua-casa.p4s1.l">E scì, mæ fræ o l’à beseugno de palanche, alantô l’emmo vendua.</s>
+            <s xml:lang="lij" xml:id="vua-casa.p4s2.l">O m’à ascì domandou se voeiva accattâ a seu parte, ma no pòsso.</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p5.l">
+            <s xml:lang="lij" xml:id="vua-casa.p5s1.l">Me rincresce tanto!</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p6.l">
+            <s xml:lang="lij" xml:id="vua-casa.p6s1.l">À mi me giâ tanto o berettin che no ti peu manco imaginâlo!</s>
+            <s xml:lang="lij" xml:id="vua-casa.p6s2.l">Aiva za semenou e bazzañe, se ô saveiva primma avansava de fâlo!</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p7.l">
+            <s xml:lang="lij" xml:id="vua-casa.p7s1.l">[riendo]</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p8.l">
+            <s xml:lang="lij" xml:id="vua-casa.p8s1.l">Ê mangian i neuvi propietäi</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p9.l">
+            <s xml:lang="lij" xml:id="vua-casa.p9s1.l">Mia, saieva fiña contento!</s>
+            <s xml:lang="lij" xml:id="vua-casa.p9s2.l">Incangio quelli nesci, a-o pòsto dell’òrto veuan mettighe unna pisciña</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p10.l">
+            <s xml:lang="lij" xml:id="vua-casa.p10s1.l">Unna pisciña?</s>
+            <s xml:lang="lij" xml:id="vua-casa.p10s2.l">Ma ô san che chì da-a meitæ d’agosto vögne ciutòsto freido?</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p11.l">
+            <s xml:lang="lij" xml:id="vua-casa.p11s1.l">Ghe l’à dito sciña o massacan, ma se son intestæ e no cangian idea.</s>
+            <s xml:lang="lij" xml:id="vua-casa.p11s2.l">E mi me ne batto l’anima.</s>
+            <s xml:lang="lij" xml:id="vua-casa.p11s3.l">Devo trovâme quarcösa da fâ sta stæ sedonca vegno matto.</s>
+            <s xml:lang="lij" xml:id="vua-casa.p11s4.l">Atro che sta apreuvo a-i bellinoin!</s>
+            <s xml:lang="lij" xml:id="vua-casa.p11s5.l">Ancon d’assæ che a mæ mobilia pòsso mettila in sciô soieu de mæ figgia, sedonca me toccava cacciâla inta rumenta, e ghe son attaccou: ghe ancon da röba di mæ vegi…</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p12.l">
+            <s xml:lang="lij" xml:id="vua-casa.p12s1.l">Alantô no te veddiemo ciù?</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p13.l">
+            <s xml:lang="lij" xml:id="vua-casa.p13s1.l">Òh ti veddiæ che in quarche mòddo arriëscio à vegnî o mæximo, sperava che mæ fræ o no fesse coscì fito à vendila, coscì poeiva stâghe ancon un pittin, ma lê o l’é delongo affortunou… ma pe-i fonzi ghe saiò, che se passo mi, pe ti o l’é cappòtto seguo!</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p14.l">
+            <s xml:lang="lij" xml:id="vua-casa.p14s1.l">Creddighe.</s>
+            <s xml:lang="lij" xml:id="vua-casa.p14s2.l">Tanto quest’anno ti doviæ pagâ o cartellin pe-a cuggeita…</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p15.l">
+            <s xml:lang="lij" xml:id="vua-casa.p15s1.l">No, me son tegnuo un tocchettin de bòsco.</s>
+            <s xml:lang="lij" xml:id="vua-casa.p15s2.l">O no va ninte, ma me permette de anâ à pe fonzi senza dovei pagâ o cartellin.</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p16.l">
+            <s xml:lang="lij" xml:id="vua-casa.p16s1.l">Ti ne sæ unna ciù che o Diao!</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p17.l">
+            <s xml:lang="lij" xml:id="vua-casa.p17s1.l">Mia, pe-i fonzi o mæ çervello o s’açende comme un bricchetto!</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p18.l">
+            <s xml:lang="lij" xml:id="vua-casa.p18s1.l">Ah, pe quello o mæ ascì.</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p19.l">
+            <s xml:lang="lij" xml:id="vua-casa.p19s1.l">Beseugna aveighelo o çervello perché o fonçioñe…</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p20.l">
+            <s xml:lang="lij" xml:id="vua-casa.p20s1.l">A coæ de schersâ a no te passa eh?</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p21.l">
+            <s xml:lang="lij" xml:id="vua-casa.p21s1.l">Levime quella ascì… mia, devo anâ.</s>
+            <s xml:lang="lij" xml:id="vua-casa.p21s2.l">Te saluo e stanni ben, salutime a Franca ascì</s>
+          </p>
+          <p xml:lang="lij" xml:id="vua-casa.p22.l">
+            <s xml:lang="lij" xml:id="vua-casa.p22s1.l">Te â saluo, no scentâ, fatte vivo fito.</s>
+            <s xml:lang="lij" xml:id="vua-casa.p22s2.l">Scciao eh, tante belle cöse.</s>
+          </p>
+        </div>
+        <div xml:lang="ita" xml:id="vua-casa.i">
+          <head xml:lang="ita" xml:id="vua-casa.h.i">Vuotare casa</head>
+          <p xml:lang="ita" xml:id="vua-casa.p1.i">
+            <s xml:lang="ita" xml:id="vua-casa.p1s1.i">Oh Piero, cosa ci fai da queste parti in questa stagione?</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p2.i">
+            <s xml:lang="ita" xml:id="vua-casa.p2s1.i">Non mi dire niente, sono venuto perché devo svuotare la casa.</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p3.i">
+            <s xml:lang="ita" xml:id="vua-casa.p3s1.i">Svuotarla?</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p4.i">
+            <s xml:lang="ita" xml:id="vua-casa.p4s1.i">E sì, mio fratello ha bisogno di soldi, allora l’abbiamo venduta.</s>
+            <s xml:lang="ita" xml:id="vua-casa.p4s2.i">M’aveva chiesto se volevo comprare la sua parte, ma non posso.</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p5.i">
+            <s xml:lang="ita" xml:id="vua-casa.p5s1.i">Mi dispiace tanto!</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p6.i">
+            <s xml:lang="ita" xml:id="vua-casa.p6s1.i">A me scoccia talmente tanto che non puoi neppure immaginarlo!</s>
+            <s xml:lang="ita" xml:id="vua-casa.p6s2.i">Avevo già seminato le fave, se lo avessi saputo prima, mi risparmiavo di farlo!</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p7.i">
+            <s xml:lang="ita" xml:id="vua-casa.p7s1.i">[ridendo]</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p8.i">
+            <s xml:lang="ita" xml:id="vua-casa.p8s1.i">Le mangeranno i nuovi proprietari</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p9.i">
+            <s xml:lang="ita" xml:id="vua-casa.p9s1.i">Guarda, sarei persino contento!</s>
+            <s xml:lang="ita" xml:id="vua-casa.p9s2.i">Invece quelli scemi al posto dell’orto vogliono metterci una piscina</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p10.i">
+            <s xml:lang="ita" xml:id="vua-casa.p10s1.i">Una piscina?</s>
+            <s xml:lang="ita" xml:id="vua-casa.p10s2.i">Ma lo sanno che qui dalla metà di Agosto fa piuttosto freddo?</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p11.i">
+            <s xml:lang="ita" xml:id="vua-casa.p11s1.i">Gliel’ha detto persino il muratore, ma si sono intestarditi e non cambiano idea.</s>
+            <s xml:lang="ita" xml:id="vua-casa.p11s2.i">E io me ne frego.</s>
+            <s xml:lang="ita" xml:id="vua-casa.p11s3.i">Devo trovarmi qualcosa da fare quest’estate altrimenti divento matto.</s>
+            <s xml:lang="ita" xml:id="vua-casa.p11s4.i">Altro che accudire gli imbecilli!</s>
+            <s xml:lang="ita" xml:id="vua-casa.p11s5.i">Meno male che i mobili posso metterli nella soffitta di mia figlia, altrimenti avrei dovuto gettarli nella spazzatura, ci sono affezionato, c’è ancora roba dei miei...</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p12.i">
+            <s xml:lang="ita" xml:id="vua-casa.p12s1.i">Allora non ti vedremo più?</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p13.i">
+            <s xml:lang="ita" xml:id="vua-casa.p13s1.i">Oh vedrai che in qualche modo riesco a venire lo stesso, speravo che mio fratello non facesse così presto a vendere, così potevo starci ancora un po’, ma è sempre fortunato… Ma per i funghi ci sarò, che se passo io, per te è cappotto sicuro!</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p14.i">
+            <s xml:lang="ita" xml:id="vua-casa.p14s1.i">Credici.</s>
+            <s xml:lang="ita" xml:id="vua-casa.p14s2.i">Tanto quest’anno ti toccherà pagare il tesserino per la raccolta…</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p15.i">
+            <s xml:lang="ita" xml:id="vua-casa.p15s1.i">No, mi sono tenuto un pezzettino di bosco.</s>
+            <s xml:lang="ita" xml:id="vua-casa.p15s2.i">Non vale niente, ma mi permette di andar per funghi senza pagare il tesserino.</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p16.i">
+            <s xml:lang="ita" xml:id="vua-casa.p16s1.i">Ne sai una più del diavolo!</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p17.i">
+            <s xml:lang="ita" xml:id="vua-casa.p17s1.i">Guarda, per i funghi il mio cervello s’accende come un fiammifero!</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p18.i">
+            <s xml:lang="ita" xml:id="vua-casa.p18s1.i">Ah, per quello il mio anche.</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p19.i">
+            <s xml:lang="ita" xml:id="vua-casa.p19s1.i">Bisogna avercelo il cervello perché funzioni…</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p20.i">
+            <s xml:lang="ita" xml:id="vua-casa.p20s1.i">La voglia di scherzare non ti passa eh?</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p21.i">
+            <s xml:lang="ita" xml:id="vua-casa.p21s1.i">Levami pure quella… guarda, devo andare.</s>
+            <s xml:lang="ita" xml:id="vua-casa.p21s2.i">Ti saluto, stai bene, salutami anche Franca</s>
+          </p>
+          <p xml:lang="ita" xml:id="vua-casa.p22.i">
+            <s xml:lang="ita" xml:id="vua-casa.p22s1.i">Te la saluto, non sparire, fatti vivo presto.</s>
+            <s xml:lang="ita" xml:id="vua-casa.p22s2.i">Ciao eh, tante cose belle.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#vua-casa.p1s1.l #vua-casa.p1s1.i" />
+      <link target="#vua-casa.p2s1.l #vua-casa.p2s1.i" />
+      <link target="#vua-casa.p3s1.l #vua-casa.p3s1.i" />
+      <link target="#vua-casa.p4s1.l #vua-casa.p4s1.i" />
+      <link target="#vua-casa.p4s2.l #vua-casa.p4s2.i" />
+      <link target="#vua-casa.p5s1.l #vua-casa.p5s1.i" />
+      <link target="#vua-casa.p6s1.l #vua-casa.p6s1.i" />
+      <link target="#vua-casa.p6s2.l #vua-casa.p6s2.i" />
+      <link target="#vua-casa.p7s1.l #vua-casa.p7s1.i" />
+      <link target="#vua-casa.p8s1.l #vua-casa.p8s1.i" />
+      <link target="#vua-casa.p9s1.l #vua-casa.p9s1.i" />
+      <link target="#vua-casa.p9s2.l #vua-casa.p9s2.i" />
+      <link target="#vua-casa.p10s1.l #vua-casa.p10s1.i" />
+      <link target="#vua-casa.p10s2.l #vua-casa.p10s2.i" />
+      <link target="#vua-casa.p11s1.l #vua-casa.p11s1.i" />
+      <link target="#vua-casa.p11s2.l #vua-casa.p11s2.i" />
+      <link target="#vua-casa.p11s3.l #vua-casa.p11s3.i" />
+      <link target="#vua-casa.p11s4.l #vua-casa.p11s4.i" />
+      <link target="#vua-casa.p11s5.l #vua-casa.p11s5.i" />
+      <link target="#vua-casa.p12s1.l #vua-casa.p12s1.i" />
+      <link target="#vua-casa.p13s1.l #vua-casa.p13s1.i" />
+      <link target="#vua-casa.p14s1.l #vua-casa.p14s1.i" />
+      <link target="#vua-casa.p14s2.l #vua-casa.p14s2.i" />
+      <link target="#vua-casa.p15s1.l #vua-casa.p15s1.i" />
+      <link target="#vua-casa.p15s2.l #vua-casa.p15s2.i" />
+      <link target="#vua-casa.p16s1.l #vua-casa.p16s1.i" />
+      <link target="#vua-casa.p17s1.l #vua-casa.p17s1.i" />
+      <link target="#vua-casa.p18s1.l #vua-casa.p18s1.i" />
+      <link target="#vua-casa.p19s1.l #vua-casa.p19s1.i" />
+      <link target="#vua-casa.p20s1.l #vua-casa.p20s1.i" />
+      <link target="#vua-casa.p21s1.l #vua-casa.p21s1.i" />
+      <link target="#vua-casa.p21s2.l #vua-casa.p21s2.i" />
+      <link target="#vua-casa.p22s1.l #vua-casa.p22s1.i" />
+      <link target="#vua-casa.p22s2.l #vua-casa.p22s2.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#vua-casa.l #vua-casa.i" />
+    </linkGrp>
+  </standOff>
+</teiCorpus>
