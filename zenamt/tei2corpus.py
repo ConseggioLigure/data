@@ -20,7 +20,11 @@ def get_alignment_text(ancestor, element_id, debug=False):
             if child.tail:
                 text += child.tail
         text = re.sub(r"\s+", " ", text)
-        return text.strip()
+        text = text.strip()
+        stagedir = f"{{{NS['tei']}}}stage"
+        if element.tag == stagedir:
+            text = f"[{text}]"
+        return text
 
     element = find_element(ancestor, element_id)
 
@@ -28,9 +32,7 @@ def get_alignment_text(ancestor, element_id, debug=False):
         targets = element.get("target").split()
         lang = find_element(ancestor, targets[0][1:]).get(f"{{{NS['xml']}}}lang")
         elements = [find_element(ancestor, t[1:]) for t in targets]
-        text = " ".join(
-            get_textual_content(el) for el in elements
-        )
+        text = " ".join(get_textual_content(el) for el in elements)
     else:
         lang = element.get(f"{{{NS['xml']}}}lang")
         text = get_textual_content(element)
@@ -84,7 +86,9 @@ assert corpus.tag in (f"{{{NS['tei']}}}teiCorpus", f"{{{NS['tei']}}}TEI"), corpu
 
 with ExitStack() as stack:
     fs = [
-        stack.enter_context(open(args.out_prefix.parent / f"{args.out_prefix.name}.{l}", "wt"))
+        stack.enter_context(
+            open(args.out_prefix.parent / f"{args.out_prefix.name}.{l}", "wt")
+        )
         for l in args.langs
     ]
 
