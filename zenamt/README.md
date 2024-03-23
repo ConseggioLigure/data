@@ -5,7 +5,7 @@ This is an Italian – Ligurian (Genoese) parallel corpus covering a number of d
 | Corpus        | Domain | Languages | Train | Valid | Test |
 |---------------|--------|-----------|-------|-------|------|
 | `linguistics` | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | Ligurian, Italian | 3,497 |
-| `news`        | News from the weekly Ligurian news website [O Zinâ](https://www.ozina.org) | Ligurian, Italian | 2,090 | 130 | 264 |
+| `news`        | News from the weekly Ligurian news website [O Zinâ](https://www.ozina.org) | Ligurian, Italian | 2,160 | 130 | 264 |
 | `literature`  | Essays on the history of Ligurian literature. | Ligurian, Italian, English | 724 | 135 | 207 |
 | `dialogues`  | Scripted dialogues. | Ligurian, Italian | 317 |
 | `games`       | Rule description of traditional Ligurian card games. | Ligurian, Italian, English | 297 | | |
