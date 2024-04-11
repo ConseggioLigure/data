@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-model href="https://conseggio-ligure.org/zenamt.rng" type="application/relax-ng-syntax"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -16,6 +15,241 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <TEI xml:id="besagnin">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Da-o besagnin</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="besagnin.l">
+          <head xml:lang="lij" xml:id="besagnin.h.l">
+            <s xml:lang="lij" xml:id="besagnin.hs1.l">Da-o besagnin</s>
+          </head>
+          <sp xml:lang="lij" xml:id="besagnin.sp1.l">
+            <p xml:lang="lij" xml:id="besagnin.sp1p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp1p1s1.l">Bongiorno, tocca à mie?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp2.l">
+            <p xml:lang="lij" xml:id="besagnin.sp2p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp2p1s1.l">Scì</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp3.l">
+            <p xml:lang="lij" xml:id="besagnin.sp3p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp3p1s1.l">Voeiva un chillo de giæe sensa coste, un chillo e mezo de çioule, doî masci de baxaicò, doe teste d’aggio, e tomate da donde ne vëgnan?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp4.l">
+            <p xml:lang="lij" xml:id="besagnin.sp4p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp4p1s1.l">En de Sant’Orçeise, gh’é unn’açienda ch’a cortiva varietæ nostrañe, defæti sti chì en porsemmin…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp5.l">
+            <p xml:lang="lij" xml:id="besagnin.sp5p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp5p1s1.l">Alantô scià me ne dagghe doî chilli ch’ancheu gh’ò pròpio coæ de fâme un condiggion, dapeu voeiva mezo chillo de faxolin, un chillo de patatte de Monteuggio, doî etti de öive neigre…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp6.l">
+            <p xml:lang="lij" xml:id="besagnin.sp6p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp6p1s1.l">Taggiasche?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp7.l">
+            <p xml:lang="lij" xml:id="besagnin.sp7p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp7p1s1.l">Mah siçiliañe van ben ascì… sciâ sa miga se a-o Luiggin l’é arrivou e ancioe di pescoei de Votri?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp8.l">
+            <p xml:lang="lij" xml:id="besagnin.sp8p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp8p1s1.l">Sò assæ mi do Luiggin!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp9.l">
+            <p xml:lang="lij" xml:id="besagnin.sp9p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp9p1s1.l">Oh ei torna rattellou?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp10.l">
+            <p xml:lang="lij" xml:id="besagnin.sp10p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp10p1s1.l">Se sciâ permette no son caxi seu!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp11.l">
+            <p xml:lang="lij" xml:id="besagnin.sp11p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp11p1s1.l">Seguo seguo!</s>
+              <s xml:lang="lij" xml:id="besagnin.sp11p1s2.l">Sciâ me scuse!</s>
+              <s xml:lang="lij" xml:id="besagnin.sp11p1s3.l">Ma visto comme se taggia e se cuxe co-a lengua inte sta butega, pensava che, caxi sò e caxi di atri, fïsan da mæxima meña!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp12.l">
+            <p xml:lang="lij" xml:id="besagnin.sp12p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp12p1s1.l">Pe reguardo a-a lengua me pâ che voscià ascì, scià ghe n’agge uña ch’a taggia ben ben!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp13.l">
+            <p xml:lang="lij" xml:id="besagnin.sp13p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp13p1s1.l">Magara mi e cose e diggo into moro e no apreuvo comme çerte gente… e oua scià me fasse o conto, coscì vaggo e me levo d’inti pê!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp14.l">
+            <p xml:lang="lij" xml:id="besagnin.sp14p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp14p1s1.l">No n’ò mai fæto un conto ciù voentea!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp15.l">
+            <p xml:lang="lij" xml:id="besagnin.sp15p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp15p1s1.l">E mi no ò mai pagou co-o cheu coscì de giromia!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp16.l">
+            <p xml:lang="lij" xml:id="besagnin.sp16p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp16p1s1.l">Tante belle cose, eh!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="besagnin.sp17.l">
+            <p xml:lang="lij" xml:id="besagnin.sp17p1.l">
+              <s xml:lang="lij" xml:id="besagnin.sp17p1s1.l">Tante belle cose à voscià ascì…</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="besagnin.i">
+          <head xml:lang="ita" xml:id="besagnin.h.i">
+            <s xml:lang="ita" xml:id="besagnin.hs1.i">Dal fruttivendolo</s>
+          </head>
+          <sp xml:lang="ita" xml:id="besagnin.sp1.i">
+            <p xml:lang="ita" xml:id="besagnin.sp1p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp1p1s1.i">Buongiorno, tocca a me?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp2.i">
+            <p xml:lang="ita" xml:id="besagnin.sp2p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp2p1s1.i">Sì</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp3.i">
+            <p xml:lang="ita" xml:id="besagnin.sp3p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp3p1s1.i">Volevo un chilo di bietole senza coste, un chilo e mezzo di cipolle, due mazzi di basilico, due teste d’aglio, i pomodori da dove vengono?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp4.i">
+            <p xml:lang="ita" xml:id="besagnin.sp4p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp4p1s1.i">Sono di Sant’Olcese, c’è un’azienda che coltiva varietà nostrane, difatti questi sono «pursemin»…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp5.i">
+            <p xml:lang="ita" xml:id="besagnin.sp5p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp5p1s1.i">Allora me ne dia due chili che oggi ho proprio voglia di farmi un cundiggiun, dopo vorrei mezzo chilo di fagiolini, un chilo di patate di Montoggio, due etti di olive nere…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp6.i">
+            <p xml:lang="ita" xml:id="besagnin.sp6p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp6p1s1.i">Taggiasche?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp7.i">
+            <p xml:lang="ita" xml:id="besagnin.sp7p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp7p1s1.i">Mah, siciliane vanno bene lo stesso… sa mica se a Luigino sono arrivate le acciughe salate dei pescatori di Voltri?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp8.i">
+            <p xml:lang="ita" xml:id="besagnin.sp8p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp8p1s1.i">Cosa ne so io di Luigino?!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp9.i">
+            <p xml:lang="ita" xml:id="besagnin.sp9p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp9p1s1.i">Uh, avete litigato di nuovo?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp10.i">
+            <p xml:lang="ita" xml:id="besagnin.sp10p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp10p1s1.i">Se permette non sono affari suoi!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp11.i">
+            <p xml:lang="ita" xml:id="besagnin.sp11p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp11p1s1.i">Sicuro sicuro!</s>
+              <s xml:lang="ita" xml:id="besagnin.sp11p1s2.i">Mi scusi!</s>
+              <s xml:lang="ita" xml:id="besagnin.sp11p1s3.i">Ma visto come si taglia e si cuce con la lingua in questo negozio, pensavo che affari suoi e affari degli altri, fossero la stessa cosa!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp12.i">
+            <p xml:lang="ita" xml:id="besagnin.sp12p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp12p1s1.i">Riguardo alla lingua, mi pare che anche lei ne abbia una che taglia parecchio!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp13.i">
+            <p xml:lang="ita" xml:id="besagnin.sp13p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp13p1s1.i">Magari io le cose le dico in faccia e non alle spalle, come certa gente… e ora mi faccia il conto, così vado e mi levo dai piedi!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp14.i">
+            <p xml:lang="ita" xml:id="besagnin.sp14p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp14p1s1.i">Non ho mai chiuso un conto più volentieri!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp15.i">
+            <p xml:lang="ita" xml:id="besagnin.sp15p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp15p1s1.i">Ed io non ho mai pagato con un cuore più allegro!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp16.i">
+            <p xml:lang="ita" xml:id="besagnin.sp16p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp16p1s1.i">Tante belle cose, eh!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="besagnin.sp17.i">
+            <p xml:lang="ita" xml:id="besagnin.sp17p1.i">
+              <s xml:lang="ita" xml:id="besagnin.sp17p1s1.i">Tante belle cose anche a lei…</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#besagnin.hs1.l #besagnin.hs1.i" />
+      <link target="#besagnin.sp1p1s1.l #besagnin.sp1p1s1.i" />
+      <link target="#besagnin.sp2p1s1.l #besagnin.sp2p1s1.i" />
+      <link target="#besagnin.sp3p1s1.l #besagnin.sp3p1s1.i" />
+      <link target="#besagnin.sp4p1s1.l #besagnin.sp4p1s1.i" />
+      <link target="#besagnin.sp5p1s1.l #besagnin.sp5p1s1.i" />
+      <link target="#besagnin.sp6p1s1.l #besagnin.sp6p1s1.i" />
+      <link target="#besagnin.sp7p1s1.l #besagnin.sp7p1s1.i" />
+      <link target="#besagnin.sp8p1s1.l #besagnin.sp8p1s1.i" />
+      <link target="#besagnin.sp9p1s1.l #besagnin.sp9p1s1.i" />
+      <link target="#besagnin.sp10p1s1.l #besagnin.sp10p1s1.i" />
+      <link target="#besagnin.sp11p1s1.l #besagnin.sp11p1s1.i" />
+      <link target="#besagnin.sp11p1s2.l #besagnin.sp11p1s2.i" />
+      <link target="#besagnin.sp11p1s3.l #besagnin.sp11p1s3.i" />
+      <link target="#besagnin.sp12p1s1.l #besagnin.sp12p1s1.i" />
+      <link target="#besagnin.sp13p1s1.l #besagnin.sp13p1s1.i" />
+      <link target="#besagnin.sp14p1s1.l #besagnin.sp14p1s1.i" />
+      <link target="#besagnin.sp15p1s1.l #besagnin.sp15p1s1.i" />
+      <link target="#besagnin.sp16p1s1.l #besagnin.sp16p1s1.i" />
+      <link target="#besagnin.sp17p1s1.l #besagnin.sp17p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#besagnin.l #besagnin.i" />
+    </linkGrp>
+  </standOff>
   <TEI xml:id="biggetto-autobo">
     <teiHeader>
       <fileDesc>
@@ -36,7 +270,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="biggetto-autobo.l">
-          <head xml:lang="lij" xml:id="biggetto-autobo.h.l">Accatto da un biggetto de l’autobo</head>
+          <head xml:lang="lij" xml:id="biggetto-autobo.h.l">
+            <s xml:lang="lij" xml:id="biggetto-autobo.hs1.l">Accatto da un biggetto de l’autobo</s>
+          </head>
           <sp xml:lang="lij" xml:id="biggetto-autobo.sp1.l">
             <p xml:lang="lij" xml:id="biggetto-autobo.sp1p1.l">
               <s xml:lang="lij" xml:id="biggetto-autobo.sp1p1s1.l">Bongiorno, vorriæ un biggetto de l’autobo.</s>
@@ -129,7 +365,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="biggetto-autobo.i">
-          <head xml:lang="ita" xml:id="biggetto-autobo.h.i">Acquisto di un biglietto dell’autobus</head>
+          <head xml:lang="ita" xml:id="biggetto-autobo.h.i">
+            <s xml:lang="ita" xml:id="biggetto-autobo.hs1.i">Acquisto di un biglietto dell’autobus</s>
+          </head>
           <sp xml:lang="ita" xml:id="biggetto-autobo.sp1.i">
             <p xml:lang="ita" xml:id="biggetto-autobo.sp1p1.i">
               <s xml:lang="ita" xml:id="biggetto-autobo.sp1p1s1.i">Buongiorno, vorrei un biglietto dell’autobus.</s>
@@ -226,6 +464,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#biggetto-autobo.hs1.l #biggetto-autobo.hs1.i" />
       <link target="#biggetto-autobo.sp1p1s1.l #biggetto-autobo.sp1p1s1.i" />
       <link target="#biggetto-autobo.sp1p1s2.l #biggetto-autobo.sp1p1s2.i" />
       <link target="#biggetto-autobo.sp2p1s1.l #biggetto-autobo.sp2p1s1.i" />
@@ -275,7 +514,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="biggetto-treno.l">
-          <head xml:lang="lij" xml:id="biggetto-treno.h.l">Accatto de un biggetto do treno</head>
+          <head xml:lang="lij" xml:id="biggetto-treno.h.l">
+            <s xml:lang="lij" xml:id="biggetto-treno.hs1.l">Accatto de un biggetto do treno</s>
+          </head>
           <sp xml:lang="lij" xml:id="biggetto-treno.sp1.l">
             <p xml:lang="lij" xml:id="biggetto-treno.sp1p1.l">
               <s xml:lang="lij" xml:id="biggetto-treno.sp1p1s1.l">Bongiorno, vorrieiva accattâ un biggetto pe doman mattin, da Zena à Saña.</s>
@@ -361,7 +602,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="biggetto-treno.i">
-          <head xml:lang="ita" xml:id="biggetto-treno.h.i">Acquisto di un biglietto del treno</head>
+          <head xml:lang="ita" xml:id="biggetto-treno.h.i">
+            <s xml:lang="ita" xml:id="biggetto-treno.hs1.i">Acquisto di un biglietto del treno</s>
+          </head>
           <sp xml:lang="ita" xml:id="biggetto-treno.sp1.i">
             <p xml:lang="ita" xml:id="biggetto-treno.sp1p1.i">
               <s xml:lang="ita" xml:id="biggetto-treno.sp1p1s1.i">Buongiorno, vorrei comprare un biglietto per domattina, da Genova a Savona.</s>
@@ -451,6 +694,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#biggetto-treno.hs1.l #biggetto-treno.hs1.i" />
       <link target="#biggetto-treno.sp1p1s1.l #biggetto-treno.sp1p1s1.i" />
       <link target="#biggetto-treno.sp1p1s2.l #biggetto-treno.sp1p1s2.i" />
       <link target="#biggetto-treno.sp2p1s1.l #biggetto-treno.sp2p1s1.i" />
@@ -505,7 +749,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="che-autobo.l">
-          <head xml:lang="lij" xml:id="che-autobo.h.l">Çerne l’autobo</head>
+          <head xml:lang="lij" xml:id="che-autobo.h.l">
+            <s xml:lang="lij" xml:id="che-autobo.hs1.l">Çerne l’autobo</s>
+          </head>
           <sp xml:lang="lij" xml:id="che-autobo.sp1.l">
             <p xml:lang="lij" xml:id="che-autobo.sp1p1.l">
               <s xml:lang="lij" xml:id="che-autobo.sp1p1s1.l">Che autobo piggemmo?</s>
@@ -558,7 +804,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="che-autobo.i">
-          <head xml:lang="ita" xml:id="che-autobo.h.i">Scegliere l’autobus</head>
+          <head xml:lang="ita" xml:id="che-autobo.h.i">
+            <s xml:lang="ita" xml:id="che-autobo.hs1.i">Scegliere l’autobus</s>
+          </head>
           <sp xml:lang="ita" xml:id="che-autobo.sp1.i">
             <p xml:lang="ita" xml:id="che-autobo.sp1p1.i">
               <s xml:lang="ita" xml:id="che-autobo.sp1p1s1.i">Che autobus prendiamo?</s>
@@ -615,6 +863,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#che-autobo.hs1.l #che-autobo.hs1.i" />
       <link target="#che-autobo.sp1p1s1.l #che-autobo.sp1p1s1.i" />
       <link target="#che-autobo.sp2p1s1.l #che-autobo.sp2p1s1.i" />
       <link target="#che-autobo.sp3p1s1.l #che-autobo.sp3p1s1.i" />
@@ -656,7 +905,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="cirolla1.l">
-          <head xml:lang="lij" xml:id="cirolla1.h.l">Contando i ponti a-a cirolla</head>
+          <head xml:lang="lij" xml:id="cirolla1.h.l">
+            <s xml:lang="lij" xml:id="cirolla1.hs1.l">Contando i ponti a-a cirolla</s>
+          </head>
           <sp xml:lang="lij" xml:id="cirolla1.sp1.l">
             <p xml:lang="lij" xml:id="cirolla1.sp1p1.l">
               <s xml:lang="lij" xml:id="cirolla1.sp1p1s1.l">Dixeutto, dixineuve, vinti, vintuña… Fasso carte…</s>
@@ -760,7 +1011,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="cirolla1.i">
-          <head xml:lang="ita" xml:id="cirolla1.h.i">Contando i punti a cirulla</head>
+          <head xml:lang="ita" xml:id="cirolla1.h.i">
+            <s xml:lang="ita" xml:id="cirolla1.hs1.i">Contando i punti a cirulla</s>
+          </head>
           <sp xml:lang="ita" xml:id="cirolla1.sp1.i">
             <p xml:lang="ita" xml:id="cirolla1.sp1p1.i">
               <s xml:lang="ita" xml:id="cirolla1.sp1p1s1.i">Diciotto, diciannove, venti, ventuno… Faccio carte…</s>
@@ -868,6 +1121,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#cirolla1.hs1.l #cirolla1.hs1.i" />
       <link target="#cirolla1.sp1p1s1.l #cirolla1.sp1p1s1.i" />
       <link target="#cirolla1.sp2p1s1.l #cirolla1.sp2p1s1.i" />
       <link target="#cirolla1.sp3p1s1.l #cirolla1.sp3p1s1.i" />
@@ -920,7 +1174,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="cirolla2.l">
-          <head xml:lang="lij" xml:id="cirolla2.h.l">Zugando a-a cirolla</head>
+          <head xml:lang="lij" xml:id="cirolla2.h.l">
+            <s xml:lang="lij" xml:id="cirolla2.hs1.l">Zugando a-a cirolla</s>
+          </head>
           <sp xml:lang="lij" xml:id="cirolla2.sp1.l">
             <p xml:lang="lij" xml:id="cirolla2.sp1p1.l">
               <s xml:lang="lij" xml:id="cirolla2.sp1p1s1.l">Cöse t’æ piggiou?</s>
@@ -1012,7 +1268,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="cirolla2.i">
-          <head xml:lang="ita" xml:id="cirolla2.h.i">Giocando a cirulla</head>
+          <head xml:lang="ita" xml:id="cirolla2.h.i">
+            <s xml:lang="ita" xml:id="cirolla2.hs1.i">Giocando a cirulla</s>
+          </head>
           <sp xml:lang="ita" xml:id="cirolla2.sp1.i">
             <p xml:lang="ita" xml:id="cirolla2.sp1p1.i">
               <s xml:lang="ita" xml:id="cirolla2.sp1p1s1.i">Cos’hai preso?</s>
@@ -1108,6 +1366,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#cirolla2.hs1.l #cirolla2.hs1.i" />
       <link target="#cirolla2.sp1p1s1.l #cirolla2.sp1p1s1.i" />
       <link target="#cirolla2.sp2p1s1.l #cirolla2.sp2p1s1.i" />
       <link target="#cirolla2.sp3p1s1.l #cirolla2.sp3p1s1.i" />
@@ -1160,7 +1419,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="coxinna.l">
-          <head xml:lang="lij" xml:id="coxinna.h.l">Inta coxiña, à l’oa da çeña</head>
+          <head xml:lang="lij" xml:id="coxinna.h.l">
+            <s xml:lang="lij" xml:id="coxinna.hs1.l">Inta coxiña, à l’oa da çeña</s>
+          </head>
           <sp xml:lang="lij" xml:id="coxinna.sp1.l">
             <p xml:lang="lij" xml:id="coxinna.sp1p1.l">
               <s xml:lang="lij" xml:id="coxinna.sp1p1s1.l">Cöse ti veu inandiâ de çeña?</s>
@@ -1268,7 +1529,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="coxinna.i">
-          <head xml:lang="ita" xml:id="coxinna.h.i">In cucina, all’ora di cena</head>
+          <head xml:lang="ita" xml:id="coxinna.h.i">
+            <s xml:lang="ita" xml:id="coxinna.hs1.i">In cucina, all’ora di cena</s>
+          </head>
           <sp xml:lang="ita" xml:id="coxinna.sp1.i">
             <p xml:lang="ita" xml:id="coxinna.sp1p1.i">
               <s xml:lang="ita" xml:id="coxinna.sp1p1s1.i">Cosa vuoi preparare per cerna?</s>
@@ -1380,6 +1643,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#coxinna.hs1.l #coxinna.hs1.i" />
       <link target="#coxinna.sp1p1s1.l #coxinna.sp1p1s1.i" />
       <link target="#coxinna.sp2p1s1.l #coxinna.sp2p1s1.i" />
       <link target="#coxinna.sp3p1s1.l #coxinna.sp3p1s1.i" />
@@ -1436,7 +1700,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="ertoparlante.l">
-          <head xml:lang="lij" xml:id="ertoparlante.h.l">Annonçi à l’ertoparlante</head>
+          <head xml:lang="lij" xml:id="ertoparlante.h.l">
+            <s xml:lang="lij" xml:id="ertoparlante.hs1.l">Annonçi à l’ertoparlante</s>
+          </head>
           <sp xml:lang="lij" xml:id="ertoparlante.sp1.l">
             <p xml:lang="lij" xml:id="ertoparlante.sp1p1.l">
               <s xml:lang="lij" xml:id="ertoparlante.sp1p1s1.l">Ti veu stâ un pö sitto che n’arriëscio à capî squæxi ninte de quello ch’o dixe l’ertoparlante!</s>
@@ -1467,7 +1733,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="ertoparlante.i">
-          <head xml:lang="ita" xml:id="ertoparlante.h.i">Annunci all’altoparlante</head>
+          <head xml:lang="ita" xml:id="ertoparlante.h.i">
+            <s xml:lang="ita" xml:id="ertoparlante.hs1.i">Annunci all’altoparlante</s>
+          </head>
           <sp xml:lang="ita" xml:id="ertoparlante.sp1.i">
             <p xml:lang="ita" xml:id="ertoparlante.sp1p1.i">
               <s xml:lang="ita" xml:id="ertoparlante.sp1p1s1.i">Vuoi stare un po’ zitto che non riesco a capire quasi niente di quello che dice l’altoparlante!</s>
@@ -1502,6 +1770,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#ertoparlante.hs1.l #ertoparlante.hs1.i" />
       <link target="#ertoparlante.sp1p1s1.l #ertoparlante.sp1p1s1.i" />
       <link target="#ertoparlante.sp2p1s1.l #ertoparlante.sp2p1s1.i" />
       <link target="#ertoparlante.sp2p1s2.l #ertoparlante.sp2p1s2.i" />
@@ -1537,7 +1806,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="guidda.l">
-          <head xml:lang="lij" xml:id="guidda.h.l">Leçion de guidda</head>
+          <head xml:lang="lij" xml:id="guidda.h.l">
+            <s xml:lang="lij" xml:id="guidda.hs1.l">Leçion de guidda</s>
+          </head>
           <sp xml:lang="lij" xml:id="guidda.sp1.l">
             <p xml:lang="lij" xml:id="guidda.sp1p1.l">
               <s xml:lang="lij" xml:id="guidda.sp1p1s1.l">A primma cösa da fâ primma ancon de fâ partî a machina a l’é de levâ o fren à man.</s>
@@ -1580,7 +1851,9 @@
           </sp>
           <stage xml:lang="lij" xml:id="guidda.st8.l">
             <p xml:lang="lij" xml:id="guidda.st8p1.l">
-              <s xml:lang="lij" xml:id="guidda.st8p1s1.l">A machina pâ ch’a parte, ma se blòcca de ficco</s>
+              <s xml:lang="lij" xml:id="guidda.st8p1s1.l">
+                <stage>[A machina pâ ch’a parte, ma se blòcca de ficco]</stage>
+              </s>
             </p>
           </stage>
           <sp xml:lang="lij" xml:id="guidda.sp9.l">
@@ -1618,7 +1891,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="guidda.i">
-          <head xml:lang="ita" xml:id="guidda.h.i">Lezione di guida</head>
+          <head xml:lang="ita" xml:id="guidda.h.i">
+            <s xml:lang="ita" xml:id="guidda.hs1.i">Lezione di guida</s>
+          </head>
           <sp xml:lang="ita" xml:id="guidda.sp1.i">
             <p xml:lang="ita" xml:id="guidda.sp1p1.i">
               <s xml:lang="ita" xml:id="guidda.sp1p1s1.i">La prima cosa da fare, ancor prima di far partire la macchina, è togliere il freno a mano.</s>
@@ -1661,7 +1936,9 @@
           </sp>
           <stage xml:lang="ita" xml:id="guidda.st8.i">
             <p xml:lang="ita" xml:id="guidda.st8p1.i">
-              <s xml:lang="ita" xml:id="guidda.st8p1s1.i">Sembra che la macchina parta, ma si blocca all’improvviso</s>
+              <s xml:lang="ita" xml:id="guidda.st8p1s1.i">
+                <stage>[Sembra che la macchina parta, ma si blocca all’improvviso]</stage>
+              </s>
             </p>
           </stage>
           <sp xml:lang="ita" xml:id="guidda.sp9.i">
@@ -1703,6 +1980,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#guidda.hs1.l #guidda.hs1.i" />
       <link target="#guidda.sp1p1s1.l #guidda.sp1p1s1.i" />
       <link target="#guidda.sp1p1s2.l #guidda.sp1p1s2.i" />
       <link target="#guidda.sp2p1s1.l #guidda.sp2p1s1.i" />
@@ -1724,7 +2002,6 @@
       <link target="#guidda.sp12p1s3.l #guidda.sp12p1s3.i" />
       <link target="#guidda.sp13p1s1.l #guidda.sp13p1s1.i" />
       <link target="#guidda.sp14p1s1.l #guidda.sp14p1s1.i" />
-      <link target="#guidda.sp14p1s2.l #guidda.sp14p1s2.i" />
     </linkGrp>
   </standOff>
   <standOff>
@@ -1752,7 +2029,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="lavapiati.l">
-          <head xml:lang="lij" xml:id="lavapiati.h.l">A lavapiati a no særa</head>
+          <head xml:lang="lij" xml:id="lavapiati.h.l">
+            <s xml:lang="lij" xml:id="lavapiati.hs1.l">A lavapiati a no særa</s>
+          </head>
           <sp xml:lang="lij" xml:id="lavapiati.sp1.l">
             <p xml:lang="lij" xml:id="lavapiati.sp1p1.l">
               <s xml:lang="lij" xml:id="lavapiati.sp1p1s1.l">Ti m’aggiutti a capî comm’a l’é che a lavapiati a no særa?</s>
@@ -1811,7 +2090,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="lavapiati.i">
-          <head xml:lang="ita" xml:id="lavapiati.h.i">La lavastoviglie non si chiude</head>
+          <head xml:lang="ita" xml:id="lavapiati.h.i">
+            <s xml:lang="ita" xml:id="lavapiati.hs1.i">La lavastoviglie non si chiude</s>
+          </head>
           <sp xml:lang="ita" xml:id="lavapiati.sp1.i">
             <p xml:lang="ita" xml:id="lavapiati.sp1p1.i">
               <s xml:lang="ita" xml:id="lavapiati.sp1p1s1.i">Mi aiuti a capire come mai la lavastoviglie non si chiude?</s>
@@ -1874,6 +2155,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#lavapiati.hs1.l #lavapiati.hs1.i" />
       <link target="#lavapiati.sp1p1s1.l #lavapiati.sp1p1s1.i" />
       <link target="#lavapiati.sp2p1s1.l #lavapiati.sp2p1s1.i" />
       <link target="#lavapiati.sp3p1s1.l #lavapiati.sp3p1s1.i" />
@@ -1897,6 +2179,139 @@
       <link target="#lavapiati.l #lavapiati.i" />
     </linkGrp>
   </standOff>
+  <TEI xml:id="luccoi">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Stradda Luccoi</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="luccoi.l">
+          <head xml:lang="lij" xml:id="luccoi.h.l">
+            <s xml:lang="lij" xml:id="luccoi.hs1.l">Stradda Luccoi</s>
+          </head>
+          <sp xml:lang="lij" xml:id="luccoi.sp1.l">
+            <p xml:lang="lij" xml:id="luccoi.sp1p1.l">
+              <s xml:lang="lij" xml:id="luccoi.sp1p1s1.l">Scignoa, scignoa!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="luccoi.sp2.l">
+            <p xml:lang="lij" xml:id="luccoi.sp2p1.l">
+              <s xml:lang="lij" xml:id="luccoi.sp2p1s1.l">Scì, scià me digghe!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="luccoi.sp3.l">
+            <p xml:lang="lij" xml:id="luccoi.sp3p1.l">
+              <s xml:lang="lij" xml:id="luccoi.sp3p1s1.l">Sta chì a l’é stradda Luccoi?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="luccoi.sp4.l">
+            <p xml:lang="lij" xml:id="luccoi.sp4p1.l">
+              <s xml:lang="lij" xml:id="luccoi.sp4p1s1.l">Na, me spiaxe, a l’é stradda San Lucca.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="luccoi.sp5.l">
+            <p xml:lang="lij" xml:id="luccoi.sp5p1.l">
+              <s xml:lang="lij" xml:id="luccoi.sp5p1s1.l">E pe arrivâ in stradda Luccoi cöse devo fâ?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="luccoi.sp6.l">
+            <p xml:lang="lij" xml:id="luccoi.sp6p1.l">
+              <s xml:lang="lij" xml:id="luccoi.sp6p1s1.l">Sciâ deve anâ drito de chì, dòppo un pö o s’attreuva in Banchi, sciâ gia à manciña pe stradda Orefici, sempre drito scin à che scià no s’attreuva in ciassa Sozzeia, m’arrecommando, primma gh’é un slargo che in sciâ drita o s’arve à Ciassa Campetto, scià no ghe dagghe a mente e sciâ vagghe drito.</s>
+              <s xml:lang="lij" xml:id="luccoi.sp6p1s2.l">Comme dixeiva primma, quande scià s’attreuvià in ciassa Sozzeia, depoî scià l’avià doî carroggi: in sciâ manciña gh’é i Maxelli de Sozzeia, e in sciâ drita gh’é stradda Luccoi…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="luccoi.sp7.l">
+            <p xml:lang="lij" xml:id="luccoi.sp7p1.l">
+              <s xml:lang="lij" xml:id="luccoi.sp7p1s1.l">Graçie, gentiliscima.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="luccoi.sp8.l">
+            <p xml:lang="lij" xml:id="luccoi.sp8p1.l">
+              <s xml:lang="lij" xml:id="luccoi.sp8p1s1.l">De ninte, dovei.</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="luccoi.i">
+          <head xml:lang="ita" xml:id="luccoi.h.i">
+            <s xml:lang="ita" xml:id="luccoi.hs1.i">Via Luccoli</s>
+          </head>
+          <sp xml:lang="ita" xml:id="luccoi.sp1.i">
+            <p xml:lang="ita" xml:id="luccoi.sp1p1.i">
+              <s xml:lang="ita" xml:id="luccoi.sp1p1s1.i">Signora, signora!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="luccoi.sp2.i">
+            <p xml:lang="ita" xml:id="luccoi.sp2p1.i">
+              <s xml:lang="ita" xml:id="luccoi.sp2p1s1.i">Sì, mi dica!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="luccoi.sp3.i">
+            <p xml:lang="ita" xml:id="luccoi.sp3p1.i">
+              <s xml:lang="ita" xml:id="luccoi.sp3p1s1.i">Questa qui è via Luccoli?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="luccoi.sp4.i">
+            <p xml:lang="ita" xml:id="luccoi.sp4p1.i">
+              <s xml:lang="ita" xml:id="luccoi.sp4p1s1.i">No, mi spiace, è via san Luca.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="luccoi.sp5.i">
+            <p xml:lang="ita" xml:id="luccoi.sp5p1.i">
+              <s xml:lang="ita" xml:id="luccoi.sp5p1s1.i">E per arrivare in via Luccoli cosa devo fare?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="luccoi.sp6.i">
+            <p xml:lang="ita" xml:id="luccoi.sp6p1.i">
+              <s xml:lang="ita" xml:id="luccoi.sp6p1s1.i">Deve andare dritto da questa parte, dopo un po’ si troverà in piazza Banchi, gira a sinistra per via Orefici, sempre dritto finché non si trova in piazza Soziglia, mi raccomando, prima c’è uno slargo che a destra si apre a piazza Campetto, lo ignori e vada dritto.</s>
+              <s xml:lang="ita" xml:id="luccoi.sp6p1s2.i">Come dicevo prima, quando si troverà in piazza Soziglia, davanti avrà due caruggi: a sinistra via Macelli di Soziglia, e a destra c’è via Luccoli…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="luccoi.sp7.i">
+            <p xml:lang="ita" xml:id="luccoi.sp7p1.i">
+              <s xml:lang="ita" xml:id="luccoi.sp7p1s1.i">Grazie, gentilissima.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="luccoi.sp8.i">
+            <p xml:lang="ita" xml:id="luccoi.sp8p1.i">
+              <s xml:lang="ita" xml:id="luccoi.sp8p1s1.i">Di nulla, dovere.</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#luccoi.hs1.l #luccoi.hs1.i" />
+      <link target="#luccoi.sp1p1s1.l #luccoi.sp1p1s1.i" />
+      <link target="#luccoi.sp2p1s1.l #luccoi.sp2p1s1.i" />
+      <link target="#luccoi.sp3p1s1.l #luccoi.sp3p1s1.i" />
+      <link target="#luccoi.sp4p1s1.l #luccoi.sp4p1s1.i" />
+      <link target="#luccoi.sp5p1s1.l #luccoi.sp5p1s1.i" />
+      <link target="#luccoi.sp6p1s1.l #luccoi.sp6p1s1.i" />
+      <link target="#luccoi.sp6p1s2.l #luccoi.sp6p1s2.i" />
+      <link target="#luccoi.sp7p1s1.l #luccoi.sp7p1s1.i" />
+      <link target="#luccoi.sp8p1s1.l #luccoi.sp8p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#luccoi.l #luccoi.i" />
+    </linkGrp>
+  </standOff>
   <TEI xml:id="maenna">
     <teiHeader>
       <fileDesc>
@@ -1917,7 +2332,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="maenna.l">
-          <head xml:lang="lij" xml:id="maenna.h.l">Dialogo pe telefono in sce unna giornâ a-a mæña</head>
+          <head xml:lang="lij" xml:id="maenna.h.l">
+            <s xml:lang="lij" xml:id="maenna.hs1.l">Dialogo pe telefono in sce unna giornâ a-a mæña</s>
+          </head>
           <sp xml:lang="lij" xml:id="maenna.sp1.l">
             <p xml:lang="lij" xml:id="maenna.sp1p1.l">
               <s xml:lang="lij" xml:id="maenna.sp1p1s1.l">Pronto?</s>
@@ -2031,7 +2448,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="maenna.i">
-          <head xml:lang="ita" xml:id="maenna.h.i">Dialogo al telefono su una giornata al mare</head>
+          <head xml:lang="ita" xml:id="maenna.h.i">
+            <s xml:lang="ita" xml:id="maenna.hs1.i">Dialogo al telefono su una giornata al mare</s>
+          </head>
           <sp xml:lang="ita" xml:id="maenna.sp1.i">
             <p xml:lang="ita" xml:id="maenna.sp1p1.i">
               <s xml:lang="ita" xml:id="maenna.sp1p1s1.i">Pronto?</s>
@@ -2149,6 +2568,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#maenna.hs1.l #maenna.hs1.i" />
       <link target="#maenna.sp1p1s1.l #maenna.sp1p1s1.i" />
       <link target="#maenna.sp2p1s1.l #maenna.sp2p1s1.i" />
       <link target="#maenna.sp3p1s1.l #maenna.sp3p1s1.i" />
@@ -2187,6 +2607,403 @@
       <link target="#maenna.l #maenna.i" />
     </linkGrp>
   </standOff>
+  <TEI xml:id="nevetti">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">I nevetti</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="nevetti.l">
+          <head xml:lang="lij" xml:id="nevetti.h.l">
+            <s xml:lang="lij" xml:id="nevetti.hs1.l">I nevetti</s>
+          </head>
+          <sp xml:lang="lij" xml:id="nevetti.sp1.l">
+            <p xml:lang="lij" xml:id="nevetti.sp1p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp1p1s1.l">Scusa eh, ma ti peu reciammâ quello battoso alleitacogge de teu nevo?</s>
+              <s xml:lang="lij" xml:id="nevetti.sp1p1s2.l">L’è tutto o tempo che o besiggia mæ nessa!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp2.l">
+            <p xml:lang="lij" xml:id="nevetti.sp2p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp2p1s1.l">Ma cöse ti veu?</s>
+              <s xml:lang="lij" xml:id="nevetti.sp2p1s2.l">L’alleitacogge t’ê ti!</s>
+              <s xml:lang="lij" xml:id="nevetti.sp2p1s3.l">No ti veddi che se demoan?</s>
+              <s xml:lang="lij" xml:id="nevetti.sp2p1s4.l">Dapeu battoso e alleitacogge ti ô dixi a-i teu pænti che mæ nevo o l’é un bravo figgin!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp3.l">
+            <p xml:lang="lij" xml:id="nevetti.sp3p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp3p1s1.l">Oh cöse aviò mai dito!</s>
+              <s xml:lang="lij" xml:id="nevetti.sp3p1s2.l">Mia che me son contegnuo!</s>
+              <s xml:lang="lij" xml:id="nevetti.sp3p1s3.l">Avieva dovuo dî «grandiscima belliña» e dapeu «se demoan» pe un bello bellin!</s>
+              <s xml:lang="lij" xml:id="nevetti.sp3p1s4.l">O se demoa solo teu neuvo, che ghe gusta fâ cianze i atri figgeu, perché o l’é unna legera comme o seu messiavo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp4.l">
+            <p xml:lang="lij" xml:id="nevetti.sp4p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp4p1s1.l">Scì, teu nessa incangio a l’é unna santa!</s>
+              <s xml:lang="lij" xml:id="nevetti.sp4p1s2.l">Quella bagascetta quande no t’ammii a te ghe mòlla çerti spellinsegoin, che ciù un pö gh’arresta a pelle inte die!</s>
+              <s xml:lang="lij" xml:id="nevetti.sp4p1s3.l">Bagascia comme seu moæ, e böxarda comme o seu messiavo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp5.l">
+            <p xml:lang="lij" xml:id="nevetti.sp5p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp5p1s1.l">Se parlemmo de bagasce beseugna nominâ a bonnanima de teu moæ, che a â dava in gio comme a no fïse a seu, che tra ti e tutti i teu fræ, no ghe n’é un ch’o s’assomegge a-o maio, quello pöveo becco che ti ti ciammavi poæ!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp6.l">
+            <p xml:lang="lij" xml:id="nevetti.sp6p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp6p1s1.l">Mia, lascia in paxe mæ moæ e mæ poæ!</s>
+              <s xml:lang="lij" xml:id="nevetti.sp6p1s2.l">No ti devi manco nominâli e arruxentite a bocca, leugo de un leugo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp7.l">
+            <p xml:lang="lij" xml:id="nevetti.sp7p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp7p1s1.l">Ma arruxentitela ti quella chintaña che ti gh’æ in mezo a-o moro, e vanni à dâ do cû!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp8.l">
+            <p xml:lang="lij" xml:id="nevetti.sp8p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp8p1s1.l">Un bellin che te neghe, Barudda, coscì ti taxi!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp9.l">
+            <p xml:lang="lij" xml:id="nevetti.sp9p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp9p1s1.l">Mia, me ne vaggo, sedonca te piggio à cäsci into cû!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp10.l">
+            <p xml:lang="lij" xml:id="nevetti.sp10p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp10p1s1.l">Scì, vorrieiva veddite, veggiusso!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="nevetti.sp11.l">
+            <p xml:lang="lij" xml:id="nevetti.sp11p1.l">
+              <s xml:lang="lij" xml:id="nevetti.sp11p1s1.l">O l’à parlou o zoenòtto… <stage>[ammiando a nessa o sbraggia:]</stage> ANEMMO POLLIN, vëgni che te catto o gelato…</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="nevetti.i">
+          <head xml:lang="ita" xml:id="nevetti.h.i">
+            <s xml:lang="ita" xml:id="nevetti.hs1.i">I nipotini</s>
+          </head>
+          <sp xml:lang="ita" xml:id="nevetti.sp1.i">
+            <p xml:lang="ita" xml:id="nevetti.sp1p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp1p1s1.i">Scusa eh, potresti richiamare quel monello rompicoglioni di tuo nipote?</s>
+              <s xml:lang="ita" xml:id="nevetti.sp1p1s2.i">È tutto il tempo che tormenta mia nipote!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp2.i">
+            <p xml:lang="ita" xml:id="nevetti.sp2p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp2p1s1.i">Ma cosa vuoi?</s>
+              <s xml:lang="ita" xml:id="nevetti.sp2p1s2.i">Il rompicoglioni sei tu!</s>
+              <s xml:lang="ita" xml:id="nevetti.sp2p1s3.i">Non vedi che si divertono?</s>
+              <s xml:lang="ita" xml:id="nevetti.sp2p1s4.i">Poi monello rompicoglioni lo dici ai parenti tuoi che mio nipote è un bravo bambino!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp3.i">
+            <p xml:lang="ita" xml:id="nevetti.sp3p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp3p1s1.i">Uh cosa avrò mai detto!</s>
+              <s xml:lang="ita" xml:id="nevetti.sp3p1s2.i">Guarda che mi sono contenuto!</s>
+              <s xml:lang="ita" xml:id="nevetti.sp3p1s3.i">Avrei dovuto dire «grandissimo infame» e poi «si divertono» un cazzo!</s>
+              <s xml:lang="ita" xml:id="nevetti.sp3p1s4.i">Si diverte solo tuo nipote che gli piace far piangere gli altri bambini, perché è un delinquente come suo nonno!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp4.i">
+            <p xml:lang="ita" xml:id="nevetti.sp4p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp4p1s1.i">Sì, tua nipote invece è una santa!</s>
+              <s xml:lang="ita" xml:id="nevetti.sp4p1s2.i">Quella troietta quando non guardi, gli molla certi pizzicotti, che a momenti le rimane la pelle tra le dita!</s>
+              <s xml:lang="ita" xml:id="nevetti.sp4p1s3.i">Puttana come sua madre e bugiarda come suo nonno!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp5.i">
+            <p xml:lang="ita" xml:id="nevetti.sp5p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp5p1s1.i">Se parliamo di puttane bisogna nominare la buonanima di tua madre, che la dava in giro come non fosse la sua, che tra te e tutti i tuoi fratelli non ce n’è uno che assomigli al marito, quel povero cornuto che tu chiamavi padre!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp6.i">
+            <p xml:lang="ita" xml:id="nevetti.sp6p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp6p1s1.i">Guarda bene di lasciare in pace mia madre e mio padre!</s>
+              <s xml:lang="ita" xml:id="nevetti.sp6p1s2.i">Non devi neanche nominarli e sciacquati la bocca, cesso di un cesso!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp7.i">
+            <p xml:lang="ita" xml:id="nevetti.sp7p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp7p1s1.i">Ma sciacquatela tu, quella fogna che hai in mezzo al muso, e vaffanculo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp8.i">
+            <p xml:lang="ita" xml:id="nevetti.sp8p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp8p1s1.i">Che ti soffochi un cazzo, buffone, così stai zitto!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp9.i">
+            <p xml:lang="ita" xml:id="nevetti.sp9p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp9p1s1.i">Guarda, me ne vado altrimenti ti prendo a calci in culo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp10.i">
+            <p xml:lang="ita" xml:id="nevetti.sp10p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp10p1s1.i">Sì, vorrei vederti, vecchiaccio!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="nevetti.sp11.i">
+            <p xml:lang="ita" xml:id="nevetti.sp11p1.i">
+              <s xml:lang="ita" xml:id="nevetti.sp11p1s1.i">Ha parlato il giovanotto… <stage>[rivolgendosi alla nipote grida:]</stage> ANDIAMO PULCINO, vieni che ti compro il gelato…</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#nevetti.hs1.l #nevetti.hs1.i" />
+      <link target="#nevetti.sp1p1s1.l #nevetti.sp1p1s1.i" />
+      <link target="#nevetti.sp1p1s2.l #nevetti.sp1p1s2.i" />
+      <link target="#nevetti.sp2p1s1.l #nevetti.sp2p1s1.i" />
+      <link target="#nevetti.sp2p1s2.l #nevetti.sp2p1s2.i" />
+      <link target="#nevetti.sp2p1s3.l #nevetti.sp2p1s3.i" />
+      <link target="#nevetti.sp2p1s4.l #nevetti.sp2p1s4.i" />
+      <link target="#nevetti.sp3p1s1.l #nevetti.sp3p1s1.i" />
+      <link target="#nevetti.sp3p1s2.l #nevetti.sp3p1s2.i" />
+      <link target="#nevetti.sp3p1s3.l #nevetti.sp3p1s3.i" />
+      <link target="#nevetti.sp3p1s4.l #nevetti.sp3p1s4.i" />
+      <link target="#nevetti.sp4p1s1.l #nevetti.sp4p1s1.i" />
+      <link target="#nevetti.sp4p1s2.l #nevetti.sp4p1s2.i" />
+      <link target="#nevetti.sp4p1s3.l #nevetti.sp4p1s3.i" />
+      <link target="#nevetti.sp5p1s1.l #nevetti.sp5p1s1.i" />
+      <link target="#nevetti.sp6p1s1.l #nevetti.sp6p1s1.i" />
+      <link target="#nevetti.sp6p1s2.l #nevetti.sp6p1s2.i" />
+      <link target="#nevetti.sp7p1s1.l #nevetti.sp7p1s1.i" />
+      <link target="#nevetti.sp8p1s1.l #nevetti.sp8p1s1.i" />
+      <link target="#nevetti.sp9p1s1.l #nevetti.sp9p1s1.i" />
+      <link target="#nevetti.sp10p1s1.l #nevetti.sp10p1s1.i" />
+      <link target="#nevetti.sp11p1s1.l #nevetti.sp11p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#nevetti.l #nevetti.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="opera">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">L’Òpera</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="opera.l">
+          <head xml:lang="lij" xml:id="opera.h.l">
+            <s xml:lang="lij" xml:id="opera.hs1.l">L’Òpera</s>
+          </head>
+          <sp xml:lang="lij" xml:id="opera.sp1.l">
+            <p xml:lang="lij" xml:id="opera.sp1p1.l">
+              <s xml:lang="lij" xml:id="opera.sp1p1s1.l">Bello, propio bello!</s>
+              <s xml:lang="lij" xml:id="opera.sp1p1s2.l">Son stæto ben!</s>
+              <s xml:lang="lij" xml:id="opera.sp1p1s3.l">No me ô creddeiva… òh, me piaxe a muxica ma l’òpera a me fava poia, pensava de angosciâme, incangio me son propio demoou!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp2.l">
+            <p xml:lang="lij" xml:id="opera.sp2p1.l">
+              <s xml:lang="lij" xml:id="opera.sp2p1s1.l">Te l’aiva dito scì ò na che te saieiva piaxuo?</s>
+              <s xml:lang="lij" xml:id="opera.sp2p1s2.l">Dapeu sti zoeni en bravi ben!</s>
+              <s xml:lang="lij" xml:id="opera.sp2p1s3.l">Che voxe, che intonaçioin!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp3.l">
+            <p xml:lang="lij" xml:id="opera.sp3p1.l">
+              <s xml:lang="lij" xml:id="opera.sp3p1s1.l">Davei!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp4.l">
+            <p xml:lang="lij" xml:id="opera.sp4p1.l">
+              <s xml:lang="lij" xml:id="opera.sp4p1s1.l">No son ancon conosciui ma no manchià tanto che vegnian ben ben avvoxæ.</s>
+              <s xml:lang="lij" xml:id="opera.sp4p1s2.l">E alloa no porriemo ciù permettiseli che i biggetti andian sciù de prexo.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp5.l">
+            <p xml:lang="lij" xml:id="opera.sp5p1.l">
+              <s xml:lang="lij" xml:id="opera.sp5p1s1.l">Ancon ciù erti de coscì?</s>
+              <s xml:lang="lij" xml:id="opera.sp5p1s2.l">No l’é che ne l’aggen regallæ stavòtta i biggetti!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp6.l">
+            <p xml:lang="lij" xml:id="opera.sp6p1.l">
+              <s xml:lang="lij" xml:id="opera.sp6p1s1.l">Ma cöse ti dixi!</s>
+              <s xml:lang="lij" xml:id="opera.sp6p1s2.l">Un allestimento de quella mersa a l’é unna röba ch’a costa un muggio de palanche!</s>
+              <s xml:lang="lij" xml:id="opera.sp6p1s3.l">Gh’é i costummi, e scene, beseugna portâse apreuvo un exerçito de tecnichi, e no l’é miga comme o cine, che quande t’ê giou e montou o l’é tutto finio, chì tutte e seie se comensa da cappo, e ti ti pensi che tutte e seie gh’an o mæximo vestio?</s>
+              <s xml:lang="lij" xml:id="opera.sp6p1s4.l">Quarcosa o faian doggio, pe fòrsa, sedonca con tutto quello suô…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp7.l">
+            <p xml:lang="lij" xml:id="opera.sp7p1.l">
+              <s xml:lang="lij" xml:id="opera.sp7p1s1.l">Eh, no gh’aiva miga pensou… dev’ëse pròpio unna fadiga do belliscimo mette sciù tutto quell’ambaradan tutte e seie.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp8.l">
+            <p xml:lang="lij" xml:id="opera.sp8p1.l">
+              <s xml:lang="lij" xml:id="opera.sp8p1s1.l">Pe no parlâ de quande cangian çittæ… no sò manco se ghe staggan drento co-e palanche, ançi, son seguo che no ghe â fan, sedonca no ghe saieva de beseugno de finançiamenti e sponsor… te pâ?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp9.l">
+            <p xml:lang="lij" xml:id="opera.sp9p1.l">
+              <s xml:lang="lij" xml:id="opera.sp9p1s1.l">Za.</s>
+              <s xml:lang="lij" xml:id="opera.sp9p1s2.l">Scignifica che se no attreuvan di finaçiamenti no se porrian ciù fâ?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp10.l">
+            <p xml:lang="lij" xml:id="opera.sp10p1.l">
+              <s xml:lang="lij" xml:id="opera.sp10p1s1.l">A l’é unna costion de çerne: se quarchedun inti palaçi o pensià che l’òpera a segge unna röba tròppo çernua e pe pöchi, peu ëse ch’o pigge a deçixon de serrâ a borsa e scciao.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp11.l">
+            <p xml:lang="lij" xml:id="opera.sp11p1.l">
+              <s xml:lang="lij" xml:id="opera.sp11p1s1.l">Saieva un peccou mortale…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="opera.sp12.l">
+            <p xml:lang="lij" xml:id="opera.sp12p1.l">
+              <s xml:lang="lij" xml:id="opera.sp12p1s1.l">Davei</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="opera.i">
+          <head xml:lang="ita" xml:id="opera.h.i">
+            <s xml:lang="ita" xml:id="opera.hs1.i">L’Opera</s>
+          </head>
+          <sp xml:lang="ita" xml:id="opera.sp1.i">
+            <p xml:lang="ita" xml:id="opera.sp1p1.i">
+              <s xml:lang="ita" xml:id="opera.sp1p1s1.i">Bello, proprio bello!</s>
+              <s xml:lang="ita" xml:id="opera.sp1p1s2.i">Sono stato bene!</s>
+              <s xml:lang="ita" xml:id="opera.sp1p1s3.i">Non credevo… oh, mi piace la musica ma l’opera mi faceva paura, pensavo di annoiarmi, invece mi sono proprio divertito!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp2.i">
+            <p xml:lang="ita" xml:id="opera.sp2p1.i">
+              <s xml:lang="ita" xml:id="opera.sp2p1s1.i">Te l’avevo detto sì o no, che ti sarebbe piaciuto?</s>
+              <s xml:lang="ita" xml:id="opera.sp2p1s2.i">Poi questi giovani sono molto bravi!</s>
+              <s xml:lang="ita" xml:id="opera.sp2p1s3.i">Che voci, che intonazioni!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp3.i">
+            <p xml:lang="ita" xml:id="opera.sp3p1.i">
+              <s xml:lang="ita" xml:id="opera.sp3p1s1.i">Davvero!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp4.i">
+            <p xml:lang="ita" xml:id="opera.sp4p1.i">
+              <s xml:lang="ita" xml:id="opera.sp4p1s1.i">Non sono ancora conosciuti ma non mancherà molto che diventeranno molto famosi.</s>
+              <s xml:lang="ita" xml:id="opera.sp4p1s2.i">E allora non ce li potremo più permettere che i biglietti saliranno di prezzo.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp5.i">
+            <p xml:lang="ita" xml:id="opera.sp5p1.i">
+              <s xml:lang="ita" xml:id="opera.sp5p1s1.i">Ancora più alti di così?</s>
+              <s xml:lang="ita" xml:id="opera.sp5p1s2.i">Non è che ce li abbiano regalati questa volta i biglietti!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp6.i">
+            <p xml:lang="ita" xml:id="opera.sp6p1.i">
+              <s xml:lang="ita" xml:id="opera.sp6p1s1.i">Ma cosa dici!</s>
+              <s xml:lang="ita" xml:id="opera.sp6p1s2.i">Un allestimento di quel genere costa un sacco di soldi!</s>
+              <s xml:lang="ita" xml:id="opera.sp6p1s3.i">Ci sono i costumi, le scene, bisogna portarsi appresso un esercito di tecnici, e non è mica come il cinema che quando hai girato e montato è tutto finito, qui tutte le sere si comincia da capo, e tu pensi che tutte le sere abbiano lo stesso vestito?</s>
+              <s xml:lang="ita" xml:id="opera.sp6p1s4.i">Qualcosa lo faranno doppio, per forza, altrimenti con tutto quel sudore…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp7.i">
+            <p xml:lang="ita" xml:id="opera.sp7p1.i">
+              <s xml:lang="ita" xml:id="opera.sp7p1s1.i">Eh, non ci avevo mica pensato… dev’essere una fatica del cavolo mettere su tutto quell’ambaradan tutte le sere.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp8.i">
+            <p xml:lang="ita" xml:id="opera.sp8p1.i">
+              <s xml:lang="ita" xml:id="opera.sp8p1s1.i">Per non parlare di quando cambiano città… non so neppure se ci stiano dentro con i soldi, anzi, sono sicuro che non ce la fanno, altrimenti non ci sarebbe bisogno di finanziamenti e sponsor… ti pare?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp9.i">
+            <p xml:lang="ita" xml:id="opera.sp9p1.i">
+              <s xml:lang="ita" xml:id="opera.sp9p1s1.i">Già.</s>
+              <s xml:lang="ita" xml:id="opera.sp9p1s2.i">Significa che se non trovano finanziamenti non si potranno più fare?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp10.i">
+            <p xml:lang="ita" xml:id="opera.sp10p1.i">
+              <s xml:lang="ita" xml:id="opera.sp10p1s1.i">È una questione di scelte: se qualcuno nei palazzi penserà che l’opera sia una cosa troppo ricercata e per pochi, può essere che prenda la decisione di chiudere la borsa e ciao.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp11.i">
+            <p xml:lang="ita" xml:id="opera.sp11p1.i">
+              <s xml:lang="ita" xml:id="opera.sp11p1s1.i">Sarebbe un peccato mortale…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="opera.sp12.i">
+            <p xml:lang="ita" xml:id="opera.sp12p1.i">
+              <s xml:lang="ita" xml:id="opera.sp12p1s1.i">Veramente</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#opera.hs1.l #opera.hs1.i" />
+      <link target="#opera.sp1p1s1.l #opera.sp1p1s1.i" />
+      <link target="#opera.sp1p1s2.l #opera.sp1p1s2.i" />
+      <link target="#opera.sp1p1s3.l #opera.sp1p1s3.i" />
+      <link target="#opera.sp2p1s1.l #opera.sp2p1s1.i" />
+      <link target="#opera.sp2p1s2.l #opera.sp2p1s2.i" />
+      <link target="#opera.sp2p1s3.l #opera.sp2p1s3.i" />
+      <link target="#opera.sp3p1s1.l #opera.sp3p1s1.i" />
+      <link target="#opera.sp4p1s1.l #opera.sp4p1s1.i" />
+      <link target="#opera.sp4p1s2.l #opera.sp4p1s2.i" />
+      <link target="#opera.sp5p1s1.l #opera.sp5p1s1.i" />
+      <link target="#opera.sp5p1s2.l #opera.sp5p1s2.i" />
+      <link target="#opera.sp6p1s1.l #opera.sp6p1s1.i" />
+      <link target="#opera.sp6p1s2.l #opera.sp6p1s2.i" />
+      <link target="#opera.sp6p1s3.l #opera.sp6p1s3.i" />
+      <link target="#opera.sp6p1s4.l #opera.sp6p1s4.i" />
+      <link target="#opera.sp7p1s1.l #opera.sp7p1s1.i" />
+      <link target="#opera.sp8p1s1.l #opera.sp8p1s1.i" />
+      <link target="#opera.sp9p1s1.l #opera.sp9p1s1.i" />
+      <link target="#opera.sp9p1s2.l #opera.sp9p1s2.i" />
+      <link target="#opera.sp10p1s1.l #opera.sp10p1s1.i" />
+      <link target="#opera.sp11p1s1.l #opera.sp11p1s1.i" />
+      <link target="#opera.sp12p1s1.l #opera.sp12p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#opera.l #opera.i" />
+    </linkGrp>
+  </standOff>
   <TEI xml:id="prenotacion">
     <teiHeader>
       <fileDesc>
@@ -2207,7 +3024,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="prenotacion.l">
-          <head xml:lang="lij" xml:id="prenotacion.h.l">Prenotaçion a-o restorante</head>
+          <head xml:lang="lij" xml:id="prenotacion.h.l">
+            <s xml:lang="lij" xml:id="prenotacion.hs1.l">Prenotaçion a-o restorante</s>
+          </head>
           <sp xml:lang="lij" xml:id="prenotacion.sp1.l">
             <p xml:lang="lij" xml:id="prenotacion.sp1p1.l">
               <s xml:lang="lij" xml:id="prenotacion.sp1p1s1.l">Bongiorno.</s>
@@ -2259,7 +3078,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="prenotacion.i">
-          <head xml:lang="ita" xml:id="prenotacion.h.i">Prenotazione al ristorante</head>
+          <head xml:lang="ita" xml:id="prenotacion.h.i">
+            <s xml:lang="ita" xml:id="prenotacion.hs1.i">Prenotazione al ristorante</s>
+          </head>
           <sp xml:lang="ita" xml:id="prenotacion.sp1.i">
             <p xml:lang="ita" xml:id="prenotacion.sp1p1.i">
               <s xml:lang="ita" xml:id="prenotacion.sp1p1s1.i">Buongiorno.</s>
@@ -2315,6 +3136,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#prenotacion.hs1.l #prenotacion.hs1.i" />
       <link target="#prenotacion.sp1p1s1.l #prenotacion.sp1p1s1.i" />
       <link target="#prenotacion.sp1p1s2.l #prenotacion.sp1p1s2.i" />
       <link target="#prenotacion.sp2p1s1.l #prenotacion.sp2p1s1.i" />
@@ -2333,6 +3155,356 @@
   <standOff>
     <linkGrp type="documentTranslation">
       <link target="#prenotacion.l #prenotacion.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="rionda">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Inta rionda</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="rionda.l">
+          <head xml:lang="lij" xml:id="rionda.h.l">
+            <s xml:lang="lij" xml:id="rionda.hs1.l">Inta rionda</s>
+          </head>
+          <sp xml:lang="lij" xml:id="rionda.sp1.l">
+            <p xml:lang="lij" xml:id="rionda.sp1p1.l">
+              <s xml:lang="lij" xml:id="rionda.sp1p1s1.l">Òh berödo!</s>
+              <s xml:lang="lij" xml:id="rionda.sp1p1s2.l">No ti veddi che son inta rionda e gh’ò a preçedensa?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rionda.sp2.l">
+            <p xml:lang="lij" xml:id="rionda.sp2p1.l">
+              <s xml:lang="lij" xml:id="rionda.sp2p1s1.l">Mia, nescio do bellin: inta rionda t’ê introu quande mi aiva za passou i triangoli!</s>
+              <s xml:lang="lij" xml:id="rionda.sp2p1s2.l">Ea mi inta rionda!</s>
+              <s xml:lang="lij" xml:id="rionda.sp2p1s3.l">Ghe l’ò mi a preçedensa!</s>
+              <s xml:lang="lij" xml:id="rionda.sp2p1s4.l">Se t’avesci studiou pe-a patente, incangio d’accatâla, ti ô saviësci!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rionda.sp3.l">
+            <p xml:lang="lij" xml:id="rionda.sp3p1.l">
+              <s xml:lang="lij" xml:id="rionda.sp3p1s1.l">E se ti no ti fïsci stæto in adobbo comme i fonzi, ti saviësci che quande un o l’é drento a rionda o gh’à a preçedensa</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rionda.sp4.l">
+            <p xml:lang="lij" xml:id="rionda.sp4p1.l">
+              <s xml:lang="lij" xml:id="rionda.sp4p1s1.l">Òhu!</s>
+              <s xml:lang="lij" xml:id="rionda.sp4p1s2.l">T’ê sordo ò scemmo?!</s>
+              <s xml:lang="lij" xml:id="rionda.sp4p1s3.l">T’ò dito che gh’ea mi, inta rionda!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rionda.sp5.l">
+            <p xml:lang="lij" xml:id="rionda.sp5p1.l">
+              <s xml:lang="lij" xml:id="rionda.sp5p1s1.l">Mia, vanni, che ancheu no gh’ò coæ de stâ apreuvo a-i vixonäi</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rionda.sp6.l">
+            <p xml:lang="lij" xml:id="rionda.sp6p1.l">
+              <s xml:lang="lij" xml:id="rionda.sp6p1s1.l">Vanni ti, e dinni à teu moggê che se pigge a çentoquattro che quelli comme tie van portæ in gio pe man comme i figgeu!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rionda.sp7.l">
+            <p xml:lang="lij" xml:id="rionda.sp7p1.l">
+              <s xml:lang="lij" xml:id="rionda.sp7p1s1.l">Ma vanni à da do cû!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rionda.sp8.l">
+            <p xml:lang="lij" xml:id="rionda.sp8p1.l">
+              <s xml:lang="lij" xml:id="rionda.sp8p1s1.l">Vannighe ti, belliña!</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="rionda.i">
+          <head xml:lang="ita" xml:id="rionda.h.i">
+            <s xml:lang="ita" xml:id="rionda.hs1.i">Nella rotonda</s>
+          </head>
+          <sp xml:lang="ita" xml:id="rionda.sp1.i">
+            <p xml:lang="ita" xml:id="rionda.sp1p1.i">
+              <s xml:lang="ita" xml:id="rionda.sp1p1s1.i">Oh salame!</s>
+              <s xml:lang="ita" xml:id="rionda.sp1p1s2.i">Non vedi che sono nella rotonda e ho la precedenza?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rionda.sp2.i">
+            <p xml:lang="ita" xml:id="rionda.sp2p1.i">
+              <s xml:lang="ita" xml:id="rionda.sp2p1s1.i">Guarda, ignorante del cazzo: nella rotonda sei entrato quando io avevo già passato i triangoli!</s>
+              <s xml:lang="ita" xml:id="rionda.sp2p1s2.i">Ero io nella rotonda!</s>
+              <s xml:lang="ita" xml:id="rionda.sp2p1s3.i">Ce l’ho io la precedenza!</s>
+              <s xml:lang="ita" xml:id="rionda.sp2p1s4.i">Se avessi studiato per la patente, invece di comprarla, lo sapresti!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rionda.sp3.i">
+            <p xml:lang="ita" xml:id="rionda.sp3p1.i">
+              <s xml:lang="ita" xml:id="rionda.sp3p1s1.i">E se tu non fossi stato sott’olio come i funghi, sapresti che quando uno è dentro la rotonda ha la precedenza!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rionda.sp4.i">
+            <p xml:lang="ita" xml:id="rionda.sp4p1.i">
+              <s xml:lang="ita" xml:id="rionda.sp4p1s1.i">Hey!</s>
+              <s xml:lang="ita" xml:id="rionda.sp4p1s2.i">Sei sordo o scemo?!</s>
+              <s xml:lang="ita" xml:id="rionda.sp4p1s3.i">Ti ho detto che c’ero io nella rotonda!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rionda.sp5.i">
+            <p xml:lang="ita" xml:id="rionda.sp5p1.i">
+              <s xml:lang="ita" xml:id="rionda.sp5p1s1.i">Guarda, vai, che oggi non ho voglia di dar retta ai visionari</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rionda.sp6.i">
+            <p xml:lang="ita" xml:id="rionda.sp6p1.i">
+              <s xml:lang="ita" xml:id="rionda.sp6p1s1.i">Vai tu, e di’ a tua moglie che si prenda la centoquattro che quelli come te vanno accompagnati per mano come i bambini!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rionda.sp7.i">
+            <p xml:lang="ita" xml:id="rionda.sp7p1.i">
+              <s xml:lang="ita" xml:id="rionda.sp7p1s1.i">Ma vaffanculo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rionda.sp8.i">
+            <p xml:lang="ita" xml:id="rionda.sp8p1.i">
+              <s xml:lang="ita" xml:id="rionda.sp8p1s1.i">Vacci tu infame!</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#rionda.hs1.l #rionda.hs1.i" />
+      <link target="#rionda.sp1p1s1.l #rionda.sp1p1s1.i" />
+      <link target="#rionda.sp1p1s2.l #rionda.sp1p1s2.i" />
+      <link target="#rionda.sp2p1s1.l #rionda.sp2p1s1.i" />
+      <link target="#rionda.sp2p1s2.l #rionda.sp2p1s2.i" />
+      <link target="#rionda.sp2p1s3.l #rionda.sp2p1s3.i" />
+      <link target="#rionda.sp2p1s4.l #rionda.sp2p1s4.i" />
+      <link target="#rionda.sp3p1s1.l #rionda.sp3p1s1.i" />
+      <link target="#rionda.sp4p1s1.l #rionda.sp4p1s1.i" />
+      <link target="#rionda.sp4p1s2.l #rionda.sp4p1s2.i" />
+      <link target="#rionda.sp4p1s3.l #rionda.sp4p1s3.i" />
+      <link target="#rionda.sp5p1s1.l #rionda.sp5p1s1.i" />
+      <link target="#rionda.sp6p1s1.l #rionda.sp6p1s1.i" />
+      <link target="#rionda.sp7p1s1.l #rionda.sp7p1s1.i" />
+      <link target="#rionda.sp8p1s1.l #rionda.sp8p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#rionda.l #rionda.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="rumenta">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">A rumenta</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="rumenta.l">
+          <head xml:lang="lij" xml:id="rumenta.h.l">
+            <s xml:lang="lij" xml:id="rumenta.hs1.l">A rumenta</s>
+          </head>
+          <sp xml:lang="lij" xml:id="rumenta.sp1.l">
+            <p xml:lang="lij" xml:id="rumenta.sp1p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp1p1s1.l">Ghe ô diggo pe l’urtima vòtta: scià no deve cacciâ zu da-o barcon quella rumenta do bellin!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp1p1s2.l">I gatti no â mangian e à mi me vëgne tutti i moscin in casa.</s>
+              <s xml:lang="lij" xml:id="rumenta.sp1p1s3.l">E i ratti fan festa sotta a-o mæ poggiölo!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp1p1s4.l">Pe no parlâ de quello pöveo can, grasso comme un pòrco, ch’o baia delongo!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp1p1s5.l">Basta, BASTA!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp2.l">
+            <p xml:lang="lij" xml:id="rumenta.sp2p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp2p1s1.l">Oh cöse scià s’ascada tanto!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp2p1s2.l">E gente agre comme voî son cattive e no veuan ben a-e bestie!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp2p1s3.l">Dapeu se scià gh’à i ratti sotta a-o barcon o l’é perché scià l’é sucida e scià no nettezza ben!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp3.l">
+            <p xml:lang="lij" xml:id="rumenta.sp3p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp3p1s1.l">Sciâ stagghe à sentî, brutta bagascia, mi in casa me ghe puliscio bastante, seguo che sciâ fa fito à nettezzâ, sciâ caccia a rumenta inte case di atri!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp3p1s2.l">E ancon d’assæ che sciâ veu ben a-e bestie, o seu can o no sciòrte mai e a Texo a m’à dito ch’o gh’à pisciou in scî lençeu.</s>
+              <s xml:lang="lij" xml:id="rumenta.sp3p1s3.l">Sciâ stagghe ben attenta che no l’accapite à mie: vëi seia me son attrovâ armelle e leppego de tomata in sciâ miagetta do poggiölo, oua ghe diggo che a pròscima votta che treuvo quarcösa, vëgno sciù de d’ato e ghe â fretto inte quello moro da refiosa de merda!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp4.l">
+            <p xml:lang="lij" xml:id="rumenta.sp4p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp4p1s1.l">Mäducâ de unna mäducâ, çerte poule ê peu deuviâ solo unna paisaña comme voscià!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp4p1s2.l">Se vedde pròpio che scià no l’à reçevuo nisciuña educaçion!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp5.l">
+            <p xml:lang="lij" xml:id="rumenta.sp5p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp5p1s1.l">Scì l’à parlou a nobiltæ de Corso Perrone!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp5p1s2.l">Mi ne vegniò di paixi, ma con tutti i bellin che scià l’a piggiou voscià, missi in righinaggia un apreuvo à l’atro, se gh’arriva à Romma!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp6.l">
+            <p xml:lang="lij" xml:id="rumenta.sp6p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp6p1s1.l">Staseia ghe mando mæ maio, coscì o â mette in riga, lenguassa!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp7.l">
+            <p xml:lang="lij" xml:id="rumenta.sp7p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp7p1s1.l">Scì scì che scià ô mande zu da niatri quello paggiasso!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp7p1s2.l">Coscì mæ maio o ghe arve o libbro primma de inversâlo comme un scappin!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp8.l">
+            <p xml:lang="lij" xml:id="rumenta.sp8p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp8p1s1.l">Faiò presente à l’amministratô tutte e seu menasse!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp9.l">
+            <p xml:lang="lij" xml:id="rumenta.sp9p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp9p1s1.l">No veddo l’oa!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp9p1s2.l">Doppo tanto ô veddiemo torna!</s>
+              <s xml:lang="lij" xml:id="rumenta.sp9p1s3.l">Coscì mi, a Texo e tutti i atri do palaçio poemmo parlâghe de viatri «Nòbili de Castelmerda», mai ben!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp10.l">
+            <p xml:lang="lij" xml:id="rumenta.sp10p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp10p1s1.l">Ne parliò a-o mæ avvocou.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="rumenta.sp11.l">
+            <p xml:lang="lij" xml:id="rumenta.sp11p1.l">
+              <s xml:lang="lij" xml:id="rumenta.sp11p1s1.l">Sciâ fasse, semmo in chinze contro un, e veddiemo…</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="rumenta.i">
+          <head xml:lang="ita" xml:id="rumenta.h.i">
+            <s xml:lang="ita" xml:id="rumenta.hs1.i">La spazzatura</s>
+          </head>
+          <sp xml:lang="ita" xml:id="rumenta.sp1.i">
+            <p xml:lang="ita" xml:id="rumenta.sp1p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp1p1s1.i">Glielo dico per l’ultima volta: non deve gettare giù dalla finestra quella spazzatura del cazzo!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp1p1s2.i">I gatti non la mangiano e a me arrivano tutti i moscerini in casa.</s>
+              <s xml:lang="ita" xml:id="rumenta.sp1p1s3.i">E i topi fanno festa sotto il mio poggiolo!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp1p1s4.i">Per non parlare di quel povero cane, grasso come un porco, che abbaia di continuo!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp1p1s5.i">Basta, BASTA!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp2.i">
+            <p xml:lang="ita" xml:id="rumenta.sp2p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp2p1s1.i">Uh cosa si scalda tanto!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp2p1s2.i">Le persone acide come voi sono cattive e non vogliono bene agli animali!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp2p1s3.i">Poi se ha i topi sotto la finestra è perché è una sozzona e non pulisce bene!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp3.i">
+            <p xml:lang="ita" xml:id="rumenta.sp3p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp3p1s1.i">Stia a sentire, brutta troia, io a casa mia pulisco sufficientemente, certo che lei fa presto a pulire, getta tutta la spazzatura in casa degli altri!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp3p1s2.i">E meno male che vuol bene agli animali, il suo cane non esce mai e Teresa mi ha detto che le ha pisciato sulle lenzuola.</s>
+              <s xml:lang="ita" xml:id="rumenta.sp3p1s3.i">Stia ben attenta che non capiti a me: ieri sera mi sono trovata semi e viscido di pomodoro sul muretto del poggiolo, ora le dico che la prossima volta che trovo qualcosa, vengo su di sopra e gliela sfrego su quel muso da antipatica di merda!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp4.i">
+            <p xml:lang="ita" xml:id="rumenta.sp4p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp4p1s1.i">Maleducata di una maleducata, certe parole le può adoperare solo una campagnola come lei!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp4p1s2.i">Si vede proprio che non ha ricevuto nessuna educazione!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp5.i">
+            <p xml:lang="ita" xml:id="rumenta.sp5p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp5p1s1.i">Sì, ha parlato la nobiltà di Corso Perrone!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp5p1s2.i">Io verrò dalla campagna, ma con tutti i cazzi che ha preso lei, messi in fila uno dietro l’altro, ci si arriva a Roma!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp6.i">
+            <p xml:lang="ita" xml:id="rumenta.sp6p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp6p1s1.i">Stasera le mando mio marito, così la mette in riga, linguaccia!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp7.i">
+            <p xml:lang="ita" xml:id="rumenta.sp7p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp7p1s1.i">Sì, sì che lo mandi giù da noi quel pagliaccio!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp7p1s2.i">Così mio marito gli legge la vita prima di rovesciarlo come un calzino!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp8.i">
+            <p xml:lang="ita" xml:id="rumenta.sp8p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp8p1s1.i">Farò presente all’amministratore tutte le sue minacce!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp9.i">
+            <p xml:lang="ita" xml:id="rumenta.sp9p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp9p1s1.i">Non vedo l’ora!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp9p1s2.i">Finalmente lo vedremo di nuovo!</s>
+              <s xml:lang="ita" xml:id="rumenta.sp9p1s3.i">Così io, Teresa e tutti gli altri del palazzo potremo parlargli di voi «Nobili di Castelmerda» finalmente!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp10.i">
+            <p xml:lang="ita" xml:id="rumenta.sp10p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp10p1s1.i">Ne parlerò con il mio avvocato.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="rumenta.sp11.i">
+            <p xml:lang="ita" xml:id="rumenta.sp11p1.i">
+              <s xml:lang="ita" xml:id="rumenta.sp11p1s1.i">Faccia pure, siamo in quindici contro uno, vedremo…</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#rumenta.hs1.l #rumenta.hs1.i" />
+      <link target="#rumenta.sp1p1s1.l #rumenta.sp1p1s1.i" />
+      <link target="#rumenta.sp1p1s2.l #rumenta.sp1p1s2.i" />
+      <link target="#rumenta.sp1p1s3.l #rumenta.sp1p1s3.i" />
+      <link target="#rumenta.sp1p1s4.l #rumenta.sp1p1s4.i" />
+      <link target="#rumenta.sp1p1s5.l #rumenta.sp1p1s5.i" />
+      <link target="#rumenta.sp2p1s1.l #rumenta.sp2p1s1.i" />
+      <link target="#rumenta.sp2p1s2.l #rumenta.sp2p1s2.i" />
+      <link target="#rumenta.sp2p1s3.l #rumenta.sp2p1s3.i" />
+      <link target="#rumenta.sp3p1s1.l #rumenta.sp3p1s1.i" />
+      <link target="#rumenta.sp3p1s2.l #rumenta.sp3p1s2.i" />
+      <link target="#rumenta.sp3p1s3.l #rumenta.sp3p1s3.i" />
+      <link target="#rumenta.sp4p1s1.l #rumenta.sp4p1s1.i" />
+      <link target="#rumenta.sp4p1s2.l #rumenta.sp4p1s2.i" />
+      <link target="#rumenta.sp5p1s1.l #rumenta.sp5p1s1.i" />
+      <link target="#rumenta.sp5p1s2.l #rumenta.sp5p1s2.i" />
+      <link target="#rumenta.sp6p1s1.l #rumenta.sp6p1s1.i" />
+      <link target="#rumenta.sp7p1s1.l #rumenta.sp7p1s1.i" />
+      <link target="#rumenta.sp7p1s2.l #rumenta.sp7p1s2.i" />
+      <link target="#rumenta.sp8p1s1.l #rumenta.sp8p1s1.i" />
+      <link target="#rumenta.sp9p1s1.l #rumenta.sp9p1s1.i" />
+      <link target="#rumenta.sp9p1s2.l #rumenta.sp9p1s2.i" />
+      <link target="#rumenta.sp9p1s3.l #rumenta.sp9p1s3.i" />
+      <link target="#rumenta.sp10p1s1.l #rumenta.sp10p1s1.i" />
+      <link target="#rumenta.sp11p1s1.l #rumenta.sp11p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#rumenta.l #rumenta.i" />
     </linkGrp>
   </standOff>
   <TEI xml:id="sciorbette">
@@ -2355,7 +3527,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="sciorbette.l">
-          <head xml:lang="lij" xml:id="sciorbette.h.l">Da-o sciorbettê</head>
+          <head xml:lang="lij" xml:id="sciorbette.h.l">
+            <s xml:lang="lij" xml:id="sciorbette.hs1.l">Da-o sciorbettê</s>
+          </head>
           <sp xml:lang="lij" xml:id="sciorbette.sp1.l">
             <p xml:lang="lij" xml:id="sciorbette.sp1p1.l">
               <s xml:lang="lij" xml:id="sciorbette.sp1p1s1.l">Bongiorno.</s>
@@ -2374,7 +3548,9 @@
           </sp>
           <stage xml:lang="lij" xml:id="sciorbette.st4.l">
             <p xml:lang="lij" xml:id="sciorbette.st4p1.l">
-              <s xml:lang="lij" xml:id="sciorbette.st4p1s1.l">Passa vinti segondi</s>
+              <s xml:lang="lij" xml:id="sciorbette.st4p1s1.l">
+                <stage>[Passa vinti segondi]</stage>
+              </s>
             </p>
           </stage>
           <sp xml:lang="lij" xml:id="sciorbette.sp5.l">
@@ -2412,7 +3588,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="sciorbette.i">
-          <head xml:lang="ita" xml:id="sciorbette.h.i">In gelateria</head>
+          <head xml:lang="ita" xml:id="sciorbette.h.i">
+            <s xml:lang="ita" xml:id="sciorbette.hs1.i">In gelateria</s>
+          </head>
           <sp xml:lang="ita" xml:id="sciorbette.sp1.i">
             <p xml:lang="ita" xml:id="sciorbette.sp1p1.i">
               <s xml:lang="ita" xml:id="sciorbette.sp1p1s1.i">Buongiorno.</s>
@@ -2431,7 +3609,9 @@
           </sp>
           <stage xml:lang="ita" xml:id="sciorbette.st4.i">
             <p xml:lang="ita" xml:id="sciorbette.st4p1.i">
-              <s xml:lang="ita" xml:id="sciorbette.st4p1s1.i">Passano venti secondi</s>
+              <s xml:lang="ita" xml:id="sciorbette.st4p1s1.i">
+                <stage>[Passano venti secondi]</stage>
+              </s>
             </p>
           </stage>
           <sp xml:lang="ita" xml:id="sciorbette.sp5.i">
@@ -2473,6 +3653,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#sciorbette.hs1.l #sciorbette.hs1.i" />
       <link target="#sciorbette.sp1p1s1.l #sciorbette.sp1p1s1.i" />
       <link target="#sciorbette.sp1p1s2.l #sciorbette.sp1p1s2.i" />
       <link target="#sciorbette.sp2p1s1.l #sciorbette.sp2p1s1.i" />
@@ -2486,7 +3667,6 @@
       <link target="#sciorbette.sp9p1s1.l #sciorbette.sp9p1s1.i" />
       <link target="#sciorbette.sp9p1s2.l #sciorbette.sp9p1s2.i" />
       <link target="#sciorbette.sp10p1s1.l #sciorbette.sp10p1s1.i" />
-      <link target="#sciorbette.sp10p1s2.l #sciorbette.sp10p1s2.i" />
     </linkGrp>
   </standOff>
   <standOff>
@@ -2514,7 +3694,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="supermercou1.l">
-          <head xml:lang="lij" xml:id="supermercou1.h.l">Into supermercou</head>
+          <head xml:lang="lij" xml:id="supermercou1.h.l">
+            <s xml:lang="lij" xml:id="supermercou1.hs1.l">Into supermercou</s>
+          </head>
           <sp xml:lang="lij" xml:id="supermercou1.sp1.l">
             <p xml:lang="lij" xml:id="supermercou1.sp1p1.l">
               <s xml:lang="lij" xml:id="supermercou1.sp1p1s1.l">Boñaseia, çerco da fæña da fâ dôsci.</s>
@@ -2549,7 +3731,9 @@
           </sp>
           <stage xml:lang="lij" xml:id="supermercou1.st7.l">
             <p xml:lang="lij" xml:id="supermercou1.st7p1.l">
-              <s xml:lang="lij" xml:id="supermercou1.st7p1s1.l">Van da-a sganzia co-e tante qualitæ de fæña</s>
+              <s xml:lang="lij" xml:id="supermercou1.st7p1s1.l">
+                <stage>[Van da-a sganzia co-e tante qualitæ de fæña]</stage>
+              </s>
             </p>
           </stage>
           <sp xml:lang="lij" xml:id="supermercou1.sp8.l">
@@ -2564,7 +3748,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="supermercou1.i">
-          <head xml:lang="ita" xml:id="supermercou1.h.i">Al supermercato</head>
+          <head xml:lang="ita" xml:id="supermercou1.h.i">
+            <s xml:lang="ita" xml:id="supermercou1.hs1.i">Al supermercato</s>
+          </head>
           <sp xml:lang="ita" xml:id="supermercou1.sp1.i">
             <p xml:lang="ita" xml:id="supermercou1.sp1p1.i">
               <s xml:lang="ita" xml:id="supermercou1.sp1p1s1.i">Buonasera, cerco farina per dolci.</s>
@@ -2599,7 +3785,9 @@
           </sp>
           <stage xml:lang="ita" xml:id="supermercou1.st7.i">
             <p xml:lang="ita" xml:id="supermercou1.st7p1.i">
-              <s xml:lang="ita" xml:id="supermercou1.st7p1s1.i">Vanno allo scaffale con i diversi tipi di farina</s>
+              <s xml:lang="ita" xml:id="supermercou1.st7p1s1.i">
+                <stage>[Vanno allo scaffale con i diversi tipi di farina]</stage>
+              </s>
             </p>
           </stage>
           <sp xml:lang="ita" xml:id="supermercou1.sp8.i">
@@ -2618,6 +3806,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#supermercou1.hs1.l #supermercou1.hs1.i" />
       <link target="#supermercou1.sp1p1s1.l #supermercou1.sp1p1s1.i" />
       <link target="#supermercou1.sp1p1s2.l #supermercou1.sp1p1s2.i" />
       <link target="#supermercou1.sp2p1s1.l #supermercou1.sp2p1s1.i" />
@@ -2628,7 +3817,6 @@
       <link target="#supermercou1.sp6p1s1.l #supermercou1.sp6p1s1.i" />
       <link target="#supermercou1.st7p1s1.l #supermercou1.st7p1s1.i" />
       <link target="#supermercou1.sp8p1s1.l #supermercou1.sp8p1s1.i" />
-      <link target="#supermercou1.sp9p1s1.l #supermercou1.sp9p1s1.i" />
     </linkGrp>
   </standOff>
   <standOff>
@@ -2656,7 +3844,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="supermercou2.l">
-          <head xml:lang="lij" xml:id="supermercou2.h.l">Da-e casce do supermercou</head>
+          <head xml:lang="lij" xml:id="supermercou2.h.l">
+            <s xml:lang="lij" xml:id="supermercou2.hs1.l">Da-e casce do supermercou</s>
+          </head>
           <sp xml:lang="lij" xml:id="supermercou2.sp1.l">
             <p xml:lang="lij" xml:id="supermercou2.sp1p1.l">
               <s xml:lang="lij" xml:id="supermercou2.sp1p1s1.l">Scià me scuse, ma chì gh’ea mi.</s>
@@ -2664,7 +3854,9 @@
           </sp>
           <stage xml:lang="lij" xml:id="supermercou2.st2.l">
             <p xml:lang="lij" xml:id="supermercou2.st2p1.l">
-              <s xml:lang="lij" xml:id="supermercou2.st2p1s1.l">L’interlocutô o fa mostra de no capî</s>
+              <s xml:lang="lij" xml:id="supermercou2.st2p1s1.l">
+                <stage>[L’interlocutô o fa mostra de no capî]</stage>
+              </s>
             </p>
           </stage>
           <sp xml:lang="lij" xml:id="supermercou2.sp3.l">
@@ -2713,7 +3905,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="supermercou2.i">
-          <head xml:lang="ita" xml:id="supermercou2.h.i">Alle casse del supermercato</head>
+          <head xml:lang="ita" xml:id="supermercou2.h.i">
+            <s xml:lang="ita" xml:id="supermercou2.hs1.i">Alle casse del supermercato</s>
+          </head>
           <sp xml:lang="ita" xml:id="supermercou2.sp1.i">
             <p xml:lang="ita" xml:id="supermercou2.sp1p1.i">
               <s xml:lang="ita" xml:id="supermercou2.sp1p1s1.i">Mi scusi, ma qui c’ero io.</s>
@@ -2721,7 +3915,9 @@
           </sp>
           <stage xml:lang="ita" xml:id="supermercou2.st2.i">
             <p xml:lang="ita" xml:id="supermercou2.st2p1.i">
-              <s xml:lang="ita" xml:id="supermercou2.st2p1s1.i">L’interlocuore fa finta di non capire</s>
+              <s xml:lang="ita" xml:id="supermercou2.st2p1s1.i">
+                <stage>[L’interlocuore fa finta di non capire]</stage>
+              </s>
             </p>
           </stage>
           <sp xml:lang="ita" xml:id="supermercou2.sp3.i">
@@ -2774,6 +3970,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#supermercou2.hs1.l #supermercou2.hs1.i" />
       <link target="#supermercou2.sp1p1s1.l #supermercou2.sp1p1s1.i" />
       <link target="#supermercou2.st2p1s1.l #supermercou2.st2p1s1.i" />
       <link target="#supermercou2.sp3p1s1.l #supermercou2.sp3p1s1.i" />
@@ -2787,7 +3984,6 @@
       <link target="#supermercou2.sp8p1s3.l #supermercou2.sp8p1s3.i" />
       <link target="#supermercou2.sp9p1s1.l #supermercou2.sp9p1s1.i" />
       <link target="#supermercou2.sp10p1s1.l #supermercou2.sp10p1s1.i" />
-      <link target="#supermercou2.sp10p1s2.l #supermercou2.sp10p1s2.i" />
     </linkGrp>
   </standOff>
   <standOff>
@@ -2800,7 +3996,7 @@
       <fileDesc>
         <titleStmt>
           <title xml:lang="lij">I travaggi de casa</title>
-          <author>– Mi e a mæ galante se semmo torna rattellæ in sciâ gestion di travaggi de casa. A dixe che ghe tocca fâ delongo tutto à lê, ma l’é squæxi doe settemañe ch’a no mescia un dio…</author>
+          <author>Stefano Lusito</author>
         </titleStmt>
         <publicationStmt>
           <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
@@ -2815,88 +4011,104 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="travaggi.l">
-          <head xml:lang="lij" xml:id="travaggi.h.l">I travaggi de casa</head>
+          <head xml:lang="lij" xml:id="travaggi.h.l">
+            <s xml:lang="lij" xml:id="travaggi.hs1.l">I travaggi de casa</s>
+          </head>
           <sp xml:lang="lij" xml:id="travaggi.sp1.l">
             <p xml:lang="lij" xml:id="travaggi.sp1p1.l">
-              <s xml:lang="lij" xml:id="travaggi.sp1p1s1.l">Mi co-a mæ pe-o ciù fasso à turni.</s>
-              <s xml:lang="lij" xml:id="travaggi.sp1p1s2.l">Quande gh’é da nettezzâ a casa, se demmo o cangio l’un con l’atra unna vòtta a-a settemaña, pe-o ciù a-o sabbo ò a-a domenega.</s>
-              <s xml:lang="lij" xml:id="travaggi.sp1p1s3.l">A mæxima cösa pe lavâ i tondi dòppo çeña.</s>
+              <s xml:lang="lij" xml:id="travaggi.sp1p1s1.l">Mi e a mæ galante se semmo torna rattellæ in sciâ gestion di travaggi de casa.</s>
+              <s xml:lang="lij" xml:id="travaggi.sp1p1s2.l">A dixe che ghe tocca fâ delongo tutto à lê, ma l’é squæxi doe settemañe ch’a no mescia un dio…</s>
             </p>
           </sp>
           <sp xml:lang="lij" xml:id="travaggi.sp2.l">
             <p xml:lang="lij" xml:id="travaggi.sp2p1.l">
-              <s xml:lang="lij" xml:id="travaggi.sp2p1s1.l">E pe-o disnâ?</s>
+              <s xml:lang="lij" xml:id="travaggi.sp2p1s1.l">Mi co-a mæ pe-o ciù fasso à turni.</s>
+              <s xml:lang="lij" xml:id="travaggi.sp2p1s2.l">Quande gh’é da nettezzâ a casa, se demmo o cangio l’un con l’atra unna vòtta a-a settemaña, pe-o ciù a-o sabbo ò a-a domenega.</s>
+              <s xml:lang="lij" xml:id="travaggi.sp2p1s3.l">A mæxima cösa pe lavâ i tondi dòppo çeña.</s>
             </p>
           </sp>
           <sp xml:lang="lij" xml:id="travaggi.sp3.l">
             <p xml:lang="lij" xml:id="travaggi.sp3p1.l">
-              <s xml:lang="lij" xml:id="travaggi.sp3p1s1.l">À mëzogiorno lê a no gh’é mai, donca se mangio in casa son delongo chì che lavo i tondi e che daggo recatto a-a coxiña.</s>
-              <s xml:lang="lij" xml:id="travaggi.sp3p1s2.l">L’unica cösa che ghe lascio fâ à lê a l’é de stiâ, perché mi no son bon.</s>
+              <s xml:lang="lij" xml:id="travaggi.sp3p1s1.l">E pe-o disnâ?</s>
             </p>
           </sp>
           <sp xml:lang="lij" xml:id="travaggi.sp4.l">
             <p xml:lang="lij" xml:id="travaggi.sp4p1.l">
-              <s xml:lang="lij" xml:id="travaggi.sp4p1s1.l">E no ti peu çercâ d’imprende?</s>
+              <s xml:lang="lij" xml:id="travaggi.sp4p1s1.l">À mëzogiorno lê a no gh’é mai, donca se mangio in casa son delongo chì che lavo i tondi e che daggo recatto a-a coxiña.</s>
+              <s xml:lang="lij" xml:id="travaggi.sp4p1s2.l">L’unica cösa che ghe lascio fâ à lê a l’é de stiâ, perché mi no son bon.</s>
             </p>
           </sp>
           <sp xml:lang="lij" xml:id="travaggi.sp5.l">
             <p xml:lang="lij" xml:id="travaggi.sp5p1.l">
-              <s xml:lang="lij" xml:id="travaggi.sp5p1s1.l">Gh’ò za provou un muggio de vòtte, ma i vestî m’arrestan delongo accettæ.</s>
-              <s xml:lang="lij" xml:id="travaggi.sp5p1s2.l">M’é mille vòtte ciù cao dâ o striggion pe tæra…</s>
+              <s xml:lang="lij" xml:id="travaggi.sp5p1s1.l">E no ti peu çercâ d’imprende?</s>
             </p>
           </sp>
           <sp xml:lang="lij" xml:id="travaggi.sp6.l">
             <p xml:lang="lij" xml:id="travaggi.sp6p1.l">
-              <s xml:lang="lij" xml:id="travaggi.sp6p1s1.l">E a bugâ?</s>
+              <s xml:lang="lij" xml:id="travaggi.sp6p1s1.l">Gh’ò za provou un muggio de vòtte, ma i vestî m’arrestan delongo accettæ.</s>
+              <s xml:lang="lij" xml:id="travaggi.sp6p1s2.l">M’é mille vòtte ciù cao dâ o striggion pe tæra…</s>
             </p>
           </sp>
           <sp xml:lang="lij" xml:id="travaggi.sp7.l">
             <p xml:lang="lij" xml:id="travaggi.sp7p1.l">
-              <s xml:lang="lij" xml:id="travaggi.sp7p1s1.l">Quella a â fa a lavadoa, no ghe veu chi sa che sfòrso!</s>
-              <s xml:lang="lij" xml:id="travaggi.sp7p1s2.l">Sciben che çerchemmo de fâla quande gh’é o sô, pe no aveighe l’imbrumme da destendea into mezo da casa.</s>
+              <s xml:lang="lij" xml:id="travaggi.sp7p1s1.l">E a bugâ?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="travaggi.sp8.l">
+            <p xml:lang="lij" xml:id="travaggi.sp8p1.l">
+              <s xml:lang="lij" xml:id="travaggi.sp8p1s1.l">Quella a â fa a lavadoa, no ghe veu chi sa che sfòrso!</s>
+              <s xml:lang="lij" xml:id="travaggi.sp8p1s2.l">Sciben che çerchemmo de fâla quande gh’é o sô, pe no aveighe l’imbrumme da destendea into mezo da casa.</s>
             </p>
           </sp>
         </div>
         <div xml:lang="ita" xml:id="travaggi.i">
-          <head xml:lang="ita" xml:id="travaggi.h.i">Le faccende domestiche</head>
+          <head xml:lang="ita" xml:id="travaggi.h.i">
+            <s xml:lang="ita" xml:id="travaggi.hs1.i">Le faccende domestiche</s>
+          </head>
           <sp xml:lang="ita" xml:id="travaggi.sp1.i">
             <p xml:lang="ita" xml:id="travaggi.sp1p1.i">
-              <s xml:lang="ita" xml:id="travaggi.sp1p1s1.i">Io con la mia perlopiù faccio a turni.</s>
-              <s xml:lang="ita" xml:id="travaggi.sp1p1s2.i">Quando bisogna pulire casa, ci diamo il cambio a vicenda una volta a settimana, normalmente il sabato e la domenica.</s>
-              <s xml:lang="ita" xml:id="travaggi.sp1p1s3.i">Lo stesso per quanto riguarda il lavare i piatti dopo cena.</s>
+              <s xml:lang="ita" xml:id="travaggi.sp1p1s1.i">Io e la mia ragazza abbiamo di nuovo litigato sulla gestione delle faccende domestiche.</s>
+              <s xml:lang="ita" xml:id="travaggi.sp1p1s2.i">Dice che tocca fare sempre tutto a lei, ma sono quasi due settimane che non muove un dito…</s>
             </p>
           </sp>
           <sp xml:lang="ita" xml:id="travaggi.sp2.i">
             <p xml:lang="ita" xml:id="travaggi.sp2p1.i">
-              <s xml:lang="ita" xml:id="travaggi.sp2p1s1.i">E a pranzo?</s>
+              <s xml:lang="ita" xml:id="travaggi.sp2p1s1.i">Io con la mia perlopiù faccio a turni.</s>
+              <s xml:lang="ita" xml:id="travaggi.sp2p1s2.i">Quando bisogna pulire casa, ci diamo il cambio a vicenda una volta a settimana, normalmente il sabato e la domenica.</s>
+              <s xml:lang="ita" xml:id="travaggi.sp2p1s3.i">Lo stesso per quanto riguarda il lavare i piatti dopo cena.</s>
             </p>
           </sp>
           <sp xml:lang="ita" xml:id="travaggi.sp3.i">
             <p xml:lang="ita" xml:id="travaggi.sp3p1.i">
-              <s xml:lang="ita" xml:id="travaggi.sp3p1s1.i">A mezzogiorno lei non c’è mai, quindi se mangio a casa sono sempre io a lavare i piatti e a sistemare la cucina.</s>
-              <s xml:lang="ita" xml:id="travaggi.sp3p1s2.i">L’unica cosa che lascio fare a lei è stirare, perché io non sono capace.</s>
+              <s xml:lang="ita" xml:id="travaggi.sp3p1s1.i">E a pranzo?</s>
             </p>
           </sp>
           <sp xml:lang="ita" xml:id="travaggi.sp4.i">
             <p xml:lang="ita" xml:id="travaggi.sp4p1.i">
-              <s xml:lang="ita" xml:id="travaggi.sp4p1s1.i">E non puoi cercare di imparare?</s>
+              <s xml:lang="ita" xml:id="travaggi.sp4p1s1.i">A mezzogiorno lei non c’è mai, quindi se mangio a casa sono sempre io a lavare i piatti e a sistemare la cucina.</s>
+              <s xml:lang="ita" xml:id="travaggi.sp4p1s2.i">L’unica cosa che lascio fare a lei è stirare, perché io non sono capace.</s>
             </p>
           </sp>
           <sp xml:lang="ita" xml:id="travaggi.sp5.i">
             <p xml:lang="ita" xml:id="travaggi.sp5p1.i">
-              <s xml:lang="ita" xml:id="travaggi.sp5p1s1.i">Ci ho già provato un sacco di volte, ma i vestiti rimangono sempre spiegazzati.</s>
-              <s xml:lang="ita" xml:id="travaggi.sp5p1s2.i">Preferisco mille volte passare lo strofinaccio sul pavimento…</s>
+              <s xml:lang="ita" xml:id="travaggi.sp5p1s1.i">E non puoi cercare di imparare?</s>
             </p>
           </sp>
           <sp xml:lang="ita" xml:id="travaggi.sp6.i">
             <p xml:lang="ita" xml:id="travaggi.sp6p1.i">
-              <s xml:lang="ita" xml:id="travaggi.sp6p1s1.i">E il bucato?</s>
+              <s xml:lang="ita" xml:id="travaggi.sp6p1s1.i">Ci ho già provato un sacco di volte, ma i vestiti rimangono sempre spiegazzati.</s>
+              <s xml:lang="ita" xml:id="travaggi.sp6p1s2.i">Preferisco mille volte passare lo strofinaccio sul pavimento…</s>
             </p>
           </sp>
           <sp xml:lang="ita" xml:id="travaggi.sp7.i">
             <p xml:lang="ita" xml:id="travaggi.sp7p1.i">
-              <s xml:lang="ita" xml:id="travaggi.sp7p1s1.i">Quello lo fa la lavatrice, non ci vuole chissà che sforzo!</s>
-              <s xml:lang="ita" xml:id="travaggi.sp7p1s2.i">Anche se cerchiamo di farlo quando c’è il sole, per non avere lo stendibiancheria fra i piedi in mezzo alla casa.</s>
+              <s xml:lang="ita" xml:id="travaggi.sp7p1s1.i">E il bucato?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="travaggi.sp8.i">
+            <p xml:lang="ita" xml:id="travaggi.sp8p1.i">
+              <s xml:lang="ita" xml:id="travaggi.sp8p1s1.i">Quello lo fa la lavatrice, non ci vuole chissà che sforzo!</s>
+              <s xml:lang="ita" xml:id="travaggi.sp8p1s2.i">Anche se cerchiamo di farlo quando c’è il sole, per non avere lo stendino fra i piedi in mezzo alla casa.</s>
             </p>
           </sp>
         </div>
@@ -2905,18 +4117,21 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#travaggi.hs1.l #travaggi.hs1.i" />
       <link target="#travaggi.sp1p1s1.l #travaggi.sp1p1s1.i" />
       <link target="#travaggi.sp1p1s2.l #travaggi.sp1p1s2.i" />
-      <link target="#travaggi.sp1p1s3.l #travaggi.sp1p1s3.i" />
       <link target="#travaggi.sp2p1s1.l #travaggi.sp2p1s1.i" />
+      <link target="#travaggi.sp2p1s2.l #travaggi.sp2p1s2.i" />
+      <link target="#travaggi.sp2p1s3.l #travaggi.sp2p1s3.i" />
       <link target="#travaggi.sp3p1s1.l #travaggi.sp3p1s1.i" />
-      <link target="#travaggi.sp3p1s2.l #travaggi.sp3p1s2.i" />
       <link target="#travaggi.sp4p1s1.l #travaggi.sp4p1s1.i" />
+      <link target="#travaggi.sp4p1s2.l #travaggi.sp4p1s2.i" />
       <link target="#travaggi.sp5p1s1.l #travaggi.sp5p1s1.i" />
-      <link target="#travaggi.sp5p1s2.l #travaggi.sp5p1s2.i" />
       <link target="#travaggi.sp6p1s1.l #travaggi.sp6p1s1.i" />
+      <link target="#travaggi.sp6p1s2.l #travaggi.sp6p1s2.i" />
       <link target="#travaggi.sp7p1s1.l #travaggi.sp7p1s1.i" />
-      <link target="#travaggi.sp7p1s2.l #travaggi.sp7p1s2.i" />
+      <link target="#travaggi.sp8p1s1.l #travaggi.sp8p1s1.i" />
+      <link target="#travaggi.sp8p1s2.l #travaggi.sp8p1s2.i" />
     </linkGrp>
   </standOff>
   <standOff>
@@ -2944,7 +4159,9 @@
     <text>
       <body>
         <div xml:lang="lij" xml:id="vua-casa.l">
-          <head xml:lang="lij" xml:id="vua-casa.h.l">Vuâ casa</head>
+          <head xml:lang="lij" xml:id="vua-casa.h.l">
+            <s xml:lang="lij" xml:id="vua-casa.hs1.l">Vuâ casa</s>
+          </head>
           <sp xml:lang="lij" xml:id="vua-casa.sp1.l">
             <p xml:lang="lij" xml:id="vua-casa.sp1p1.l">
               <s xml:lang="lij" xml:id="vua-casa.sp1p1s1.l">Òhu Peo, cose ti ghe fæ da ste bande in questa saxon?</s>
@@ -2980,7 +4197,7 @@
           <sp xml:lang="lij" xml:id="vua-casa.sp7.l">
             <p xml:lang="lij" xml:id="vua-casa.sp7p1.l">
               <s xml:lang="lij" xml:id="vua-casa.sp7p1s1.l">
-                <stage>riendo</stage> Ê mangian i neuvi propietäi</s>
+                <stage>[riendo]</stage> Ê mangian i neuvi propietäi</s>
             </p>
           </sp>
           <sp xml:lang="lij" xml:id="vua-casa.sp8.l">
@@ -3065,7 +4282,9 @@
           </sp>
         </div>
         <div xml:lang="ita" xml:id="vua-casa.i">
-          <head xml:lang="ita" xml:id="vua-casa.h.i">Vuotare casa</head>
+          <head xml:lang="ita" xml:id="vua-casa.h.i">
+            <s xml:lang="ita" xml:id="vua-casa.hs1.i">Vuotare casa</s>
+          </head>
           <sp xml:lang="ita" xml:id="vua-casa.sp1.i">
             <p xml:lang="ita" xml:id="vua-casa.sp1p1.i">
               <s xml:lang="ita" xml:id="vua-casa.sp1p1s1.i">Oh Piero, cosa ci fai da queste parti in questa stagione?</s>
@@ -3101,7 +4320,7 @@
           <sp xml:lang="ita" xml:id="vua-casa.sp7.i">
             <p xml:lang="ita" xml:id="vua-casa.sp7p1.i">
               <s xml:lang="ita" xml:id="vua-casa.sp7p1s1.i">
-                <stage>ridendo</stage> Le mangeranno i nuovi proprietari</s>
+                <stage>[ridendo]</stage> Le mangeranno i nuovi proprietari</s>
             </p>
           </sp>
           <sp xml:lang="ita" xml:id="vua-casa.sp8.i">
@@ -3190,6 +4409,7 @@
   </TEI>
   <standOff>
     <linkGrp type="translation">
+      <link target="#vua-casa.hs1.l #vua-casa.hs1.i" />
       <link target="#vua-casa.sp1p1s1.l #vua-casa.sp1p1s1.i" />
       <link target="#vua-casa.sp2p1s1.l #vua-casa.sp2p1s1.i" />
       <link target="#vua-casa.sp3p1s1.l #vua-casa.sp3p1s1.i" />

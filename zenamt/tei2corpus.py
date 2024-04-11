@@ -21,9 +21,6 @@ def get_alignment_text(ancestor, element_id, debug=False):
                 text += child.tail
         text = re.sub(r"\s+", " ", text)
         text = text.strip()
-        stagedir = f"{{{NS['tei']}}}stage"
-        if element.tag == stagedir:
-            text = f"[{text}]"
         return text
 
     element = find_element(ancestor, element_id)
