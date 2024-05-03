@@ -2607,6 +2607,247 @@
       <link target="#maenna.l #maenna.i" />
     </linkGrp>
   </standOff>
+  <TEI xml:id="menestron">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Menestron</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="menestron.l">
+          <head xml:lang="lij" xml:id="menestron.h.l">
+            <s xml:lang="lij" xml:id="menestron.hs1.l">Menestron</s>
+          </head>
+          <sp xml:lang="lij" xml:id="menestron.sp1.l">
+            <p xml:lang="lij" xml:id="menestron.sp1p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp1p1s1.l">Luisitta, pronti, son a Moura, a nessa da Giuletta.</s>
+              <s xml:lang="lij" xml:id="menestron.sp1p1s2.l">Ti gh’æ miga un pö de tempo da dedicâme?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp2.l">
+            <p xml:lang="lij" xml:id="menestron.sp2p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp2p1s1.l">Òh Moura, comme ti stæ?</s>
+              <s xml:lang="lij" xml:id="menestron.sp2p1s2.l">Ma scì che gh’ò tempo, dimme…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp3.l">
+            <p xml:lang="lij" xml:id="menestron.sp3p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp3p1s1.l">Scusa, son pròpio mäducâ, no t’ò manco domandou comme ti stæ, mi stò ben e ti?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp4.l">
+            <p xml:lang="lij" xml:id="menestron.sp4p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp4p1s1.l">Ben da vegi, ma ben.</s>
+              <s xml:lang="lij" xml:id="menestron.sp4p1s2.l">Sciù, pöchi descorsci, dimme!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp5.l">
+            <p xml:lang="lij" xml:id="menestron.sp5p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp5p1s1.l">No arriëscio mai à fâ un menestron comme se deve, voeiva savei ti, comme ti ô fæ.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp6.l">
+            <p xml:lang="lij" xml:id="menestron.sp6p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp6p1s1.l">Ma comme tutti!</s>
+              <s xml:lang="lij" xml:id="menestron.sp6p1s2.l">Piggio unna brancâ de faxeu, unna brancâ de faxolin, doe patatte, doe caròttoe, meza brancâ de poïsci, pöcassæ, ma no tròppi sedonca dan o sarvægo, bazzañe, se son zoene unna bella brancâ sedonca meza, dötræ feugge de cöo neigro, dötræ de giæ, dötræ de scaròlla ò de borraxe, unna çioula, un spigo d’aggio, unna gamba de çellao, doî succhin s’a l’é saxon, ò donca un pö de succa taggiâ à tocchetti.</s>
+              <s xml:lang="lij" xml:id="menestron.sp6p1s3.l">Quarchedun ghe mette e tomate, ma à mi no me ghe piaxan.</s>
+              <s xml:lang="lij" xml:id="menestron.sp6p1s4.l">Dapeu un pittin de fonzi secchi ammòllæ inte l’ægua, euio bon, a sâ, o pesto e bricchetti ò scoccozon.</s>
+              <s xml:lang="lij" xml:id="menestron.sp6p1s5.l">Fasso tutte e verdue taggiæ à tocchettin, e metto tutto in ben ben de l’ægua.</s>
+              <s xml:lang="lij" xml:id="menestron.sp6p1s6.l">Fasso boggî e quande l’é tutto desfæto gh’azzonzo a pasta à cheuxe, con attençion ch’a no s’attacche a-a pugnatta sedonca dapeu sa tutto de scotizzo.</s>
+              <s xml:lang="lij" xml:id="menestron.sp6p1s7.l">Quande a pasta a l’é cheutta lê ascì, gh’azzonzo o pesto.</s>
+              <s xml:lang="lij" xml:id="menestron.sp6p1s8.l">Tutto lì.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp7.l">
+            <p xml:lang="lij" xml:id="menestron.sp7p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp7p1s1.l">Ma o l’é comme ô fasso mi, no capiscio donde sbalio…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp8.l">
+            <p xml:lang="lij" xml:id="menestron.sp8p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp8p1s1.l">Mia, tutti sbalian in unna cösa solo, into boggî.</s>
+              <s xml:lang="lij" xml:id="menestron.sp8p1s2.l">Beseugna fâlo boggî bello ardio inte un primmo tempo, dapeu beseugna ammermâ a sciamma e fâlo boggî cian cianinetto.</s>
+              <s xml:lang="lij" xml:id="menestron.sp8p1s3.l">Sensa sprescia, con paçiensa, ciù bogge megio o l’é…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp9.l">
+            <p xml:lang="lij" xml:id="menestron.sp9p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp9p1s1.l">Graçie Luisitta, oua me gh’appreuvo…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp10.l">
+            <p xml:lang="lij" xml:id="menestron.sp10p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp10p1s1.l">Ah, me scordava de dite che uña de doe patatte â lascio intrega e quand’a l’é cheutta â sciacco con unna forçiña, coscì o menestron o vëgne ciù druo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp11.l">
+            <p xml:lang="lij" xml:id="menestron.sp11p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp11p1s1.l">Graçie, graçie, t’ê pròpio preçiosa!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp12.l">
+            <p xml:lang="lij" xml:id="menestron.sp12p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp12p1s1.l">Ma figurite, pe coscì poco!</s>
+              <s xml:lang="lij" xml:id="menestron.sp12p1s2.l">Ciutòsto vëgnime un pö à trovâ con i figgeu, coscì te fasso o læte doçe comme quande t’ëi picciña!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp13.l">
+            <p xml:lang="lij" xml:id="menestron.sp13p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp13p1s1.l">Oh cöse ti me fæ vegnî in cheu!</s>
+              <s xml:lang="lij" xml:id="menestron.sp13p1s2.l">Scì, vëgno à trovâte fito.</s>
+              <s xml:lang="lij" xml:id="menestron.sp13p1s3.l">Tante belle cöse, Luisitta!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="menestron.sp14.l">
+            <p xml:lang="lij" xml:id="menestron.sp14p1.l">
+              <s xml:lang="lij" xml:id="menestron.sp14p1s1.l">Tante belle cöse à ti ascì!</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="menestron.i">
+          <head xml:lang="ita" xml:id="menestron.h.i">
+            <s xml:lang="ita" xml:id="menestron.hs1.i">Minestrone</s>
+          </head>
+          <sp xml:lang="ita" xml:id="menestron.sp1.i">
+            <p xml:lang="ita" xml:id="menestron.sp1p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp1p1s1.i">Luisella, pronto, sono Maura, la nipote di Giulietta.</s>
+              <s xml:lang="ita" xml:id="menestron.sp1p1s2.i">Hai mica un po’ di tempo da dedicarmi?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp2.i">
+            <p xml:lang="ita" xml:id="menestron.sp2p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp2p1s1.i">Oh Maura, come stai?</s>
+              <s xml:lang="ita" xml:id="menestron.sp2p1s2.i">Ma sì che ho tempo, dimmi…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp3.i">
+            <p xml:lang="ita" xml:id="menestron.sp3p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp3p1s1.i">Scusa, sono proprio una maleducata, non ti ho neanche chiesto come stai, io sto bene e tu?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp4.i">
+            <p xml:lang="ita" xml:id="menestron.sp4p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp4p1s1.i">Bene da vecchi, ma bene.</s>
+              <s xml:lang="ita" xml:id="menestron.sp4p1s2.i">Dai su, poche chiacchiere, dimmi!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp5.i">
+            <p xml:lang="ita" xml:id="menestron.sp5p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp5p1s1.i">Non riesco mai a fare un minestrone come si deve, volevo sapere come lo fai tu.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp6.i">
+            <p xml:lang="ita" xml:id="menestron.sp6p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp6p1s1.i">Ma come lo fanno tutti!</s>
+              <s xml:lang="ita" xml:id="menestron.sp6p1s2.i">Prendo una manciata di fagioli, una manciata di fagiolini, due patate, due carote, mezza manciata di piselli, circa, ma non troppi altrimenti danno gusto di selvatico, fave, se sono giovani un bel pugno altrimenti mezzo, qualche foglia di cavolo nero, qualcuna di bietola, qualcuna di scarola o di boragine, una cipolla, uno spicchio d’aglio, una gamba di sedano, due zucchine se è stagione, altrimenti un po’ di zucca a pezzetti.</s>
+              <s xml:lang="ita" xml:id="menestron.sp6p1s3.i">Qualcuno ci mette i pomodori, ma a me non mi ci piacciono.</s>
+              <s xml:lang="ita" xml:id="menestron.sp6p1s4.i">Poi un po’ di funghi secchi ammollati nell’acqua, olio buono, il sale, il pesto e pasta bricchetti o scucuzzun.</s>
+              <s xml:lang="ita" xml:id="menestron.sp6p1s5.i">Taglio tutte le verdure a pezzetti e metto tutto in molta acqua.</s>
+              <s xml:lang="ita" xml:id="menestron.sp6p1s6.i">Faccio bollire e quando è tutto disfatto, aggiungo la pasta a cuocere, con attenzione che non s’attacchi alla pentola altrimenti sa tutto di brucciacchiato.</s>
+              <s xml:lang="ita" xml:id="menestron.sp6p1s7.i">Quando anche la pasta è cotta, aggiungo il pesto.</s>
+              <s xml:lang="ita" xml:id="menestron.sp6p1s8.i">Tutto lì.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp7.i">
+            <p xml:lang="ita" xml:id="menestron.sp7p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp7p1s1.i">Ma è come lo faccio io, non capisco dove sbaglio…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp8.i">
+            <p xml:lang="ita" xml:id="menestron.sp8p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp8p1s1.i">Guarda, tutti sbagliano in una cosa soltanto, nel bollire.</s>
+              <s xml:lang="ita" xml:id="menestron.sp8p1s2.i">Bisogna bollirlo con fiamma vivace in un primo momento, poi occorre abbassare la fiamma e farlo bollire pian piano.</s>
+              <s xml:lang="ita" xml:id="menestron.sp8p1s3.i">Senza fretta, con pazienza, più bolle meglio è…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp9.i">
+            <p xml:lang="ita" xml:id="menestron.sp9p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp9p1s1.i">Grazie Luisella, ora ci provo…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp10.i">
+            <p xml:lang="ita" xml:id="menestron.sp10p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp10p1s1.i">Ah, dimenticavo di dirti che una delle due patate la lascio intera e quand’è cotta la schiaccio con la forchetta, così il minestrone viene più denso!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp11.i">
+            <p xml:lang="ita" xml:id="menestron.sp11p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp11p1s1.i">Grazie, grazie, sei proprio preziosa!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp12.i">
+            <p xml:lang="ita" xml:id="menestron.sp12p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp12p1s1.i">Ma figurati, per così poco!</s>
+              <s xml:lang="ita" xml:id="menestron.sp12p1s2.i">Piuttosto vienimi a trovare con i bambini, così ti faccio il latte dolce come quando eri piccola!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp13.i">
+            <p xml:lang="ita" xml:id="menestron.sp13p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp13p1s1.i">Uh cosa mi fai ricordare!</s>
+              <s xml:lang="ita" xml:id="menestron.sp13p1s2.i">Sì vengo a trovarti presto.</s>
+              <s xml:lang="ita" xml:id="menestron.sp13p1s3.i">Tante belle cose, Luisella!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="menestron.sp14.i">
+            <p xml:lang="ita" xml:id="menestron.sp14p1.i">
+              <s xml:lang="ita" xml:id="menestron.sp14p1s1.i">Tante belle cose anche a te!</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#menestron.hs1.l #menestron.hs1.i" />
+      <link target="#menestron.sp1p1s1.l #menestron.sp1p1s1.i" />
+      <link target="#menestron.sp1p1s2.l #menestron.sp1p1s2.i" />
+      <link target="#menestron.sp2p1s1.l #menestron.sp2p1s1.i" />
+      <link target="#menestron.sp2p1s2.l #menestron.sp2p1s2.i" />
+      <link target="#menestron.sp3p1s1.l #menestron.sp3p1s1.i" />
+      <link target="#menestron.sp4p1s1.l #menestron.sp4p1s1.i" />
+      <link target="#menestron.sp4p1s2.l #menestron.sp4p1s2.i" />
+      <link target="#menestron.sp5p1s1.l #menestron.sp5p1s1.i" />
+      <link target="#menestron.sp6p1s1.l #menestron.sp6p1s1.i" />
+      <link target="#menestron.sp6p1s2.l #menestron.sp6p1s2.i" />
+      <link target="#menestron.sp6p1s3.l #menestron.sp6p1s3.i" />
+      <link target="#menestron.sp6p1s4.l #menestron.sp6p1s4.i" />
+      <link target="#menestron.sp6p1s5.l #menestron.sp6p1s5.i" />
+      <link target="#menestron.sp6p1s6.l #menestron.sp6p1s6.i" />
+      <link target="#menestron.sp6p1s7.l #menestron.sp6p1s7.i" />
+      <link target="#menestron.sp6p1s8.l #menestron.sp6p1s8.i" />
+      <link target="#menestron.sp7p1s1.l #menestron.sp7p1s1.i" />
+      <link target="#menestron.sp8p1s1.l #menestron.sp8p1s1.i" />
+      <link target="#menestron.sp8p1s2.l #menestron.sp8p1s2.i" />
+      <link target="#menestron.sp8p1s3.l #menestron.sp8p1s3.i" />
+      <link target="#menestron.sp9p1s1.l #menestron.sp9p1s1.i" />
+      <link target="#menestron.sp10p1s1.l #menestron.sp10p1s1.i" />
+      <link target="#menestron.sp11p1s1.l #menestron.sp11p1s1.i" />
+      <link target="#menestron.sp12p1s1.l #menestron.sp12p1s1.i" />
+      <link target="#menestron.sp12p1s2.l #menestron.sp12p1s2.i" />
+      <link target="#menestron.sp13p1s1.l #menestron.sp13p1s1.i" />
+      <link target="#menestron.sp13p1s2.l #menestron.sp13p1s2.i" />
+      <link target="#menestron.sp13p1s3.l #menestron.sp13p1s3.i" />
+      <link target="#menestron.sp14p1s1.l #menestron.sp14p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#menestron.l #menestron.i" />
+    </linkGrp>
+  </standOff>
   <TEI xml:id="nevetti">
     <teiHeader>
       <fileDesc>
@@ -3002,6 +3243,241 @@
   <standOff>
     <linkGrp type="documentTranslation">
       <link target="#opera.l #opera.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="porpetton">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">A reçetta do porpetton</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="porpetton.l">
+          <head xml:lang="lij" xml:id="porpetton.h.l">
+            <s xml:lang="lij" xml:id="porpetton.hs1.l">A reçetta do porpetton</s>
+          </head>
+          <sp xml:lang="lij" xml:id="porpetton.sp1.l">
+            <p xml:lang="lij" xml:id="porpetton.sp1p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp1p1s1.l">Vëgni nan, che te mostro comme se fa o porpetton a-a zeneise ch’o te piaxe coscì tanto.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp2.l">
+            <p xml:lang="lij" xml:id="porpetton.sp2p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp2p1s1.l">Graçie madonnâ, ti dixi che a mamà a me lascià preuvâ à cuxinâlo?</s>
+              <s xml:lang="lij" xml:id="porpetton.sp2p1s2.l">No me lascia fâ guæi ninte in cuxiña…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp3.l">
+            <p xml:lang="lij" xml:id="porpetton.sp3p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp3p1s1.l">Ti veddiæ che se ghe ô diggo mi, a te lascia.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp3p1s2.l">Oua danni a mente: se piggian e patatte e se fan boggî.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp3p1s3.l">Se ti gh’æ ciù tempo ti ê lasci intreghe co-a pelle, che vëgnan ciù gustose.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp3p1s4.l">Se ti gh’æ cointa ti fæ ciù fito à peiâle da crue e ti ê taggi a tocchetti, i faxolin ti î netezzi levandoghe e çimmette, ti î lavi co-e træ ægue e ti î boggi quelli ascì, ma à parte.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp3p1s5.l">Dapeu quande l’é tutto cheutto ti metti un pö d’euio inte unna poela, pöco eh, sedonca vëgne tutto scotizzo, e ti ghe fæ soffrizze cianin unna çioula taggiâ fiña.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp3p1s6.l">Quande a dà profummo bon, ti ghe metti i faxolin à tòcchi e e patatte sciaccæ ò passæ co-o passaverdue.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp3p1s7.l">Ti ghe dæ doî remescioin e ti asmòrti o feugo.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp3p1s8.l">À parte ti tritòlli de l’aggio co-a persa, ti gratti do parmexan e ti metti tutto inte un grilletto e ti ô mescci co-e patatte e i faxolin.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp4.l">
+            <p xml:lang="lij" xml:id="porpetton.sp4p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp4p1s1.l">Parmexan quante?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp5.l">
+            <p xml:lang="lij" xml:id="porpetton.sp5p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp5p1s1.l">Mi fasso à euggio, ma mettighene, ch’o ghe dà bon.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp5p1s2.l">Dapeu ti gh’azzonzi e euve, chì ascì fasso à euggio, ma no ghe ne metto tante, sedonca quande o cheuxe into forno o vëgne tròppo duo e o l’ingoa, e ghe gratto un pittinin de noxe moscâ.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp5p1s3.l">Mesccio ben e inandio o tian.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp6.l">
+            <p xml:lang="lij" xml:id="porpetton.sp6p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp6p1s1.l">Quello ô sò za fâlo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp7.l">
+            <p xml:lang="lij" xml:id="porpetton.sp7p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp7p1s1.l">Brao!</s>
+              <s xml:lang="lij" xml:id="porpetton.sp7p1s2.l">Alantô dimme comme ti fæ, e te diggo s’o l’é giusto.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp8.l">
+            <p xml:lang="lij" xml:id="porpetton.sp8p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp8p1s1.l">Scì.</s>
+              <s xml:lang="lij" xml:id="porpetton.sp8p1s2.l">Metto l’euio e regio o tian in mòddo da fâlo anâ inte ziñe ascì, dapeu piggio unna brancâ de pangrattou, e ghe ô caccio comme quande infæño a meisia, giusto?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp9.l">
+            <p xml:lang="lij" xml:id="porpetton.sp9p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp9p1s1.l">Giustiscimo, dapeu se mette tutto drento a-o tian, con delicatessa da no spostâ o pangrattou sotta, e se scciaña con un cuggiâ</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp10.l">
+            <p xml:lang="lij" xml:id="porpetton.sp10p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp10p1s1.l">E se mette sovia de l’atro pangrattou e se fan e righe co-a forçiña, giusto?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp11.l">
+            <p xml:lang="lij" xml:id="porpetton.sp11p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp11p1s1.l">Giusto!</s>
+              <s xml:lang="lij" xml:id="porpetton.sp11p1s2.l">Un fî d’euio in çimma e se mette into forno cado pe unna mez’oetta, quaranteçinque menuti ò quande o vëgne bello colorou.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp12.l">
+            <p xml:lang="lij" xml:id="porpetton.sp12p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp12p1s1.l">Staseia preuvo à fâlo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp13.l">
+            <p xml:lang="lij" xml:id="porpetton.sp13p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp13p1s1.l">Scì, ma stanni à l’euggio, che ti me paggi ben ben invexendou e se ti te bruxi ascì solo che e ponte de die, teu moæ a no te fa toccâ e pugnatte maiciù.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="porpetton.sp14.l">
+            <p xml:lang="lij" xml:id="porpetton.sp14p1.l">
+              <s xml:lang="lij" xml:id="porpetton.sp14p1s1.l">Staiò attentiscimo!</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="porpetton.i">
+          <head xml:lang="ita" xml:id="porpetton.h.i">
+            <s xml:lang="ita" xml:id="porpetton.hs1.i">La ricetta del polpettone</s>
+          </head>
+          <sp xml:lang="ita" xml:id="porpetton.sp1.i">
+            <p xml:lang="ita" xml:id="porpetton.sp1p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp1p1s1.i">Vieni cicci, che ti faccio vedere come si fa il polpettone alla genovese che ti piace tanto.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp2.i">
+            <p xml:lang="ita" xml:id="porpetton.sp2p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp2p1s1.i">Grazie nonna, dici che la mamma mi lascerà provare a cucinarlo?</s>
+              <s xml:lang="ita" xml:id="porpetton.sp2p1s2.i">Non mi lascia fare molto in cucina…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp3.i">
+            <p xml:lang="ita" xml:id="porpetton.sp3p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp3p1s1.i">Vedrai che se glielo dico io te lo fa fare.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp3p1s2.i">Ora stai attento: si prendono le patate e si fanno bollire.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp3p1s3.i">Se hai più tempo le lasci intere con la buccia, che vengono più saporite.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp3p1s4.i">Se hai fretta, fai prima a pelarle e le tagli a pezzi, i fagiolini li pulisci levando le punte, li lavi con le tre acque e li bolli anche quelli, ma a parte.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp3p1s5.i">Poi quando è tutto cotto metti un po’ d’olio in una padella, poco eh, altrimenti viene tutto rifritto, e ci fai soffriggere pianino una cipolla tagliata finemente.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp3p1s6.i">Quando dà profumo di buono, ci metti i fagiolini a pezzi e le patate schiacciate o passate al passaverdure.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp3p1s7.i">Dai due mescolate e spegni il fuoco.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp3p1s8.i">A parte triti dell’aglio con la maggiorana, grattugi del parmigiano e metti tutto in una ciotola e lo mescoli con le patate e i fagiolini.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp4.i">
+            <p xml:lang="ita" xml:id="porpetton.sp4p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp4p1s1.i">Parmigiano quanto?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp5.i">
+            <p xml:lang="ita" xml:id="porpetton.sp5p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp5p1s1.i">Io faccio a occhio ma metticene, che insaporisce.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp5p1s2.i">Poi aggiungi le uova, anche qui faccio a occhio, ma non ne metto tante, altrimenti quando cuoce nel forno diventa troppo sodo e intoppa, e ci gratto un pochino di noce moscata.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp5p1s3.i">Mescolo tutto e preparo il tegame.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp6.i">
+            <p xml:lang="ita" xml:id="porpetton.sp6p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp6p1s1.i">Quello lo so già fare!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp7.i">
+            <p xml:lang="ita" xml:id="porpetton.sp7p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp7p1s1.i">Bravo!</s>
+              <s xml:lang="ita" xml:id="porpetton.sp7p1s2.i">Allora dimmi come fai, e ti dico se è giusto</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp8.i">
+            <p xml:lang="ita" xml:id="porpetton.sp8p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp8p1s1.i">Sì.</s>
+              <s xml:lang="ita" xml:id="porpetton.sp8p1s2.i">Metto l’olio e rigiro il tegame in modo da farlo andare anche nei bordi, poi prendo una manciata di pangrattato, e ce lo getto come quando infarino la madia, giusto?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp9.i">
+            <p xml:lang="ita" xml:id="porpetton.sp9p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp9p1s1.i">Giustissimo, poi si mette tutto dentro al tegame, con delicatezza da non spostare il pangrattato sotto, e si spiana con un cucchiaio.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp10.i">
+            <p xml:lang="ita" xml:id="porpetton.sp10p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp10p1s1.i">E si mette sopra dell’altro pangrattato e si fanno le righe con la forchetta, giusto?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp11.i">
+            <p xml:lang="ita" xml:id="porpetton.sp11p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp11p1s1.i">Giusto!</s>
+              <s xml:lang="ita" xml:id="porpetton.sp11p1s2.i">Un filo d’olio in cima e si mette nel forno caldo per una mezzoretta, quarantacinque minuti o quando diventa bello colorato.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp12.i">
+            <p xml:lang="ita" xml:id="porpetton.sp12p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp12p1s1.i">Stasera provo a farlo!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp13.i">
+            <p xml:lang="ita" xml:id="porpetton.sp13p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp13p1s1.i">Sì, ma stai attento, mi sembri un bel po’ infervorato e se ti bruci anche solo le punte delle dita, tua madre non ti fa toccare le pentole mai più.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="porpetton.sp14.i">
+            <p xml:lang="ita" xml:id="porpetton.sp14p1.i">
+              <s xml:lang="ita" xml:id="porpetton.sp14p1s1.i">Starò attentissimo!</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#porpetton.hs1.l #porpetton.hs1.i" />
+      <link target="#porpetton.sp1p1s1.l #porpetton.sp1p1s1.i" />
+      <link target="#porpetton.sp2p1s1.l #porpetton.sp2p1s1.i" />
+      <link target="#porpetton.sp2p1s2.l #porpetton.sp2p1s2.i" />
+      <link target="#porpetton.sp3p1s1.l #porpetton.sp3p1s1.i" />
+      <link target="#porpetton.sp3p1s2.l #porpetton.sp3p1s2.i" />
+      <link target="#porpetton.sp3p1s3.l #porpetton.sp3p1s3.i" />
+      <link target="#porpetton.sp3p1s4.l #porpetton.sp3p1s4.i" />
+      <link target="#porpetton.sp3p1s5.l #porpetton.sp3p1s5.i" />
+      <link target="#porpetton.sp3p1s6.l #porpetton.sp3p1s6.i" />
+      <link target="#porpetton.sp3p1s7.l #porpetton.sp3p1s7.i" />
+      <link target="#porpetton.sp3p1s8.l #porpetton.sp3p1s8.i" />
+      <link target="#porpetton.sp4p1s1.l #porpetton.sp4p1s1.i" />
+      <link target="#porpetton.sp5p1s1.l #porpetton.sp5p1s1.i" />
+      <link target="#porpetton.sp5p1s2.l #porpetton.sp5p1s2.i" />
+      <link target="#porpetton.sp5p1s3.l #porpetton.sp5p1s3.i" />
+      <link target="#porpetton.sp6p1s1.l #porpetton.sp6p1s1.i" />
+      <link target="#porpetton.sp7p1s1.l #porpetton.sp7p1s1.i" />
+      <link target="#porpetton.sp7p1s2.l #porpetton.sp7p1s2.i" />
+      <link target="#porpetton.sp8p1s1.l #porpetton.sp8p1s1.i" />
+      <link target="#porpetton.sp8p1s2.l #porpetton.sp8p1s2.i" />
+      <link target="#porpetton.sp9p1s1.l #porpetton.sp9p1s1.i" />
+      <link target="#porpetton.sp10p1s1.l #porpetton.sp10p1s1.i" />
+      <link target="#porpetton.sp11p1s1.l #porpetton.sp11p1s1.i" />
+      <link target="#porpetton.sp11p1s2.l #porpetton.sp11p1s2.i" />
+      <link target="#porpetton.sp12p1s1.l #porpetton.sp12p1s1.i" />
+      <link target="#porpetton.sp13p1s1.l #porpetton.sp13p1s1.i" />
+      <link target="#porpetton.sp14p1s1.l #porpetton.sp14p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#porpetton.l #porpetton.i" />
     </linkGrp>
   </standOff>
   <TEI xml:id="prenotacion">
@@ -4137,6 +4613,176 @@
   <standOff>
     <linkGrp type="documentTranslation">
       <link target="#travaggi.l #travaggi.i" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="treuggi">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">I treuggi de Santa Brigida</title>
+          <author>Bruna Pedemonte</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+            <s xml:lang="lij">Vivagna originäia</s>
+          </p>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div xml:lang="lij" xml:id="treuggi.l">
+          <head xml:lang="lij" xml:id="treuggi.h.l">
+            <s xml:lang="lij" xml:id="treuggi.hs1.l">I treuggi de Santa Brigida</s>
+          </head>
+          <sp xml:lang="lij" xml:id="treuggi.sp1.l">
+            <p xml:lang="lij" xml:id="treuggi.sp1p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp1p1s1.l">Sciâ me scuse, pe anâ a-i Treuggi de Santa Brigida che strâ devo piggiâ?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp2.l">
+            <p xml:lang="lij" xml:id="treuggi.sp2p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp2p1s1.l">No l’é guæi vexin da chì.</s>
+              <s xml:lang="lij" xml:id="treuggi.sp2p1s2.l">Ma da donde scià ne vëgne?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp3.l">
+            <p xml:lang="lij" xml:id="treuggi.sp3p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp3p1s1.l">Son de Ciavai, m’an dito de chinâ a-a staçion de Prinçipe ma me son sbaliou e son chinou chì à Brignoe.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp4.l">
+            <p xml:lang="lij" xml:id="treuggi.sp4p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp4p1s1.l">Ò capio.</s>
+              <s xml:lang="lij" xml:id="treuggi.sp4p1s2.l">No so manco mi se digghe de piggiâ torna o treno ò…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp5.l">
+            <p xml:lang="lij" xml:id="treuggi.sp5p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp5p1s1.l">Na na, veuggio anâghe co-o çelere.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp6.l">
+            <p xml:lang="lij" xml:id="treuggi.sp6p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp6p1s1.l">Alantô sciâ stagghe à sentî: sciâ piggia o dixeutto ch’o va verso Sampedæña, sciâ fa tutta Vinti Settembre, sciâ passa De Ferræ, sciâ fa stradda Romma, in çimma sciâ gia à Crovetto e scià l’intra inte gallerie.</s>
+              <s xml:lang="lij" xml:id="treuggi.sp6p1s2.l">Sciortio da-a primma scià se treuva à Portello, dòppo a segonda scià se treuva a-a Zecca, dapeu sciâ vedde in sciâ drita a gexa de l’Annonçiâ e… ah, me vëgne in cheu pròpio oua che co-i travaggi an deviou o percorso do dixeutto…</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp7.l">
+            <p xml:lang="lij" xml:id="treuggi.sp7p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp7p1s1.l">O l’é un problema gròsso?</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp8.l">
+            <p xml:lang="lij" xml:id="treuggi.sp8p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp8p1s1.l">Na, a l’é unna fortuña.</s>
+              <s xml:lang="lij" xml:id="treuggi.sp8p1s2.l">Perché oua sciâ monta pe Balbi incangio de giâ pe Gramsci.</s>
+              <s xml:lang="lij" xml:id="treuggi.sp8p1s3.l">Donca sciâ chiña a-a segonda fermâ de Balbi, sciâ traversa a strâ e un pö ciù in sciù ò un pö ciù in zù gh’é i Treuggi inte unna traversa.</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp9.l">
+            <p xml:lang="lij" xml:id="treuggi.sp9p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp9p1s1.l">Graçie, eh, â ringraçio tanto!</s>
+              <s xml:lang="lij" xml:id="treuggi.sp9p1s2.l">Mi con quelle cöse moderne de Google Maps no me gh’attreuvo… â saluo, scignoria eh!</s>
+            </p>
+          </sp>
+          <sp xml:lang="lij" xml:id="treuggi.sp10.l">
+            <p xml:lang="lij" xml:id="treuggi.sp10p1.l">
+              <s xml:lang="lij" xml:id="treuggi.sp10p1s1.l">Scignoria!</s>
+            </p>
+          </sp>
+        </div>
+        <div xml:lang="ita" xml:id="treuggi.i">
+          <head xml:lang="ita" xml:id="treuggi.h.i">
+            <s xml:lang="ita" xml:id="treuggi.hs1.i">I trogoli di Santa Brigida</s>
+          </head>
+          <sp xml:lang="ita" xml:id="treuggi.sp1.i">
+            <p xml:lang="ita" xml:id="treuggi.sp1p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp1p1s1.i">Mi scusi, per andare ai Truogoli di Santa Brigida che strada devo prendere?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp2.i">
+            <p xml:lang="ita" xml:id="treuggi.sp2p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp2p1s1.i">Non è tanto vicino.</s>
+              <s xml:lang="ita" xml:id="treuggi.sp2p1s2.i">Ma da dove viene?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp3.i">
+            <p xml:lang="ita" xml:id="treuggi.sp3p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp3p1s1.i">Sono di Chiavari, mi hanno detto di scendere alla stazione Principe ma mi sono sbagliato e sono sceso qui a Brignole.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp4.i">
+            <p xml:lang="ita" xml:id="treuggi.sp4p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp4p1s1.i">Ho capito.</s>
+              <s xml:lang="ita" xml:id="treuggi.sp4p1s2.i">Non so neppure io se dirle di prendere di nuovo il treno o…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp5.i">
+            <p xml:lang="ita" xml:id="treuggi.sp5p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp5p1s1.i">No no, voglio andarci in autobus.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp6.i">
+            <p xml:lang="ita" xml:id="treuggi.sp6p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp6p1s1.i">Allora stia sentire: prende il diciotto che va verso Sampierdarena, fa tutta via Venti Settembre, passa per Piazza De Ferrari, fa via Roma, in cima gira in Piazza Corvetto e entra nelle gallerie.</s>
+              <s xml:lang="ita" xml:id="treuggi.sp6p1s2.i">Uscito dalla prima si trova in Piazza Portello, dopo la seconda si trova in Piazza delle Zecca, poi vede sulla destra la chiesa dell’Annunziata e… ah, mi viene in mente proprio adesso che per via dei lavori hanno deviato il percorso del diciotto…</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp7.i">
+            <p xml:lang="ita" xml:id="treuggi.sp7p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp7p1s1.i">È un grosso problema?</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp8.i">
+            <p xml:lang="ita" xml:id="treuggi.sp8p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp8p1s1.i">No, è una fortuna.</s>
+              <s xml:lang="ita" xml:id="treuggi.sp8p1s2.i">Perché ora sale per via Balbi invece di girare per via Gramsci.</s>
+              <s xml:lang="ita" xml:id="treuggi.sp8p1s3.i">Perciò scende alla seconda fermata di Via Balbi, attraversa la strada, e un po’ più in su o un po’ più in giù, in una traversa, ci sono i Lavatoi.</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp9.i">
+            <p xml:lang="ita" xml:id="treuggi.sp9p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp9p1s1.i">Grazie, eh, la ringrazio tanto!</s>
+              <s xml:lang="ita" xml:id="treuggi.sp9p1s2.i">Io con quelle modernità come Google Maps non mi ci trovo… la saluto, arrivederla eh!</s>
+            </p>
+          </sp>
+          <sp xml:lang="ita" xml:id="treuggi.sp10.i">
+            <p xml:lang="ita" xml:id="treuggi.sp10p1.i">
+              <s xml:lang="ita" xml:id="treuggi.sp10p1s1.i">Arrivederla.</s>
+            </p>
+          </sp>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#treuggi.hs1.l #treuggi.hs1.i" />
+      <link target="#treuggi.sp1p1s1.l #treuggi.sp1p1s1.i" />
+      <link target="#treuggi.sp2p1s1.l #treuggi.sp2p1s1.i" />
+      <link target="#treuggi.sp2p1s2.l #treuggi.sp2p1s2.i" />
+      <link target="#treuggi.sp3p1s1.l #treuggi.sp3p1s1.i" />
+      <link target="#treuggi.sp4p1s1.l #treuggi.sp4p1s1.i" />
+      <link target="#treuggi.sp4p1s2.l #treuggi.sp4p1s2.i" />
+      <link target="#treuggi.sp5p1s1.l #treuggi.sp5p1s1.i" />
+      <link target="#treuggi.sp6p1s1.l #treuggi.sp6p1s1.i" />
+      <link target="#treuggi.sp6p1s2.l #treuggi.sp6p1s2.i" />
+      <link target="#treuggi.sp7p1s1.l #treuggi.sp7p1s1.i" />
+      <link target="#treuggi.sp8p1s1.l #treuggi.sp8p1s1.i" />
+      <link target="#treuggi.sp8p1s2.l #treuggi.sp8p1s2.i" />
+      <link target="#treuggi.sp8p1s3.l #treuggi.sp8p1s3.i" />
+      <link target="#treuggi.sp9p1s1.l #treuggi.sp9p1s1.i" />
+      <link target="#treuggi.sp9p1s2.l #treuggi.sp9p1s2.i" />
+      <link target="#treuggi.sp10p1s1.l #treuggi.sp10p1s1.i" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#treuggi.l #treuggi.i" />
     </linkGrp>
   </standOff>
   <TEI xml:id="vua-casa">
