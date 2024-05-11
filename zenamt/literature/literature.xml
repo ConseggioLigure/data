@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-model href="https://conseggio-ligure.org/zenamt.rng" type="application/relax-ng-syntax"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -16930,6 +16929,323 @@
       <ptr xml:id="gioane-casassa.e.p3s1-2" target="#gioane-casassa.e.p3s1 #gioane-casassa.e.p3s2" />
       <link target="#gioane-casassa.l.p3s1 #gioane-casassa.i.p3s1 #gioane-casassa.e.p3s1-2" />
       <link target="#gioane-casassa.l.p4s1 #gioane-casassa.i.p4s1 #gioane-casassa.e.p4s1" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="scheuggio-campanna.l">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Scheuggio Campaña | Conseggio pe-o patrimònio linguistico ligure</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="lij" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/antologia/scheuggio-campanna/">https://conseggio-ligure.org/antologia/scheuggio-campanna/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="scheuggio-campanna.l.h1" xml:lang="lij" level="1">
+          <s xml:id="scheuggio-campanna.l.h1s1" xml:lang="lij">Scheuggio Campaña</s>
+        </head>
+        <p xml:id="scheuggio-campanna.l.p1" xml:lang="lij">
+          <s xml:id="scheuggio-campanna.l.p1s1" xml:lang="lij">Scheuggio Campaña o l’é o titolo de unna comedia scrita da-o Manuælo Caneixi pe-o Gilberto Govi, tanto da ingrandîne o repertöio, apreuvo che quande o grande attô o l’ea passou a-o profescioniximo o l’aiva à dispoxiçion solo che i trei testi do Baçigalô, I manezzi pe maiâ unna figgia, Piggiâse o mâ do Rosso o cartâ e Ciù a poia che o mâ.</s>
+          <s xml:id="scheuggio-campanna.l.p1s2" xml:lang="lij">Scheuggio Campaña o l’aiva avuo un bello successo, tanto che do 1928 s’ea pensou de fâne a-a dreitua unn’òpera lirica, ch’a l’é anæta in scena a-o Carlo Feliçe, i dozze de mazzo de quell’anno, pe-a muxica do Domenego Monleon, i versci do poeta Aldo Martinelli e do mæximo Manuælo Caneixi.</s>
+          <s xml:id="scheuggio-campanna.l.p1s3" xml:lang="lij">Pâ che l’espeimento o l’agge avuo successo; i unichi exempi preçedenti de òpera lirica in zeneise, ean quelli de l’Ariodante do Z. A. Spinoa do XVII secolo e, de l’Euttoçento, unna verscion do Mego pe fòrsa do Molière, tramite De Franchi, missa in versci da-o Baçigalô pe-a muxica do Michê Novaro, (quello de l’inno Fratelli d’Italia).</s>
+          <s xml:id="scheuggio-campanna.l.p1s4" xml:lang="lij">Inta vexenda, trei vegi garibaldin fan un zuamento solenne in sciô Scheuggio Campaña, comme çerti usavan unna vòtta a-o momento de desfiâse à duello; o primmo de lô, ch’o moià, o vegnià inderê à portâse via un di atri doî, drento un meise; de chì se desgheugge un muggio de scituaçioin farsesche.</s>
+          <s xml:id="scheuggio-campanna.l.p1s5" xml:lang="lij">Da osservâ comme, tanto che inta comedia originäia do Caneixi se parlava de trei garibaldin, inte l’òpera lirica, con retrodatâ l’açion de çinquant’anni, se træta in cangio de trei sordatti de Napolion, fòscia pe no anâ incontro à de rogne co-a çensua do tempo do fascio; de fæto tra a primma da commedia goviaña e quella de l’òpera lirica, gh’ea stæto a Marcia in sce Romma, e stante che i fascisti se tegnivan pe eredi ideali di garibaldin, quarchedun inte sta stöia o ghe poeiva vedde de alluxoin satiriche.</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="scheuggio-campanna.i">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="ita">Scheuggio Campaña (Scoglio Campana) | Conseggio pe-o patrimònio linguistico ligure</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="ita" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/it/antologia/scoglio-campana/">https://conseggio-ligure.org/it/antologia/scoglio-campana/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="scheuggio-campanna.i.h1" xml:lang="ita" level="1">
+          <s xml:id="scheuggio-campanna.i.h1s1" xml:lang="ita">Scheuggio Campaña (Scoglio Campana)</s>
+        </head>
+        <p xml:id="scheuggio-campanna.i.p1" xml:lang="ita">
+          <s xml:id="scheuggio-campanna.i.p1s1" xml:lang="ita">Scoglio Campana è il titolo di una commedia scritta da Emanuele Canesi per Gilberto Govi, al fine di ingrandirne il repertorio, poiché, quando il grande attore era passato al professionismo, aveva a disposizionre solamente tre testi del Bacigalupo, I manezzi pe maiâ unna figgia, Piggiâse o mâ do Rosso o cartâ e Ciù a poia che o mâ.</s>
+          <s xml:id="scheuggio-campanna.i.p1s2" xml:lang="ita">Scheuggio Campaña ottenne un buon successo, tanto che nel 1928 si pensò di farne addirittura un’opera lirica, che andò in scena al Carlo Felice, il dodici di maggio di quell’anno, con la musica di Domenico Monleone, i versi del poeta Aldo Martinelli e dello stesso Emanuele Canesi.</s>
+          <s xml:id="scheuggio-campanna.i.p1s3" xml:lang="ita">Sembra che l’esperimento abbia avuto successo: gli unici esempi precedenti di opera lirica in genovese, erano quelli dell’Ariodante di G. A. Spinola nel XVII secolo e, nell’Ottocento, una versione del Medico per forza di Molière, tramite De Franchi, messa in versi dal Bacigalupo con musica di Michele Novaro (compositore dell’inno Fratelli d’Italia).</s>
+          <s xml:id="scheuggio-campanna.i.p1s4" xml:lang="ita">Nella trama, tre vecchi garibaldini giurano solennemente sullo Scoglio Campana, come era usanza un tempo al momento di sfidarsi a duello: il primo di loro, che morirà, tornerà indietro a portarsi via uno degli altri due, entro un mese; da qui si sviluppano numerose situazioni farsesche.</s>
+          <s xml:id="scheuggio-campanna.i.p1s5" xml:lang="ita">Da osservare come, mentre nella commedia originale del Canesi si parlava di tre garibaldini, nell’opera lirica, retrodatando l’azione di cinquant’anni, si tratta invece di tre soldati di Napoleone, forse per non andare incontro a seccature con la censura del tempo del fascismo; infatti, tra la prima della commedia goviana e quella dell’opera lirica, c’era stata la marcia su Roma, e poiché i fascisti si consideravano eredi ideali dei garibaldini, qualcuno in questa vicenda avrebbe potuto scorgere della allusioni satiriche.</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="scheuggio-campanna.e">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="eng">Scheuggio Campaña | Council for Ligurian Linguistic Heritage</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="eng" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/en/anthology/scheuggio-campanna/">https://conseggio-ligure.org/en/anthology/scheuggio-campanna/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="scheuggio-campanna.e.h1" xml:lang="eng" level="1">
+          <s xml:id="scheuggio-campanna.e.h1s1" xml:lang="eng">Scheuggio Campaña</s>
+        </head>
+        <p xml:id="scheuggio-campanna.e.p1" xml:lang="eng">
+          <s xml:id="scheuggio-campanna.e.p1s1" xml:lang="eng">Scheuggio Campaña is the title of a play written by Emanuele Canesi for Gilberto Govi, in order to expand his repertoire, as, ever since the great actor had turned professional, he had had at his disposal only three manuscripts by Bacigalupo, I manezzi pe maiâ unna figgia, Piggiâse o mâ do Rosso o cartâ and Ciù a poia che o mâ.</s>
+          <s xml:id="scheuggio-campanna.e.p1s2" xml:lang="eng">Scheuggio Campaña was a success, so much so that in 1928 plans were made to turn it into an opera, which was staged at the Carlo Felice theater on the twelfth of May of that year, with music by Domenico Monleone, verses by poet Aldo Martinelli and Emanuele Canesi himself.</s>
+          <s xml:id="scheuggio-campanna.e.p1s3" xml:lang="eng">It seems that the experiment was successful.</s>
+          <s xml:id="scheuggio-campanna.e.p1s4" xml:lang="eng">The only previous examples of opera in Genoese were Ariodante by G. A. Spinola in the 17th century and, in the 19th century, a version of Molière’s Le Médecin malgré lui, via De Franchi, put into verse by Bacigalupo with music by Michele Novaro (composer of the anthem Fratelli d’Italia).</s>
+          <s xml:id="scheuggio-campanna.e.p1s5" xml:lang="eng">In the plot, three old Garibaldians solemnly swear an oath on the Campana rock, as was once the custom at the time of challenging each other to a due.</s>
+          <s xml:id="scheuggio-campanna.e.p1s6" xml:lang="eng">The first of them to die will come back to take one of the other two away, within a month; from here numerous farcical situations develop.</s>
+          <s xml:id="scheuggio-campanna.e.p1s7" xml:lang="eng">Note how, while Canesi’s original play was about three Garibaldians, in the opera, backdating the action by fifty years, it is instead about three soldiers of Napoleon, perhaps so as not to run into hassles with the censors of the time of fascism.</s>
+          <s xml:id="scheuggio-campanna.e.p1s8" xml:lang="eng">In fact, between the premiere of Govi’s play and that of the opera, the March on Rome had taken place, and since the Fascists considered themselves as heirs of the Garibaldians, some might have perceived satirical allusions in this story.</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#scheuggio-campanna.e #scheuggio-campanna.e #scheuggio-campanna.e" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#scheuggio-campanna.l.h1s1 #scheuggio-campanna.i.h1s1 #scheuggio-campanna.e.h1s1" />
+      <link target="#scheuggio-campanna.l.p1s1 #scheuggio-campanna.i.p1s1 #scheuggio-campanna.e.p1s1" />
+      <link target="#scheuggio-campanna.l.p1s2 #scheuggio-campanna.i.p1s2 #scheuggio-campanna.e.p1s2" />
+      <ptr xml:id="scheuggio-campanna.e.p1s3-4" target="#scheuggio-campanna.e.p1s3 #scheuggio-campanna.e.p1s4" />
+      <link target="#scheuggio-campanna.l.p1s3 #scheuggio-campanna.i.p1s3 #scheuggio-campanna.e.p1s3-4" />
+      <ptr xml:id="scheuggio-campanna.e.p1s5-6" target="#scheuggio-campanna.e.p1s5 #scheuggio-campanna.e.p1s6" />
+      <link target="#scheuggio-campanna.l.p1s4 #scheuggio-campanna.i.p1s4 #scheuggio-campanna.e.p1s5-6" />
+      <ptr xml:id="scheuggio-campanna.e.p1s7-8" target="#scheuggio-campanna.e.p1s7 #scheuggio-campanna.e.p1s8" />
+      <link target="#scheuggio-campanna.l.p1s5 #scheuggio-campanna.i.p1s5 #scheuggio-campanna.e.p1s7-8" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="canto-unico.l">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Canto Unico | Conseggio pe-o patrimònio linguistico ligure</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="lij" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/antologia/canto-unico/">https://conseggio-ligure.org/antologia/canto-unico/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="canto-unico.l.h1" xml:lang="lij" level="1">
+          <s xml:id="canto-unico.l.h1s1" xml:lang="lij">Canto Unico (sec. XVIII)</s>
+        </head>
+        <p xml:id="canto-unico.l.p1" xml:lang="lij">
+          <s xml:id="canto-unico.l.p1s1" xml:lang="lij">O Canto Unico o l’é unna cheuggeita de poexie de autoî setteçenteschi pe-o ciù desconosciui, e o se treuva inte un manoscrito conservou inta Biblioteca da Soçietæ Econòmica de Ciavai; o contëgne unna gran varietæ de testi che van da-o còmico a-o serio, da l’erotiximo a-a satira soçiale.</s>
+          <s xml:id="canto-unico.l.p1s2" xml:lang="lij">Sta Serenata, che proponemmo, a peu arregordâ comme tematica a poexia çinquentesca d’amô, mascime e Tersiñe de poeta inçerto de Rime Diverse, ma a forma metrica adeuttâ – muxicale ben – a â rende adattâ a-o canto.</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="canto-unico.i">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="ita">Canto Unico | Conseggio pe-o patrimònio linguistico ligure</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="ita" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/it/antologia/canto-unico/">https://conseggio-ligure.org/it/antologia/canto-unico/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="canto-unico.i.h1" xml:lang="ita" level="1">
+          <s xml:id="canto-unico.i.h1s1" xml:lang="ita">Canto Unico (XVIII sec.)</s>
+        </head>
+        <p xml:id="canto-unico.i.p1" xml:lang="ita">
+          <s xml:id="canto-unico.i.p1s1" xml:lang="ita">Il Canto unico è una raccolta di poesie di autori settecenteschi in gran parte anonimi, e si trova in un manoscritto conservato nella Biblioteca della Società Economica di Chiavari; contiene una gran varietà di testi che vanno dal comico al serio, dall’erotismo alla satira sociale.</s>
+          <s xml:id="canto-unico.i.p1s2" xml:lang="ita">Questa Serenata, che proponiamo, può ricordare in quanto a tematica la poesia cinquecentesca d’amore, specie le Terzine di poeta incerto delle Rime diverse, ma la forma metrica adottata – molto musicale – la rende particolarmene adatta per essere cantata.</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="canto-unico.e">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="eng">Canto Unico | Council for Ligurian Linguistic Heritage</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="eng" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/en/anthology/canto-unico/">https://conseggio-ligure.org/en/anthology/canto-unico/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="canto-unico.e.h1" xml:lang="eng" level="1">
+          <s xml:id="canto-unico.e.h1s1" xml:lang="eng">Canto Unico (18th cent.)</s>
+        </head>
+        <p xml:id="canto-unico.e.p1" xml:lang="eng">
+          <s xml:id="canto-unico.e.p1s1" xml:lang="eng">Canto Unico is a collection of poems by largely anonymous eighteenth-century authors, and is found in a manuscript preserved in the library of the Società Economica di Chiavari.</s>
+          <s xml:id="canto-unico.e.p1s2" xml:lang="eng">It contains a wide variety of texts ranging from the comic to the serious, from eroticism to social satire.</s>
+          <s xml:id="canto-unico.e.p1s3" xml:lang="eng">The Serenata we present here may be reminiscent in subject matter of sixteenth-century love poetry, especially the Anonymous tercets of the Rime diverse, but the very musical metrical form that is adopted makes it particularly suitable for singing.</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#canto-unico.e #canto-unico.e #canto-unico.e" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#canto-unico.l.h1s1 #canto-unico.i.h1s1 #canto-unico.e.h1s1" />
+      <ptr xml:id="canto-unico.e.p1s1-2" target="#canto-unico.e.p1s1 #canto-unico.e.p1s2" />
+      <link target="#canto-unico.l.p1s1 #canto-unico.i.p1s1 #canto-unico.e.p1s1-2" />
+      <link target="#canto-unico.l.p1s2 #canto-unico.i.p1s2 #canto-unico.e.p1s3" />
+    </linkGrp>
+  </standOff>
+  <TEI xml:id="gioane-francesco-baffico.l">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="lij">Gio. Françesco Baffico | Conseggio pe-o patrimònio linguistico ligure</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="lij" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/antologia/gioane-francesco-baffico/">https://conseggio-ligure.org/antologia/gioane-francesco-baffico/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="gioane-francesco-baffico.l.h1" xml:lang="lij" level="1">
+          <s xml:id="gioane-francesco-baffico.l.h1s1" xml:lang="lij">Gio. Françesco Baffico (sec. XVII)</s>
+        </head>
+        <p xml:id="gioane-francesco-baffico.l.p1" xml:lang="lij">
+          <s xml:id="gioane-francesco-baffico.l.p1s1" xml:lang="lij">Into poemetto Lamento de Lucrezia in ra morte de sò galante do paddre barnabita Gio. Françesco Baffico, oratô offiçiâ da Repubrica, à l’intençion parodistica scimile à quella de çerte poexie do Rosso, se azzonze quella de imitâ o parlâ de classe popolare di sò tempi e se ghe distingue unna sò veitæ ambientale e linguistica.</s>
+          <s xml:id="gioane-francesco-baffico.l.p1s2" xml:lang="lij">O Bellé, un darseniello innamoou da Lugreçia, figgia da fornæa, o l’é stæto ammassou inte unna riscia con quelli do Meu, e a notiçia a vëgne portâ a-a seu galante, ch’a se lascia anâ à lastime e centi, inta parlâ da Darsena (de quelli tempi).</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="gioane-francesco-baffico.i">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="ita">Gio. Francesco Baffico | Conseggio pe-o patrimònio linguistico ligure</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="ita" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/it/antologia/giovanni-francesco-baffico/">https://conseggio-ligure.org/it/antologia/giovanni-francesco-baffico/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="gioane-francesco-baffico.i.h1" xml:lang="ita" level="1">
+          <s xml:id="gioane-francesco-baffico.i.h1s1" xml:lang="ita">Gio. Francesco Baffico (XVII sec.)</s>
+        </head>
+        <p xml:id="gioane-francesco-baffico.i.p1" xml:lang="ita">
+          <s xml:id="gioane-francesco-baffico.i.p1s1" xml:lang="ita">Nel poemetto Lamento de Lucrezia in ra morte de sò galante del padre barnabita Gio. Francesco Baffico, oratore ufficiale della Repubblica, all'intenzione parodistica simile a quella di certe poesie del Rossi, si aggiunge quella di imitare la parlata delle classi popolari dei suoi tempi e vi si distingue una sua verità ambientale e linguistica.</s>
+          <s xml:id="gioane-francesco-baffico.i.p1s2" xml:lang="ita">Bellè, un abitante della zona della Darsena, innamorato di Lucrezia, figlia della fornaia, è stato ucciso in una rissa con quelli del Molo, e la notizia viene portata alla sua donna, che si lascia andare a lamenti e pianti, nella parlata della Darsena (di quei tempi).</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="gioane-francesco-baffico.e">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="eng">Gio. Francesco Baffico | Council for Ligurian Linguistic Heritage</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Conseggio pe-o patrimònio linguistico ligure</publisher>
+          <date xml:lang="eng" when="2024-05-11" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <ref target="https://conseggio-ligure.org/en/anthology/giovanni-francesco-baffico/">https://conseggio-ligure.org/en/anthology/giovanni-francesco-baffico/</ref>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head xml:id="gioane-francesco-baffico.e.h1" xml:lang="eng" level="1">
+          <s xml:id="gioane-francesco-baffico.e.h1s1" xml:lang="eng">Gio. Francesco Baffico (17th cent.)</s>
+        </head>
+        <p xml:id="gioane-francesco-baffico.e.p1" xml:lang="eng">
+          <s xml:id="gioane-francesco-baffico.e.p1s1" xml:lang="eng">In the poem Lamento de Lucrezia in ra morte de sò galante by the Barnabite friar Gio. Francesco Baffico, official orator of the Republic, we see a parodistic intent similar to that of certain poems by Rossi, combined with an aim to to imitate the speech of the working classes of his time, with its own distinctive environmental and linguistic accuracy.</s>
+          <s xml:id="gioane-francesco-baffico.e.p1s2" xml:lang="eng">Bellè, an inhabitant of the Darsena area, who is in love with Lucrezia, the baker’s daughter, has been killed in a fight with people from the Molo, and the news is brought to his woman, who lets out wails and cries in the Darsena dialect (of those times).</s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+  <standOff>
+    <linkGrp type="documentTranslation">
+      <link target="#gioane-francesco-baffico.e #gioane-francesco-baffico.e #gioane-francesco-baffico.e" />
+    </linkGrp>
+  </standOff>
+  <standOff>
+    <linkGrp type="translation">
+      <link target="#gioane-francesco-baffico.l.h1s1 #gioane-francesco-baffico.i.h1s1 #gioane-francesco-baffico.e.h1s1" />
+      <link target="#gioane-francesco-baffico.l.p1s1 #gioane-francesco-baffico.i.p1s1 #gioane-francesco-baffico.e.p1s1" />
+      <link target="#gioane-francesco-baffico.l.p1s2 #gioane-francesco-baffico.i.p1s2 #gioane-francesco-baffico.e.p1s2" />
     </linkGrp>
   </standOff>
 </teiCorpus>
