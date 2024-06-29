@@ -1,13 +1,13 @@
 # ZenaMT corpus
 
-This is an Italian – Genoese Ligurian parallel corpus covering a number of domains of cultural relevance to Ligurian speakers. Parts of the corpus also contain aligned English translations. The data is being extracted from a variety of sources.
+This is an Italian – Ligurian (Genoese) parallel corpus covering a number of domains of cultural relevance to Ligurian speakers. Parts of the corpus also contain aligned English translations. The data is being extracted from a variety of sources.
 
 | Corpus        | Domain | Languages | Train | Valid | Test |
 |---------------|--------|-----------|-------|-------|------|
 | `linguistics` | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | Ligurian, Italian | 3,497 |
-| `news`        | News from the weekly Ligurian news website [O Zinâ](https://www.ozina.org) | Ligurian, Italian | 2,787 | 130 | 264 |
+| `news`        | News from the weekly Ligurian news website [O Zinâ](https://www.ozina.org) | Ligurian, Italian | 3,041 | 130 | 264 |
 | `literature`  | Essays on the history of Ligurian literature. | Ligurian, Italian, English | 738 | 136 | 207 |
-| `entities`    | Purpose-built parallel sentence lists covering Ligurian toponyms and other culturally-relevant named entities. | Ligurian, Italian | 414 | 103 | 104 |
+| `entities`    | Purpose-built parallel sentence lists covering Ligurian toponyms and other culturally-relevant named entities. | Ligurian, Italian | 501 | 103 | 104 |
 | `dialogues`  | Scripted dialogues. | Ligurian, Italian | 441 | 30 | 48 |
 | `games`       | Rule description of traditional Ligurian card games. | Ligurian, Italian, English | 297 | | |
 
