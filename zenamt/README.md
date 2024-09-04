@@ -14,22 +14,25 @@ The data has being extracted from a variety of sources.
 
 | Subcorpus     | Domain | Train | Valid |
 |---------------|--------|-------|-------|
-| `dictionary`  | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | 5,457 |
-| `news`        | News from the weekly Ligurian news website [O Zinâ](https://www.ozina.org) | 3,381 | 130 |
-| `entities`    | Purpose-built parallel sentence lists covering Ligurian toponyms and other culturally-relevant named entities. | 2,157 | 107 |
+| `dictionary`  | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | 6,017 |
+| `news`        | News from our weekly Ligurian news website [O Zinâ](https://www.ozina.org) | 3,818 | 130 |
+| `entities`    | Purpose-built parallel sentence lists covering Ligurian toponyms and other culturally-relevant named entities. | 2,159 | 111 |
 | `literature`  | Essays on the history of Ligurian literature. | 738 | 136 |
 | `dialogues`   | Scripted dialogues. | 714 | 30 |
 | `web`         | Data from our association’s own websites. | 440 | |
-| `weather`     | User-contributed weather forecasts. | 63 | |
+| `weather`     | User-contributed weather forecasts. | 113 | |
 
 ## Attribution
 
 If you use this corpus in your own work, please cite the following paper:
 ```bibtex
-@article{zenamt24,
-  title={Italian-Ligurian Machine Translation in its Cultural Context},
-  author={Haberland, Christopher and Lusito, Stefano and Maillard, Jean},
-  booktitle={Proceedings of the 3rd Annual Meeting of the ELRA/ISCA Special Interest Group on Under-Resourced Languages},
-  year={2024},
+@inproceedings{haberland-etal-2024-italian,
+  title = "{I}talian-{L}igurian Machine Translation in Its Cultural Context",
+  author = "Haberland, Christopher R.  and
+    Maillard, Jean  and
+    Lusito, Stefano",
+  booktitle = "Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024",
+  year = "2024",
+  url = "https://aclanthology.org/2024.sigul-1.21",
 }
 ```
