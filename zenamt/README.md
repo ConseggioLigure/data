@@ -14,11 +14,11 @@ The data has being extracted from a variety of sources.
 
 | Subcorpus     | Domain | Train | Valid |
 |---------------|--------|-------|-------|
-| `dictionary`  | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | 6,027 |
-| `news`        | News from our weekly Ligurian news website [O Zinâ](https://www.ozina.org) | 4,028 | 130 |
+| `dictionary`  | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | 6,042 |
+| `news`        | News from our weekly Ligurian news website [O Zinâ](https://www.ozina.org) | 4,441 | 130 |
 | `entities`    | Purpose-built parallel sentence lists covering Ligurian toponyms and other culturally-relevant named entities. | 2,159 | 111 |
-| `literature`  | Essays on the history of Ligurian literature. | 738 | 136 |
-| `dialogues`   | Scripted dialogues. | 714 | 30 |
+| `literature`  | Essays on the history of Ligurian literature. | 874 | 136 |
+| `dialogues`   | Scripted dialogues. | 762 | 30 |
 | `web`         | Data from our association’s own websites. | 440 | |
 | `weather`     | User-contributed weather forecasts. | 113 | |
 
