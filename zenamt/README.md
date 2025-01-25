@@ -1,6 +1,6 @@
 # ZenaMT corpus
 
-This is an Italian – Ligurian (Genoese) parallel corpus covering a number of domains of cultural relevance to Ligurian speakers. Parts of the corpus also contain aligned English translations and are available upon request.
+This is an Italian – Ligurian (Genoese) parallel corpus covering a number of domains of cultural relevance to Ligurian speakers. Parts of the corpus also contain aligned English translations which are available upon request.
 
 > [!NOTE]
 > This is a living corpus. It will receive updates as the sources it draws from keep growing.
@@ -9,18 +9,20 @@ This is an Italian – Ligurian (Genoese) parallel corpus covering a number of d
 
 ## Data sources
 
-The data has being extracted from a variety of sources.
+The data is being extracted from a variety of sources.
 
 
 | Subcorpus     | Domain | Train | Valid |
 |---------------|--------|-------|-------|
-| `dictionary`  | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | 6,042 |
-| `news`        | News from our weekly Ligurian news website [O Zinâ](https://www.ozina.org) | 4,441 | 130 |
+| `dictionary`  | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | 6,135 |
+| `news`        | News from our weekly Ligurian news website [O Zinâ](https://www.ozina.org) | 5,044 | 130 |
 | `entities`    | Purpose-built parallel sentence lists covering Ligurian toponyms and other culturally-relevant named entities. | 2,159 | 111 |
+| `adages`      | Traditional Ligurian proverbs/sayings/adages. | 1,449 | |
 | `literature`  | Essays on the history of Ligurian literature. | 874 | 136 |
 | `dialogues`   | Scripted dialogues. | 762 | 30 |
+| `stories`   | Short stories. | 337 |  |
 | `web`         | Data from our association’s own websites. | 440 | |
-| `weather`     | User-contributed weather forecasts. | 113 | |
+| `weather`     | User-contributed weather forecasts. | 203 | |
 
 ## Attribution
 
