@@ -14,8 +14,8 @@ The data is being extracted from a variety of sources.
 
 | Subcorpus     | Domain | Train | Valid |
 |---------------|--------|-------|-------|
-| `dictionary`  | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | 6,135 |
-| `news`        | News from our weekly Ligurian news website [O Zinâ](https://www.ozina.org) | 5,044 | 130 |
+| `dictionary`  | Example sentences from an [Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/) and other Ligurian study materials. | 7,108 |
+| `news`        | News from our weekly Ligurian news website [O Zinâ](https://www.ozina.org) | 5,713 | 130 |
 | `entities`    | Purpose-built parallel sentence lists covering Ligurian toponyms and other culturally-relevant named entities. | 2,159 | 111 |
 | `adages`      | Traditional Ligurian proverbs/sayings/adages. | 1,449 | |
 | `literature`  | Essays on the history of Ligurian literature. | 874 | 136 |
