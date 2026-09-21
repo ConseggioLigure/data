@@ -1,48 +1,53 @@
-# Ligurian datasets
+# Ligurian language resources
 
-This repository lists resources such as datasets and corpora which are useful for NLP/AI applications and other language technologies involving the Ligurian language.
+This repository hosts language technology resources for Ligurian made available by the [Council for Ligurian Linguistic Heritage](https://conseggio-ligure.org/en/) (*Conseggio pe-o patrimònio linguistico ligure*). It also lists other resources for machine translation, speech recognition and related technologies.
 
-## Ligurian varieties
+## Linguistic scope and data curation
 
-All datasets listed on this page pertain to Genoese, by far the most widespread variety of Ligurian (both in terms of number of speakers and geographic area). Its codified traditional orthography form is the de facto standard for literary and academic works.
+Genoese is the shared regional variety of Ligurian and its principal literary form. Its codified modern orthography is documented in [DEIZE](https://conseggio-ligure.org/en/dictionary/deize).
 
-When developing NLP models it is important to recognize that other Ligurian varieties are written differently, and many of them lack a written standard. Even Genoese itself can also be written according to multiple spellings. Therefore, it is crucial not to blindly mix content of different varieties from uncurated sources (such as Wikipedia) without properly understanding and labelling it.
+Ligurian also includes a number of local varieties, while Genoese itself may be written according to different spelling conventions. For corpus construction and language modelling, these distinctions should be taken into account when selecting and combining sources.
 
-## Datasets
+Publicly available text collections, including sources such as Wikipedia, can be valuable for language technology, but may contain a mixture of varieties, spelling systems and levels of editorial consistency. They are therefore best used with appropriate source review and, where relevant, linguistic labelling rather than treated as authoritative reference data.
 
-### Speech datasets
+## Resources
 
-* [Ligurian Speech Corpus](speech/) is a dataset of speech paired with text, for the purposes of training ASR and similar models. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Each resource has its own licence, specified below. Consult the corresponding licence file or dataset documentation for its terms of use.
+
+### Hunspell dictionary
+
+The [Hunspell dictionary](hunspell-lij/) provides spell checking for Ligurian (Genoese). Its lexical content and spelling conventions derive from [DEIZE](https://conseggio-ligure.org/en/dictionary/deize) (*Diçionäio elettrònico italian-zeneise*), the Council’s bilingual Italian-Ligurian dictionary, edited by Jean Maillard with linguistic support from Stefano Lusito.
+
+Released under the [MIT License](hunspell-lij/LICENSE).
+
+### Hyphenation patterns
+
+The [TeX hyphenation patterns](hyph-lij/) for Genoese were developed for [*Zimme de braxa*](https://conseggio-ligure.org/en/zimme-de-braxa/), the Council’s Ligurian literature series, in collaboration with [Editrice Zona](https://editricezona.it/).
+
+Released under the [MIT License](hyph-lij/LICENSE).
 
 ### Machine translation
 
-Hosted here:
-* [Seed](seed/) is a trilingual Ligurian-English-Italian machine translation dataset based on the OLDI [Seed dataset](https://github.com/openlanguagedata/seed). Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-* [FLORES](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) is a machine translation benchmark that supports Ligurian. Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-* [ZenaMT](zenamt/) is an Italian–Ligurian (Genoese) parallel corpus covering a number of domains of cultural relevance to Ligurian speakers. Some sentences also have English translations. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+* [ZenaMT](https://huggingface.co/datasets/ConseggioLigure/zenamt) is an Italian-Ligurian (Genoese) parallel corpus covering domains of cultural relevance to Ligurian speakers, with English translations for some texts. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Hosted elsewhere:
-* Google’s [GATITOS](https://github.com/google-research/url-nlp/tree/main/gatitos) dataset is a high-quality multi-way parallel lexicon which includes Ligurian. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+* [OLDI Seed](https://huggingface.co/datasets/openlanguagedata/oldi_seed) is a multilingual parallel corpus for machine translation, including Ligurian. It is an updated and improved version of NLLB-Seed. Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-### Text corpora
+* [FLORES+](https://huggingface.co/datasets/openlanguagedata/flores_plus) is a multilingual machine translation benchmark that includes Ligurian. It is an updated and improved version of FLORES-200. Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Hosted here:
-* A [monolingual corpus of Ligurian](monolingual/), under development, useful for a variety of applications such as the training of language models. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+* [SMOL](https://huggingface.co/datasets/google/smol) provides sentence- and document-level translations for machine translation, including Ligurian. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+* [GATITOS](https://huggingface.co/datasets/google/smol) is a multilingual parallel lexicon of words and short phrases, including Ligurian, distributed with SMOL. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+* [BOUQuET](https://huggingface.co/datasets/facebook/bouquet) is a multilingual translation benchmark covering multiple domains and registers, including Ligurian. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+### Speech
+
+* [Omnilingual ASR Corpus](https://huggingface.co/datasets/facebook/omnilingual-asr-corpus) provides speech recordings and transcriptions for automatic speech recognition, including Ligurian. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ### Text normalization
 
-Hosted here:
-* [Normalized Ligurian corpus](normalization/), a collection of sentences written in Ligurian using historical spellings, paired with their normalized version. It can be used to train text normalizers. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+* [Normalized Ligurian corpus](normalization/) is a collection of sentences written in historical spellings, paired with their normalized versions. It can be used to train text-normalization systems. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ### Dependency parsing
 
-Hosted elsewhere:
-* [UD-Ligurian-GLT](https://github.com/UniversalDependencies/UD_Ligurian-GLT/), a [Universal Dependencies](https://universaldependencies.org/) corpus for Ligurian. Released under [C-UDA 1.0](https://spdx.org/licenses/C-UDA-1.0.html).
-
-### Others
-
-Hosted here:
-* [TeX hyphenation patterns](hyph-lij/) for the Genoese Ligurian language. Released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
-
-Hosted elsewhere:
-* The [GEPHRAS](https://romanistik-gephras.uibk.ac.at/content?page=home) project is a Ligurian-Italian online phraseological dictionary which includes phonetic transcriptions and audio recordings for many entries.
+* [UD Ligurian GLT](https://github.com/UniversalDependencies/UD_Ligurian-GLT/) is a [Universal Dependencies](https://universaldependencies.org/) treebank for Ligurian. Released under [C-UDA 1.0](https://spdx.org/licenses/C-UDA-1.0.html).

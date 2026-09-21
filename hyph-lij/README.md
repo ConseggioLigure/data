@@ -1,5 +1,23 @@
-# TeX Hyphenation Patterns for Genoese Ligurian
+# Hyphenation patterns for Ligurian (Genoese)
 
-These hyphenation patterns for the Genoese variety of Ligurian have been developed by the Council for Ligurian Linguistic Heritage for the book series [Zimme de braxa](https://conseggio-ligure.org/en/zimme-de-braxa/), in collaboration with the publisher [Editrice Zona](https://editricezona.it/).
+Current release: **26.0921**.
 
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p> 
+These hyphenation patterns were developed by the [Council for Ligurian Linguistic Heritage](https://conseggio-ligure.org/en/) for the typesetting of [*Zimme de braxa*](https://conseggio-ligure.org/en/zimme-de-braxa/), its Ligurian literature book series. The series is published in collaboration with [Editrice Zona](https://editricezona.it/).
+
+The patterns follow the codified modern spelling of Genoese, the shared regional variety of Ligurian and its principal literary form.
+
+They have been written assuming the applications that use them have a setting equivalent to `hyphenmins={2,2}` or greater. When exporting for libhyphen/LibreOffice, `NEXTLEVEL` needs to be inserted before all patterns, to disables libhyphen’s default apostrophe compound splitting. To convert these patterns for libhyphen, we provide the script `export_libhyphen.py` for convenience.
+
+## Development
+
+Run `uv run tests/test_hyphenation.py` from the repository root. The tests use [Pyphen](https://pyphen.org/) 0.18.1; expected hyphenations are listed in [`tests/hyph-lij.hyph`](../tests/hyph-lij.hyph).
+
+## License
+
+Copyright © 2023-2026 Edoardo Ferrante, Stefano Lusito and Jean Maillard
+
+The hyphenation patterns in `hyph-lij.tex` are released under the [MIT License](LICENSE).
+
+## Contact
+
+For corrections or integration questions please contact [info@conseggio-ligure.org](mailto:info@conseggio-ligure.org).

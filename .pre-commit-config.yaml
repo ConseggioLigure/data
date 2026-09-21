@@ -1,0 +1,24 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: end-of-file-fixer
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.16.8
+    hooks:
+      - id: ruff-format
+        files: ^tests/.*\.py$
+  - repo: local
+    hooks:
+      - id: hyphenation
+        name: Ligurian hyphenation
+        entry: uv run tests/test_hyphenation.py
+        language: system
+        files: ^(hyph-lij/|tests/)
+        pass_filenames: false
+      - id: hunspell
+        name: Ligurian spelling
+        entry: uv run tests/test_hunspell.py
+        language: system
+        files: ^(hunspell-lij/|tests/)
+        pass_filenames: false
