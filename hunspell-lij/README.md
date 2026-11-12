@@ -1,6 +1,6 @@
 # Hunspell dictionary for Ligurian (Genoese)
 
-Current release: **26.0921**.
+Current release: **26.1111**.
 
 This dictionary is semi-automatically derived from [DEIZE](https://conseggio-ligure.org/en/dictionary/deize) (*Diçionäio Elettrònico Italian-Zeneise*), the Council for Ligurian Linguistic Heritage’s bilingual Italian-Ligurian dictionary. It follows the codified modern spelling of Genoese, the shared regional variety of Ligurian and its principal literary form.
 

@@ -9,7 +9,7 @@
 NAME Diçionäio ligure (zeneise)
 LANG lij_IT
 HOME https://conseggio-ligure.org/
-VERSION 26.0921
+VERSION 26.1111
 SET UTF-8
 
 KEY qwertyuiop|asdfghjkl|zxcvbnm
@@ -575,81 +575,126 @@ SFX 44 immo î/ENEMEV immo
 SFX 44 immo indo/ENEMETEVES immo
 SFX 44 immo î/O'ENEMETEVES immo
 
-PFX E' Y 7
+PFX E' Y 11
+PFX E' 0 ch' [aàäâeèéëêiîïoôöòuæ]
 PFX E' 0 ch' [aàäâeèéëêiîïoôöòuæ]
 PFX E' 0 s' [aàäâeèéëêiîïoôöòuæ]
 PFX E' 0 comm' [aàäâeèéëêiîïoôöòuæ]
+PFX E' 0 comm' [aàäâeèéëêiîïoôöòuæ]
+PFX E' 0 quand' [aàäâeèéëêiîïoôöòuæ]
 PFX E' 0 quand' [aàäâeèéëêiîïoôöòuæ]
 PFX E' 0 dond' [aàäâeèéëêiîïoôöòuæ]
 PFX E' 0 cös' [aàäâeèéëêiîïoôöòuæ]
 PFX E' 0 quant' [aàäâeèéëêiîïoôöòuæ]
+PFX E' 0 quant' [aàäâeèéëêiîïoôöòuæ]
 
-PFX e' Y 7
+PFX e' Y 11
+PFX e' 0 ch'/-- [aàäâeèéëêiîïoôöòuæ]
 PFX e' 0 ch'/-- [aàäâeèéëêiîïoôöòuæ]
 PFX e' 0 s'/-- [aàäâeèéëêiîïoôöòuæ]
 PFX e' 0 comm'/-- [aàäâeèéëêiîïoôöòuæ]
+PFX e' 0 comm'/-- [aàäâeèéëêiîïoôöòuæ]
+PFX e' 0 quand'/-- [aàäâeèéëêiîïoôöòuæ]
 PFX e' 0 quand'/-- [aàäâeèéëêiîïoôöòuæ]
 PFX e' 0 dond'/-- [aàäâeèéëêiîïoôöòuæ]
 PFX e' 0 cös'/-- [aàäâeèéëêiîïoôöòuæ]
 PFX e' 0 quant'/-- [aàäâeèéëêiîïoôöòuæ]
+PFX e' 0 quant'/-- [aàäâeèéëêiîïoôöòuæ]
 
-PFX P' Y 6
+PFX P' Y 11
 PFX P' 0 m' [aàäâeèéëêiîïoôöòuæ]
 PFX P' 0 t' [aàäâeèéëêiîïoôöòuæ]
-PFX P' 0 gh' [aàäâeèéëêiîïoôöòuæ]
-PFX P' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX P' 0 v' [aàäâeèéëêiîïoôöòuæ]
 PFX P' 0 s' [aàäâeèéëêiîïoôöòuæ]
+PFX P' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX P' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX P' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX P' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX P' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX P' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX P' 0 gh' [aàäâeèéëêiîïoôöòuæ]
 
-PFX 1' Y 6
+PFX 1' Y 11
 PFX 1' 0 m' [aàäâeèéëêiîïoôöòuæ]
 PFX 1' 0 t' [aàäâeèéëêiîïoôöòuæ]
 PFX 1' 0 l' [aàäâeèéëêiîïoôöòuæ]
 PFX 1' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 1' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 1' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 1' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 1' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 1' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 1' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 1' 0 v' [aàäâeèéëêiîïoôöòuæ]
 
-PFX 2' Y 5
+PFX 2' Y 10
 PFX 2' 0 m' [aàäâeèéëêiîïoôöòuæ]
 PFX 2' 0 t' [aàäâeèéëêiîïoôöòuæ]
 PFX 2' 0 l' [aàäâeèéëêiîïoôöòuæ]
 PFX 2' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 2' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 2' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 2' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 2' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 2' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 2' 0 n' [aàäâeèéëêiîïoôöòuæ]
 
-PFX 3' Y 7
+PFX 3' Y 13
 PFX 3' 0 m' [aàäâeèéëêiîïoôöòuæ]
 PFX 3' 0 t' [aàäâeèéëêiîïoôöòuæ]
 PFX 3' 0 l' [aàäâeèéëêiîïoôöòuæ]
 PFX 3' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 3' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 3' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 3' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 3' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 3' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 3' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 3' 0 v' [aàäâeèéëêiîïoôöòuæ]
+PFX 3' 0 s' [aàäâeèéëêiîïoôöòuæ]
 PFX 3' 0 s' [aàäâeèéëêiîïoôöòuæ]
 
 PFX L' Y 1
 PFX L' 0 l' [aàäâeèéëêiîïoôöòuæ]
 
-PFX 4' Y 6
+PFX 4' Y 11
 PFX 4' 0 t' [aàäâeèéëêiîïoôöòuæ]
 PFX 4' 0 l' [aàäâeèéëêiîïoôöòuæ]
 PFX 4' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 4' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 4' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 4' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 4' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 4' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 4' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 4' 0 v' [aàäâeèéëêiîïoôöòuæ]
 PFX 4' 0 s' [aàäâeèéëêiîïoôöòuæ]
 
-PFX 5' Y 5
+PFX 5' Y 10
 PFX 5' 0 m' [aàäâeèéëêiîïoôöòuæ]
 PFX 5' 0 l' [aàäâeèéëêiîïoôöòuæ]
 PFX 5' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 5' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 5' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 5' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 5' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 5' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 5' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 5' 0 v' [aàäâeèéëêiîïoôöòuæ]
 
-PFX 6' Y 7
+PFX 6' Y 13
 PFX 6' 0 m' [aàäâeèéëêiîïoôöòuæ]
 PFX 6' 0 t' [aàäâeèéëêiîïoôöòuæ]
 PFX 6' 0 l' [aàäâeèéëêiîïoôöòuæ]
 PFX 6' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 6' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 6' 0 gh' [aàäâeèéëêiîïoôöòuæ]
+PFX 6' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 6' 0 n' [aàäâeèéëêiîïoôöòuæ]
+PFX 6' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 6' 0 n' [aàäâeèéëêiîïoôöòuæ]
 PFX 6' 0 v' [aàäâeèéëêiîïoôöòuæ]
+PFX 6' 0 s' [aàäâeèéëêiîïoôöòuæ]
 PFX 6' 0 s' [aàäâeèéëêiîïoôöòuæ]
 
 SFX EN Y 20
