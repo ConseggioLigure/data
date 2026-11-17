@@ -1,6 +1,6 @@
 # Hyphenation patterns for Ligurian (Genoese)
 
-Current release: **26.0921**.
+Current release: **26.1116**.
 
 These hyphenation patterns were developed by the [Council for Ligurian Linguistic Heritage](https://conseggio-ligure.org/en/) for the typesetting of [*Zimme de braxa*](https://conseggio-ligure.org/en/zimme-de-braxa/), its Ligurian literature book series. The series is published in collaboration with [Editrice Zona](https://editricezona.it/).
 

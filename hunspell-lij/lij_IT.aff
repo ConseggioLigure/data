@@ -9,33 +9,37 @@
 NAME Diçionäio ligure (zeneise)
 LANG lij_IT
 HOME https://conseggio-ligure.org/
-VERSION 26.1111
+VERSION 26.1115
 SET UTF-8
 
 KEY qwertyuiop|asdfghjkl|zxcvbnm
 TRY AÀÂÄÆBCÇDEÉÈÊËFGHIÌÎÏLMNÑOÓÒÔÖPQRSTUÙÛÜVXZJKWYaàâäæbcçdeéèêëfghiìîïlmnñoóòôöpqrstuùûüvxzjkwy
 WORDCHARS '’-0123456789ºª°
 
-MAP 10
-MAP aâäAÂÄ
-MAP cçCÇ
-MAP çsÇs
-MAP szSZ
-MAP eéèêëEÉÈÊË
-MAP è(ae)æÈ(AE)(Ae)Æ
-MAP iìîïIÌÎÏ
+MAP 6
 MAP oóòôöOÓÒÔÖ
+MAP eéèêëæEÉÈÊËÆ
+MAP aàâäAÀÂÄ
+MAP cçszCÇSZ
+MAP iìîïIÌÎÏ
 MAP uùûüUÙÛÜ
-MAP (eu)öø(EU)(Eu)ÖØ
 
-REP 38
+REP 48
 REP á à
+REP â ä
+REP ä â
+REP aa â
+REP aa ä
+REP ae æ
 REP b bb
 REP bb b
 REP c cc
 REP cc c
 REP d dd
 REP dd d
+REP ê ë
+REP ë ê
+REP eize eise
 REP f ff
 REP ff f
 REP g gg
@@ -49,7 +53,9 @@ REP mm m
 REP n nn
 REP nb mb
 REP nn n
+REP nn- ñ
 REP np mp
+REP o ö
 REP p pp
 REP pp p
 REP r rr
@@ -62,11 +68,11 @@ REP tt t
 REP ú ù
 REP v vv
 REP vv v
+REP z s
 REP z zz
 REP zi çi
-REP zz z
 REP zion çion
-REP nn- ñ
+REP zz z
 
 FLAG long
 
